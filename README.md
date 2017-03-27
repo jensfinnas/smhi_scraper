@@ -1,4 +1,4 @@
-
+```python
 api = SCB(version)
 
 api.parameters() # api.list()
@@ -32,7 +32,4 @@ station.latitude
 station.longitude
 
 parameter.query(station=["Abelvattnet"], period=["latest-hour"])
-
-# Frågor:
-
-- Hur hantera variabler som ska vara tillgängliga globalt (t.ex. en BASE_URL)?
+```
