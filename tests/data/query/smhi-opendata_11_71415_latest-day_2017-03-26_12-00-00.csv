@@ -1,0 +1,35 @@
+Stationsnamn;Klimatnummer;Mäthöjd (meter över marken);;;
+Göteborg Sol;71415;2.0;;;
+;;;;;
+Parameternamn;Beskrivning;Enhet;;;
+Global Irradians (svenska stationer);medelvärde 1 timme, 1 gång/tim;watt per square metre;;;
+;;;;;
+Tidsperiod (fr.o.m);Tidsperiod (t.o.m);Höjd (meter över havet);Latitud (decimalgrader);Longitud (decimalgrader);
+2008-01-01 00:00:00;2010-10-06 23:59:59;30.0;57.708;11.992;
+2010-10-07 00:00:00;2017-03-26 12:00:00;94.0;57.6879;11.9797;
+;;;;;
+Datum;Tid (UTC);Global Irradians (svenska stationer);Kvalitet;;Tidsutsnitt:
+2017-03-25;12:00:00;524.03;Y;;Data från senaste dygnet
+2017-03-25;13:00:00;492.19;Y;;Tidsperiod (fr.o.m.) = 2017-03-25 11:00:01 (UTC)
+2017-03-25;14:00:00;343.16;Y;;Tidsperiod (t.o.m.) = 2017-03-26 12:00:00 (UTC)
+2017-03-25;15:00:00;221.00;Y;;Samplingstid = 1 timme
+2017-03-25;16:00:00;174.70;Y;;
+2017-03-25;17:00:00;103.34;Y;;Kvalitetskoderna:
+2017-03-25;18:00:00;8.18;Y;;Grön (G) = Kontrollerade och godkända värden.
+2017-03-25;19:00:00;-0.10;Y;;Gul (Y) = Misstänkta eller aggregerade värden. Grovt kontrollerade arkivdata och okontrollerade realtidsdata (senaste 2 tim).
+2017-03-25;20:00:00;-0.21;Y;;
+2017-03-25;21:00:00;0.12;Y;;Orsaker till saknade data:
+2017-03-25;22:00:00;0.80;Y;;  stationen eller givaren har varit ur funktion.
+2017-03-25;23:00:00;0.27;Y;;  kvalitetskontrollerna har felmarkerat data (röd kvalitetskod). Efterföljande manuell granskning godkänner, rättar eller underkänner data.
+2017-03-26;00:00:00;0.33;Y;;
+2017-03-26;01:00:00;0.86;Y;;
+2017-03-26;02:00:00;0.74;Y;;
+2017-03-26;03:00:00;0.85;Y;;
+2017-03-26;04:00:00;1.54;Y;;
+2017-03-26;05:00:00;2.01;Y;;
+2017-03-26;06:00:00;11.78;Y;;
+2017-03-26;07:00:00;81.99;Y;;
+2017-03-26;08:00:00;281.42;Y;;
+2017-03-26;09:00:00;412.05;Y;;
+2017-03-26;10:00:00;485.01;Y;;
+2017-03-26;11:00:00;529.36;Y;;

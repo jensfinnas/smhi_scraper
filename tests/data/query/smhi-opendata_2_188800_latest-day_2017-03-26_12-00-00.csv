@@ -1,0 +1,22 @@
+Stationsnamn;Klimatnummer;Mäthöjd (meter över marken);;;;
+Abisko;188800;2.0;;;;
+;;;;;;
+Parameternamn;Beskrivning;Enhet;;;;
+Lufttemperatur;medelvärde 1 dygn, 1 gång/dygn, kl 00;degree celsius;;;;
+;;;;;;
+Tidsperiod (fr.o.m);Tidsperiod (t.o.m);Höjd (meter över havet);Latitud (decimalgrader);Longitud (decimalgrader);;
+1966-01-01 00:00:00;2017-03-26 12:00:00;388.0;68.3557;18.8206;;
+;;;;;;
+Från Datum Tid (UTC);Till Datum Tid (UTC);Representativt dygn;Lufttemperatur;Kvalitet;;Tidsutsnitt:
+;;;;;;Data från senaste dygnet
+;;;;;;Tidsperiod (fr.o.m.) = 2017-03-25 11:00:01 (UTC)
+;;;;;;Tidsperiod (t.o.m.) = 2017-03-26 12:00:00 (UTC)
+;;;;;;Medelvärdet är beräknat för = 24 timmar
+;;;;;;
+;;;;;;Kvalitetskoderna:
+;;;;;;Grön (G) = Kontrollerade och godkända värden.
+;;;;;;Gul (Y) = Misstänkta eller aggregerade värden. Grovt kontrollerade arkivdata och okontrollerade realtidsdata (senaste 2 tim).
+;;;;;;
+;;;;;;Orsaker till saknade data:
+;;;;;;  stationen eller givaren har varit ur funktion.
+;;;;;;  kvalitetskontrollerna har felmarkerat data (röd kvalitetskod). Efterföljande manuell granskning godkänner, rättar eller underkänner data.
