@@ -12,6 +12,9 @@ class Common(object):
 
 class Surfer(object):
     def list(self):
+        return self._list()
+
+    def _list(self):
         """ list a all entities
         """
         return []

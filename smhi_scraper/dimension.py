@@ -8,7 +8,7 @@ class Stations(Dimension):
         self._label = "Station"
         self.json = json_data
 
-    def list(self):
+    def _list(self):
         return [Station(x) for x in self.json]
 
     def stations(self):
@@ -21,7 +21,7 @@ class Periods(Dimension):
         self._id = "period"
         self._label = "Period"
 
-    def list(self):
+    def _list(self):
         return [
             Category("latest-hour"),
             Category("latest-day"),

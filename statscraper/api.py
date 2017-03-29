@@ -2,7 +2,7 @@
 from statscraper.common import Common, Surfer
 
 class Api(Common, Surfer):
-    def list(self):
+    def _list(self):
         raise NotImplementedError("This metod is required")
                 
 

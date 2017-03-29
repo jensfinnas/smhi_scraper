@@ -6,7 +6,7 @@ from smhi_scraper.common import Common
 
 
 class SMHI(Api, Common):
-    def list(self):
+    def _list(self):
         """Get a list of all dataset
         """
         url = self.base_url + "parameter.json"
@@ -14,6 +14,7 @@ class SMHI(Api, Common):
         datasets = [Dataset(x) for x in json_data["resource"]]
 
         return datasets
+
 
 
 

@@ -103,7 +103,7 @@ class Dataset(Dataset, Common):
         return data
 
     
-    def list(self):
+    def _list(self):
         """
         """
         return [
