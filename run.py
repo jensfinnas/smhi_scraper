@@ -3,24 +3,14 @@
 from smhi_scraper.api import SMHI
 from vantetider.api import Vantetider
 
+
+
 api = Vantetider()
+dataset = api.get("PrimarvardTelefon")
+res = dataset.query(select_region="Norrbotten",
+    select_year=["2016","2015"],
+    select_period=[u"Januari",u"Februari",u"Mars"])
 
-"""
-for dataset in api.list():
-    print dataset.id, dataset.label
-    for dim in dataset.list():
-        dim.list()
-"""
-
-#dataset = api.get("PrimarvardBesok")
-#for dataset in api.list():
-#    if dataset.id == "Aterbesok":
-#        continue
-
-dataset = api.get("Overbelaggning")
-for dataset in api.list():
-    for dim in dataset.list():
-        print "*****"
-        print dim.id
-        for cat in dim.list():
-            print "* ",cat.id, cat.label 
+df = res.to_dataframe(content="label")
+print df.head()
+import pdb;pdb.set_trace()

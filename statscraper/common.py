@@ -30,3 +30,53 @@ class Surfer(object):
 
         msg = u"'{}' is not a valid id or key".format(id_or_label)
         raise KeyError(msg)
+
+    @property
+    def log(self):
+        if not hasattr(self, "_logger"):
+            self._logger = PrintLogger() 
+        return self._logger
+
+class SilentLogger():
+    """ Empyt "fake" logger
+    """
+
+    def log(self, msg, *args, **kwargs):
+        pass
+
+    def debug(self, msg, *args, **kwargs):
+        pass
+
+    def info(self, msg, *args, **kwargs):
+        pass
+
+    def warning(self, msg, *args, **kwargs):
+        pass
+
+    def error(self, msg, *args, **kwargs):
+        pass
+
+    def critical(self, msg, *args, **kwargs):
+        pass
+
+class PrintLogger():
+    """ Empyt "fake" logger
+    """
+
+    def log(self, msg, *args, **kwargs):
+        print msg
+
+    def debug(self, msg, *args, **kwargs):
+        print msg
+
+    def info(self, msg, *args, **kwargs):
+        print msg
+
+    def warning(self, msg, *args, **kwargs):
+        print msg
+
+    def error(self, msg, *args, **kwargs):
+        print msg
+
+    def critical(self, msg, *args, **kwargs):
+        print msg

@@ -13,13 +13,19 @@ def test_complete_iteration():
         assert isinstance(dataset, Dataset)
         assert is_string(dataset.id)
 
-        try:
-            for dim in dataset.list():
-                assert isinstance(dim, Dimension)
-                assert dim.id is not None
-                for cat in dim.list():
-                    assert isinstance(cat, Category)
-                    assert cat.id is not None
+        for dim in dataset.list():
+            assert isinstance(dim, Dimension)
+            assert dim.id is not None
+            if dim.label is not None:
+                assert is_string(dim.label)
+
+            categories = dim.list()
+            if "checkbox" not in dim.id:
+                assert len(categories) > 0 
+
+            for cat in dim.list():
+                assert isinstance(cat, Category)
+                assert cat.id is not None, u", in {}".format(dim.id)
+                if cat.label is not None:
                     assert is_string(cat.label)
-        except NotImplementedError:
-            pass
+

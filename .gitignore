@@ -2,3 +2,6 @@ env
 *.pyc
 .cache
 .ipynb_checkpoints
+*.csv#
+
+*.csv#

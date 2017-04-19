@@ -28,6 +28,15 @@ class Common(Common):
 
         return r.content
 
+    def post_html(self, url, payload):
+        print "u/POST {} with {}".format(url, payload)
+        r = requests.post(url, payload)
+        if r.status_code != 200:
+            msg = u"Error posting to {}: ({})".format(url, r.status_code)
+            raise RequestException(msg)
+
+        return r.content
+
     def get_json(self, url):
         """ Get json from url
         """

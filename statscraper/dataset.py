@@ -21,7 +21,7 @@ class Dataset(Surfer):
         try:
             return self._label
         except AttributeError:
-            return None
+            return self.id
     
     @property
     def dimensions(self):
@@ -42,7 +42,7 @@ class Dataset(Surfer):
         """
         # TODO (?): Validate query
         data = self._query(**kwargs) # Returns a list of dicts (or similar)
-        resultset = ResultSet(data)
+        resultset = ResultSet(data, self)
         # TODO: Apply metadata from Dataset
         # TODO: Validate results
         return resultset

@@ -20,7 +20,7 @@ class Dimension(Surfer):
         try:
             return self._label
         except AttributeError:
-            return None
+            return self.id
 
     @property
     def categories(self):

@@ -7,6 +7,11 @@ import requests
 from bs4 import BeautifulSoup
 
 class Vantetider(Api, Common):
+    """
+        Begränsningar:
+        - Går inte in specifkt på operation/åtgärd (t.ex. http://www.vantetider.se/Kontaktkort/Dalarnas/SpecialiseradOperation/)
+        - Går inte in specifikt på vårdtyper
+    """
     def _list(self):
         html = self.get_html(self.base_url + "Sveriges")
         soup = BeautifulSoup(html, 'html.parser')
@@ -22,7 +27,11 @@ class Vantetider(Api, Common):
 
         datasets = []
         for i, id_ in enumerate(ids):
-            dataset = Dataset(id_)
+            try:
+                dataset = Dataset(id_)
+            except NotImplementedError:
+                # Don't list datasets that we haven't implemented yet
+                continue
             dataset.label = labels[i]
             datasets.append(dataset)
 

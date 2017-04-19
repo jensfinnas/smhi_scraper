@@ -21,5 +21,5 @@ class Category(Common):
         try:
             return self._label
         except AttributeError:
-            return None
+            return self.id
 
