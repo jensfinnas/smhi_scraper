@@ -58,7 +58,8 @@ class Dataset(Dataset, Common):
         return self.get("select_region").categories
 
 
-    def list(self):
+    @property
+    def items(self):
         """
         Primärvård:
         - #select_region => region (region/landsting)
@@ -68,8 +69,8 @@ class Dataset(Dataset, Common):
         Primärvård - Telefontillgänglighet:
         - phonesystem
         """
-        if self._dimensions is None:
-            self._dimensions = []
+        if self._items is None:
+            dimensions = {}
             dataset_id = self.id
             try:
                 form = [x for x in self.soup.find_all("form") 
@@ -85,7 +86,7 @@ class Dataset(Dataset, Common):
             for elem in select_elems:
                 dim_id = elem.get("name")
                 dim = Dimension(dim_id, self, element=elem)
-                self._dimensions.append(dim)
+                dimensions[dim_id] = dim
                         
             # 2. Get checkboxes (gender, ownership)
             checkbox_elems = [x for x in form.find_all("input", {"type": "checkbox"})]
@@ -93,7 +94,7 @@ class Dataset(Dataset, Common):
             for elem, label in zip(checkbox_elems, checkbox_labels):
                 dim_id = elem.get("name")
                 dim = Dimension(dim_id, self, label=label, element=elem)
-                self._dimensions.append(dim)
+                dimensions[dim_id] = dim
 
             # 3. Get radio buttons
             radio_elems = [x for x in form.find_all("input", {"type": "radio"})]
@@ -102,7 +103,7 @@ class Dataset(Dataset, Common):
             for dim_id in dim_ids:
                 elems = [x for x in radio_elems if x.get("name") == dim_id]
                 dim = Dimension(dim_id, self, element=elems)
-                self._dimensions.append(dim)
+                dimensions[dim_id] = dim
 
             # 4. Add measure and measure key 
             datatable = Datatable(self.html)
@@ -110,7 +111,10 @@ class Dataset(Dataset, Common):
             for measure in datatable.measures:
                 dim_measure.add_category(Category(measure))
 
-            self._dimensions += [ dim_measure ]
+
+            dimensions["measure"] = dim_measure
+
+            self._dimensions = dimensions
 
         return self._dimensions
 

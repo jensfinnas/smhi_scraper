@@ -1,8 +1,8 @@
 # encoding: utf-8
-from statscraper.common import Surfer
+from statscraper.common import Item
 from statscraper.resultset import ResultSet
 
-class Dataset(Surfer):
+class Dataset(Item):
     """Represents a dataset.
         The enrty point for queries and downloads.
     """

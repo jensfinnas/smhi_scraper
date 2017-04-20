@@ -10,32 +10,71 @@ class Common(object):
         return BASE_URL
 
 
-class Surfer(object):
-    def list(self):
-        return self._list()
+class Item(object):
+    """ Common methods and properties for Datasets,
+        Dimensions and Categories.
+        TODO: Come up with better name.
+    """
+    _items = None
+    _id = None
+    _label = None
 
-    def _list(self):
-        """ list a all entities
+    def __init__(self, id, label=None):
+        self._id = id
+        self._label = label 
+
+    @property
+    def id(self):
+        if self._id is None:
+            raise NotImplementedError("This item must have an id")
+        return self._id
+
+
+    @property
+    def label(self):
+        if self._label == None:
+            return self.id
+        else:
+            return self._label
+    
+    
+    @property
+    def items(self):
+        if self._items is None:
+            raise NotImplementedError("You must define an items property for every item")
+        return self._items
+    
+
+    def list(self):
+        """ Get a list of all items
         """
-        return []
+        return self.items.values()
+
 
     def get(self, id_or_label):
-        """ Get an enitity by id or label
+        """ Get a subitem by id or label
         """
-        for item in self.list():
-            if item.id == id_or_label:
-                return item
-            elif item.label == id_or_label:
-                return item
+        try:
+            return self.items[id_or_label]
+        except KeyError:
+            for item in self.list():
+                if item.label == id_or_label:
+                    return item
 
         msg = u"'{}' is not a valid id or key".format(id_or_label)
         raise KeyError(msg)
+
+    def add_item(self, id, item):
+        """ Add subitem
+        """
+        self._items[id] = item
 
     @property
     def log(self):
         if not hasattr(self, "_logger"):
             self._logger = PrintLogger() 
         return self._logger
+
 
 class SilentLogger():
     """ Empyt "fake" logger

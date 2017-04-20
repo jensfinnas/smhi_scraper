@@ -3,5 +3,4 @@ env
 .cache
 .ipynb_checkpoints
 *.csv#
-
-*.csv#
+*.sqlite

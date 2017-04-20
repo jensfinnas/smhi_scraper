@@ -18,7 +18,7 @@ class Dimension(Dimension, Common):
         self._label = label
         self.elem = element
         self._elem_type = None
-        self._categories = []
+        self._items = {}
         self._default_value = None
         # For storing data from ajax api
         self._has_queried_ajax_api = False
@@ -26,20 +26,25 @@ class Dimension(Dimension, Common):
             self._categories_from_html()
 
 
-    def list(self):
+    @property
+    def items(self):
         """
         """
-        if self.id in AJAX_API_ENDPOINTS[self.dataset.id]:
-            if not self._has_queried_ajax_api:
-                self._categories_from_ajax_api()
+        if self._items is None:
+            categories = {}
+            if self.id in AJAX_API_ENDPOINTS[self.dataset.id]:
+                if not self._has_queried_ajax_api:
+                    self._categories_from_ajax_api()
 
-        if self.id == "select_period":
-            self.log.info("Note that data for all periods may not be available for all regions. Eg. some landsting don't report monthly data, only spring/autumn.")
-        return self._categories
+            if self.id == "select_period":
+                self.log.info("Note that data for all periods may not be available for all regions. Eg. some landsting don't report monthly data, only spring/autumn.")
+            
+            self._items = categories
+
+        return self._items
 
     def add_category(self, cat):
-        if cat.id not in [x.id for x in self._categories]:
-            self._categories.append(cat)
+        self.items[cat.id] = cat
 
     @property
     def default_value(self):
@@ -121,9 +126,9 @@ class Dimension(Dimension, Common):
         else:
             raise ValueError("Unknown html element")
 
-        if len(self._categories) == 0:
+        if len(self.list()) == 0:
             import pdb;pdb.set_trace()
-        assert len(self._categories) > 0
+        assert len(self.list()) > 0
 
     def _categories_from_ajax_api(self):
         """ Fetches categories from ajax API based on settings
