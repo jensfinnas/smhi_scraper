@@ -1,0 +1,90 @@
+id,label,number_of_doctors,landsting_id,ownership,phonesystem,booking_type,unit_type,unit_type_number,code,_label
+3098,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",,51,Offentlig,,,Specialiserad vård,3,53014,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)"
+4442,"Capio Geriatrik, Nacka",,10,Privat,,,Patientsäkerhet,4,10601A,"Capio Geriatrik, Nacka"
+3102,Alingsås lasarett,,51,Offentlig,,,Specialiserad vård,3,52012,Alingsås lasarett
+4148,Carema Närsjukvård Simrishamn,,41,Privat,,,Specialiserad vård,3,28013x,Carema Närsjukvård Simrishamn
+3147,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",,51,Offentlig,,,Specialiserad vård,3,52015,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)"
+3148,Sahlgrenska Universitetssjukhuset,,51,Offentlig,,,Specialiserad vård,3,50000,Sahlgrenska Universitetssjukhuset
+4191,Hallands sjukhus (Halmstad/Varberg/Kungsbacka),,42,Offentlig,,,Patientsäkerhet,4,42020,Hallands sjukhus (Halmstad/Varberg/Kungsbacka)
+3183,Kungälvs sjukhus,,51,Offentlig,,,Specialiserad vård,3,51012,Kungälvs sjukhus
+2684,Södertälje sjukhus AB,,10,Offentlig,,,Specialiserad vård,3,11011,Södertälje sjukhus AB
+2700,"Karolinska universitetssjukhuset, Huddinge och Solna",,10,Offentlig,,,Specialiserad vård,3,10000,"Karolinska universitetssjukhuset, Huddinge och Solna"
+2701,Norrtälje sjukhus,,10,Offentlig,,,Specialiserad vård,3,11012,Norrtälje sjukhus
+4239,Nynäshamns Geriatrik - Legevisitten,,10,Privat,,,Patientsäkerhet,4,10608,Nynäshamns Geriatrik - Legevisitten
+4240,Huddingegeriatriken - Karolinska Universitetssjukhuset,,10,Offentlig,,,Patientsäkerhet,4,10605,Huddingegeriatriken - Karolinska Universitetssjukhuset
+4241,Löwetgeriatriken - Praktikertjänst N.Ä.R.A,,10,Privat,,,Patientsäkerhet,4,10606,Löwetgeriatriken - Praktikertjänst N.Ä.R.A
+4243,Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),,10,Offentlig,,,Patientsäkerhet,4,10611,Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO)
+4244,Capio Geriatrik - Dalens sjukhus,,10,Privat,,,Patientsäkerhet,4,10602,Capio Geriatrik - Dalens sjukhus
+4245,Brommageriatriken - Stiftelsen Stockholms sjukhem,,10,Privat,,,Patientsäkerhet,4,10619,Brommageriatriken - Stiftelsen Stockholms sjukhem
+4246,Danderydsgeriatriken - Danderyds sjuhkus (SLSO),,10,Offentlig,,,Patientsäkerhet,4,10610,Danderydsgeriatriken - Danderyds sjuhkus (SLSO)
+4249,Handengeriatriken - Praktikertjänst N.Ä.R.A,,10,Privat,,,Patientsäkerhet,4,10604,Handengeriatriken - Praktikertjänst N.Ä.R.A
+4250,Nackageriatriken - Aleris AB,,10,Privat,,,Patientsäkerhet,4,10601,Nackageriatriken - Aleris AB
+2717,"S:t Eriks ögonsjukhus, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10012,"S:t Eriks ögonsjukhus, Stockholm"
+2718,"Danderyds sjukhus AB, Stockholm",,10,Offentlig,,,Specialiserad vård,3,11010,"Danderyds sjukhus AB, Stockholm"
+2724,"Södersjukhuset, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10013,"Södersjukhuset, Stockholm"
+3263,"Södra Älvsborgs Sjukhus, Borås/Skene",,51,Offentlig,,,Specialiserad vård,3,52011,"Södra Älvsborgs Sjukhus, Borås/Skene"
+3272,Sjukhuset i Torsby,,54,Offentlig,,,Specialiserad vård,3,54014,Sjukhuset i Torsby
+3274,"Centralsjukhuset, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54010,"Centralsjukhuset, Karlstad"
+2770,"Capio S:t Görans sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10011,"Capio S:t Görans sjukhus, Stockholm"
+3286,Sjukhuset i Arvika,,54,Offentlig,,,Specialiserad vård,3,54012,Sjukhuset i Arvika
+3289,Karlskoga lasarett,,55,Offentlig,,,Specialiserad vård,3,55011,Karlskoga lasarett
+3290,Universitetssjukhuset i Örebro,,55,Offentlig,,,Specialiserad vård,3,55010,Universitetssjukhuset i Örebro
+3293,Lindesbergs lasarett,,55,Offentlig,,,Specialiserad vård,3,55012,Lindesbergs lasarett
+3296,Västmanlands sjukhus Köping,,56,Offentlig,,,Specialiserad vård,3,56012,Västmanlands sjukhus Köping
+3304,Västmanlands sjukhus Västerås,,56,Offentlig,,,Specialiserad vård,3,56010,Västmanlands sjukhus Västerås
+3315,Västmanlands sjukhus Sala,,56,Offentlig,,,Specialiserad vård,3,56011,Västmanlands sjukhus Sala
+3318,Falu lasarett,,57,Offentlig,,,Specialiserad vård,3,57010,Falu lasarett
+3319,Avesta lasarett,,57,Offentlig,,,Specialiserad vård,3,57013,Avesta lasarett
+3320,Borlänge sjukhus,,57,Offentlig,,,Specialiserad vård,3,57316,Borlänge sjukhus
+3328,Mora lasarett,,57,Offentlig,,,Specialiserad vård,3,57011,Mora lasarett
+3329,Ludvika lasarett,,57,Offentlig,,,Specialiserad vård,3,57012,Ludvika lasarett
+4358,"Närsjukhuset Simrishamn, Praktikertjänst",,41,Privat,,,Specialiserad vård,3,28013A,"Närsjukhuset Simrishamn, Praktikertjänst"
+2825,"Ersta sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10481,"Ersta sjukhus, Stockholm"
+3339,Gävle sjukhus,,61,Offentlig,,,Specialiserad vård,3,61010,Gävle sjukhus
+2841,Lasarettet i Enköping,,12,Offentlig,,,Specialiserad vård,3,12010,Lasarettet i Enköping
+3356,Hudiksvalls sjukhus,,61,Offentlig,,,Specialiserad vård,3,61012,Hudiksvalls sjukhus
+3358,Bollnäs sjukhus,,61,Offentlig,,,Specialiserad vård,3,61011,Bollnäs sjukhus
+3360,Sollefteå sjukhus,,62,Offentlig,,,Specialiserad vård,3,62013,Sollefteå sjukhus
+3362,Länssjukhuset Sundsvall-Härnösand,,62,Offentlig,,,Specialiserad vård,3,62010,Länssjukhuset Sundsvall-Härnösand
+3363,Örnsköldsviks sjukhus,,62,Offentlig,,,Specialiserad vård,3,62011,Örnsköldsviks sjukhus
+3370,Östersunds sjukhus,,63,Offentlig,,,Specialiserad vård,3,63010,Östersunds sjukhus
+3372,"Norrlands Universitetssjukhus, Umeå",,64,Offentlig,,,Specialiserad vård,3,64001,"Norrlands Universitetssjukhus, Umeå"
+3373,Lycksele lasarett,,64,Offentlig,,,Specialiserad vård,3,64011,Lycksele lasarett
+3377,Skellefteå lasarett,,64,Offentlig,,,Specialiserad vård,3,64010,Skellefteå lasarett
+3379,Piteå sjukhus,,65,Offentlig,,,Specialiserad vård,3,65013,Piteå sjukhus
+3380,Gällivare sjukhus,,65,Offentlig,,,Specialiserad vård,3,65012,Gällivare sjukhus
+3381,Kiruna sjukhus,,65,Offentlig,,,Specialiserad vård,3,65015,Kiruna sjukhus
+3382,Sunderby sjukhus,,65,Offentlig,,,Specialiserad vård,3,65016,Sunderby sjukhus
+3383,Kalix sjukhus,,65,Offentlig,,,Specialiserad vård,3,65014,Kalix sjukhus
+2877,"Akademiska sjukhuset, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12001,"Akademiska sjukhuset, Uppsala"
+2886,Nyköpings lasarett,,13,Offentlig,,,Specialiserad vård,3,13011,Nyköpings lasarett
+2887,"Mälarsjukhuset, Eskilstuna",,13,Offentlig,,,Specialiserad vård,3,13010,"Mälarsjukhuset, Eskilstuna"
+2889,"Kullbergska sjukhuset, Katrineholm",,13,Offentlig,,,Specialiserad vård,3,13012,"Kullbergska sjukhuset, Katrineholm"
+2892,Lasarettet i Motala,,21,Offentlig,,,Specialiserad vård,3,21014,Lasarettet i Motala
+2894,Vrinnevisjukhuset i Norrköping,,21,Offentlig,,,Specialiserad vård,3,21013,Vrinnevisjukhuset i Norrköping
+4237,Södertäljegeriatriken - Södertälje sjukhus,,10,Offentlig,,,Patientsäkerhet,4,10620,Södertäljegeriatriken - Södertälje sjukhus
+2900,Hälso- och sjukvården i Finspång,,21,Offentlig,,,Specialiserad vård,3,21011,Hälso- och sjukvården i Finspång
+2901,"Länssjukhuset Ryhov, Jönköping",,22,Offentlig,,,Specialiserad vård,3,22010,"Länssjukhuset Ryhov, Jönköping"
+2906,Värnamo sjukhus,,22,Offentlig,,,Specialiserad vård,3,22012,Värnamo sjukhus
+2911,"Höglandssjukhuset, Eksjö-Nässjö",,22,Offentlig,,,Specialiserad vård,3,22011,"Höglandssjukhuset, Eksjö-Nässjö"
+2912,Ljungby lasarett,,23,Offentlig,,,Specialiserad vård,3,23011,Ljungby lasarett
+2914,Centrallasarettet Växjö,,23,Offentlig,,,Specialiserad vård,3,23010,Centrallasarettet Växjö
+2918,Oskarshamns sjukhus,,24,Offentlig,,,Specialiserad vård,3,25011,Oskarshamns sjukhus
+2920,Västerviks sjukhus,,24,Offentlig,,,Specialiserad vård,3,24010,Västerviks sjukhus
+2923,Länssjukhuset i Kalmar,,24,Offentlig,,,Specialiserad vård,3,25010,Länssjukhuset i Kalmar
+2929,Visby lasarett,,26,Offentlig,,,Specialiserad vård,3,26010,Visby lasarett
+2944,"Blekingesjukhuset, Karlshamn och Karlskrona",,27,Offentlig,,,Specialiserad vård,3,27012,"Blekingesjukhuset, Karlshamn och Karlskrona"
+2947,Lasarettet Trelleborg,,41,Offentlig,,,Specialiserad vård,3,41011,Lasarettet Trelleborg
+2948,Ängelholms sjukhus,,41,Offentlig,,,Specialiserad vård,3,28011,Ängelholms sjukhus
+2951,Capio Sjukhuset Simrishamn,,41,Privat,,,Specialiserad vård,3,28013,Capio Sjukhuset Simrishamn
+2964,Helsingborgs lasarett,,41,Offentlig,,,Specialiserad vård,3,41012,Helsingborgs lasarett
+2982,Lasarettet i Landskrona,,41,Offentlig,,,Specialiserad vård,3,41010,Lasarettet i Landskrona
+4253,Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),,10,Offentlig,,,Patientsäkerhet,4,10618,Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO)
+3000,Centralsjukhuset Kristianstad,,41,Offentlig,,,Specialiserad vård,3,28010,Centralsjukhuset Kristianstad
+3005,Sjukhuset i Hässleholm,,41,Offentlig,,,Specialiserad vård,3,28012,Sjukhuset i Hässleholm
+3027,Lasarettet i Ystad,,41,Offentlig,,,Specialiserad vård,3,41013,Lasarettet i Ystad
+3030,"Skånes Universitetssjukhus, Lund och Malmö",,41,Offentlig,,,Specialiserad vård,3,41001A,"Skånes Universitetssjukhus, Lund och Malmö"
+2895,Universitetssjukhuset i Linköping,,21,Offentlig,,,Specialiserad vård,3,21001,Universitetssjukhuset i Linköping
+3064,Hallands sjukhus Varberg,,42,Offentlig,,,Specialiserad vård,3,42011,Hallands sjukhus Varberg
+3065,Hallands sjukhus Halmstad,,42,Offentlig,,,Specialiserad vård,3,42010,Hallands sjukhus Halmstad
+3069,Hallands sjukhus Kungsbacka,,42,Offentlig,,,Specialiserad vård,3,42301,Hallands sjukhus Kungsbacka

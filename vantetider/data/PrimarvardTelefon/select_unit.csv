@@ -1,0 +1,1419 @@
+id,label,number_of_doctors,landsting_id,ownership,phonesystem,booking_type,unit_type,unit_type_number,code,_label
+1920,Liljeholmens vårdcentral,,10,Offentlig,,,Primärvård,2,,Liljeholmens vårdcentral
+1921,Liljeholmskajens vårdcentral,,10,Privat,,,Primärvård,2,,Liljeholmskajens vårdcentral
+1922,Helsa Vårdcentral Vallentuna,,10,Privat,,,Primärvård,2,,Helsa Vårdcentral Vallentuna
+1923,Husläkarmottagningen Johannes,,10,Offentlig,,,Primärvård,2,,Husläkarmottagningen Johannes
+1924,Tallhöjdens vårdcentral,,10,Offentlig,,,Primärvård,2,,Tallhöjdens vårdcentral
+1925,Telgeakuten husläkarmottagning,,10,Privat,,,Primärvård,2,,Telgeakuten husläkarmottagning
+1926,Märsta Närvård,,10,Privat,,,Primärvård,2,,Märsta Närvård
+1927,Kvartersakuten Mörby Centrum,,10,Privat,,,Primärvård,2,,Kvartersakuten Mörby Centrum
+1928,Tensta vårdcentral,,10,Offentlig,,,Primärvård,2,,Tensta vårdcentral
+1929,Rissne vårdcentral,,10,Offentlig,,,Primärvård,2,,Rissne vårdcentral
+1930,Carema Vårdcentral Väsby,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Väsby
+1931,Helsa Vårdcentral Hornstull,,10,Privat,,,Primärvård,2,,Helsa Vårdcentral Hornstull
+1932,Handens vårdcentral,,10,Offentlig,,,Primärvård,2,,Handens vårdcentral
+1933,Sickla Hälsocenter,,10,Privat,,,Primärvård,2,,Sickla Hälsocenter
+1934,Rinkeby vårdcentral,,10,Offentlig,,,Primärvård,2,,Rinkeby vårdcentral
+1935,Capio vårdcentral Solna,,10,Privat,,,Primärvård,2,,Capio vårdcentral Solna
+1936,Vården i Centrum,,10,Privat,,,Primärvård,2,,Vården i Centrum
+1937,Huddinge vårdcentral,,10,Offentlig,,,Primärvård,2,,Huddinge vårdcentral
+1938,Vårdcentralen i Skarpnäck,,10,Privat,,,Primärvård,2,,Vårdcentralen i Skarpnäck
+1939,Engelbrektskliniken Husläkarmottagning,,10,Privat,,,Primärvård,2,,Engelbrektskliniken Husläkarmottagning
+1940,Vårbergs vårdcentral,,10,Privat,,,Primärvård,2,,Vårbergs vårdcentral
+1941,Kvartersakuten Serafen,,10,Privat,,,Primärvård,2,,Kvartersakuten Serafen
+1942,Stuvsta vårdcentral,,10,Offentlig,,,Primärvård,2,,Stuvsta vårdcentral
+1943,Tumba vårdcentral,,10,Offentlig,,,Primärvård,2,,Tumba vårdcentral
+1944,Capio Vårdcentral Högdalen,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Högdalen
+1945,Rotebro vårdcentral,,10,Offentlig,,,Primärvård,2,,Rotebro vårdcentral
+1946,"Ronna vårdcentral, Södertälje",,10,Privat,,,Primärvård,2,,"Ronna vårdcentral, Södertälje"
+1947,Nya Järva vårdmottagning,,10,Privat,,,Primärvård,2,,Nya Järva vårdmottagning
+1948,Curera Farsta Husläkarmottagning,,10,Privat,,,Primärvård,2,,Curera Farsta Husläkarmottagning
+1949,Solna centrums vårdcentral,,10,Offentlig,,,Primärvård,2,,Solna centrums vårdcentral
+1950,Aleris Vårdcentral Stureplan,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Stureplan
+1951,Aleris Vårdcentral Järva,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Järva
+1952,Capio Vårdcentral Gubbängen,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Gubbängen
+1953,Aleris Vårdcentral Järna,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Järna
+1954,Sätra vårdcentral,,10,Offentlig,,,Primärvård,2,,Sätra vårdcentral
+1955,Husläkarna i Margretelund,,10,Privat,,,Primärvård,2,,Husläkarna i Margretelund
+1956,Sibyllekliniken Husläkarmottagning,,10,Privat,,,Primärvård,2,,Sibyllekliniken Husläkarmottagning
+1957,"Husläkarmottagning Bryggargatan, Nynäshamn",,10,Privat,,,Primärvård,2,,"Husläkarmottagning Bryggargatan, Nynäshamn"
+1958,Ekerö vårdcentral,,10,Privat,,,Primärvård,2,,Ekerö vårdcentral
+1959,Råcksta Vällingby Närvårdsmottagning,,10,Privat,,,Primärvård,2,,Råcksta Vällingby Närvårdsmottagning
+1960,Bollmora vårdcentral,,10,Offentlig,,,Primärvård,2,,Bollmora vårdcentral
+1961,Mottagningen Sjöstaden Barnängsgatan,,10,Privat,,,Primärvård,2,,Mottagningen Sjöstaden Barnängsgatan
+1962,Flemingsbergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Flemingsbergs vårdcentral
+1963,Hälsocentralen Akka,,10,Privat,,,Primärvård,2,,Hälsocentralen Akka
+1964,Attundahälsan Familjeläkare,,10,Privat,,,Primärvård,2,,Attundahälsan Familjeläkare
+1965,Djurö vårdcentral,,10,Offentlig,,,Primärvård,2,,Djurö vårdcentral
+1966,Stocksunds vårdcentral,,10,Offentlig,,,Primärvård,2,,Stocksunds vårdcentral
+1967,Beckomberga vårdcentral,,10,Privat,,,Primärvård,2,,Beckomberga vårdcentral
+1968,Carema Vårdcentralen Slussen,,10,Privat,,,Primärvård,2,,Carema Vårdcentralen Slussen
+1969,Carema Vårdcentral Wasa,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Wasa
+1970,Aleris Vårdcentral Björkhagen,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Björkhagen
+1971,Björnstigens vårdcentral,,10,Offentlig,,,Primärvård,2,,Björnstigens vårdcentral
+1972,DoktorTeam,,10,Privat,,,Primärvård,2,,DoktorTeam
+1973,Djursholms husläkarmottagning,,10,Offentlig,,,Primärvård,2,,Djursholms husläkarmottagning
+1974,Norrvikens vårdcentral,,10,Offentlig,,,Primärvård,2,,Norrvikens vårdcentral
+1975,Äppelvikens läkarmottagning,,10,Privat,,,Primärvård,2,,Äppelvikens läkarmottagning
+1976,Capio Vårdcentral Farsta,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Farsta
+1977,Familjeläkargruppen Odenplan,,10,Privat,,,Primärvård,2,,Familjeläkargruppen Odenplan
+1978,Tullinge vårdcentral,,10,Offentlig,,,Primärvård,2,,Tullinge vårdcentral
+1979,Feelgood vårdcentral Grevturegatan,,10,Privat,,,Primärvård,2,,Feelgood vårdcentral Grevturegatan
+1980,Torsviks Vårdcentral,,10,Offentlig,,,Primärvård,2,,Torsviks Vårdcentral
+1981,Husby vårdcentral,,10,Offentlig,,,Primärvård,2,,Husby vårdcentral
+1982,Sjöstadsdoktorn,,10,Privat,,,Primärvård,2,,Sjöstadsdoktorn
+1983,Munsö husläkarmottagning,,10,Privat,,,Primärvård,2,,Munsö husläkarmottagning
+1984,Capio Vårdcentral Gullmarsplan,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Gullmarsplan
+1985,Rosenlunds vårdcentral,,10,Privat,,,Primärvård,2,,Rosenlunds vårdcentral
+1986,Väsby Läkargrupp Husläkarmottagning,,10,Privat,,,Primärvård,2,,Väsby Läkargrupp Husläkarmottagning
+1987,"Husläkarmottagning, Stiftelsen Stockholms sjukhem",,10,Privat,,,Primärvård,2,,"Husläkarmottagning, Stiftelsen Stockholms sjukhem"
+1988,Capio Husläkarmottagningen Serafen,,10,Privat,,,Primärvård,2,,Capio Husläkarmottagningen Serafen
+1989,Capio Vårdcentral Viksjö,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Viksjö
+1990,Capio Vårdcentral Bro,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Bro
+1991,Bredängs vårdcentral,,10,Offentlig,,,Primärvård,2,,Bredängs vårdcentral
+1992,Carema Vårdcentral Rågsved,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Rågsved
+1993,Brommaplans vårdcentral,,10,Offentlig,,,Primärvård,2,,Brommaplans vårdcentral
+1994,Hammarby Sjöstads Husläkare,,10,Privat,,,Primärvård,2,,Hammarby Sjöstads Husläkare
+1995,SinusRytm Vårdcentral Märsta,,10,Privat,,,Primärvård,2,,SinusRytm Vårdcentral Märsta
+1996,Hagalund Frösunda vårdcentral,,10,Offentlig,,,Primärvård,2,,Hagalund Frösunda vårdcentral
+1997,Sköndals Husläkarmottagning,,10,Privat,,,Primärvård,2,,Sköndals Husläkarmottagning
+1998,Nykvarns Vårdcentral,,10,Offentlig,,,Primärvård,2,,Nykvarns Vårdcentral
+1999,Täby Kyrkby Husläkarmottagning,,10,Privat,,,Primärvård,2,,Täby Kyrkby Husläkarmottagning
+2000,Nynäshamns vårdcentral,,10,Privat,,,Primärvård,2,,Nynäshamns vårdcentral
+2001,Vårby vårdcentral,,10,Offentlig,,,Primärvård,2,,Vårby vårdcentral
+2002,Aleris Vårdcentral Tyresö,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Tyresö
+2004,Bergshamra Husläkarmottagning Tiohundra,,10,Offentlig,,,Primärvård,2,,Bergshamra Husläkarmottagning Tiohundra
+2005,Söderdoktorn,,10,Privat,,,Primärvård,2,,Söderdoktorn
+2006,Dalens vårdcentral,,10,Privat,,,Primärvård,2,,Dalens vårdcentral
+2007,Banérgatans husläkarmottagning,,10,Privat,,,Primärvård,2,,Banérgatans husläkarmottagning
+2008,Arkadens Läkarmottagning,,10,Privat,,,Primärvård,2,,Arkadens Läkarmottagning
+2009,Fisksätra vårdcentral,,10,Offentlig,,,Primärvård,2,,Fisksätra vårdcentral
+2010,Blackeberg vårdcentral,,10,Privat,,,Primärvård,2,,Blackeberg vårdcentral
+2011,Capio Vårdcentral Vårberg,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Vårberg
+2012,Husläkarmottagning Väddö,,10,Offentlig,,,Primärvård,2,,Husläkarmottagning Väddö
+2013,Carema Vårdcentral Vårberg,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Vårberg
+2014,Husby Akalla Vårdcentral,,10,Offentlig,,,Primärvård,2,,Husby Akalla Vårdcentral
+2015,Täby Centrum Doktorn,,10,Privat,,,Primärvård,2,,Täby Centrum Doktorn
+2016,Spånga vårdcentral,,10,Offentlig,,,Primärvård,2,,Spånga vårdcentral
+2017,Din Doktor Märsta,,10,Privat,,,Primärvård,2,,Din Doktor Märsta
+2018,Lisebergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Lisebergs vårdcentral
+2019,Råsunda vårdcentral,,10,Offentlig,,,Primärvård,2,,Råsunda vårdcentral
+2020,Hallunda vårdcentral,,10,Offentlig,,,Primärvård,2,,Hallunda vårdcentral
+2021,Västervården Husläkarmottagning,,10,Privat,,,Primärvård,2,,Västervården Husläkarmottagning
+2022,Capio Lidingö Vårdcentral,,10,Privat,,,Primärvård,2,,Capio Lidingö Vårdcentral
+2023,LidingöDoktorn,,10,Privat,,,Primärvård,2,,LidingöDoktorn
+2024,Sigtuna Läkarhus,,10,Offentlig,,,Primärvård,2,,Sigtuna Läkarhus
+2025,Doktor Kom Hem,,10,Privat,,,Primärvård,2,,Doktor Kom Hem
+2026,Sigtuna Vårdcentral,,10,Privat,,,Primärvård,2,,Sigtuna Vårdcentral
+2027,Capio Vårdcentral Wasa,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Wasa
+2028,Järna vårdcentral,,10,Offentlig,,,Primärvård,2,,Järna vårdcentral
+2029,Vallentuna Husläkargrupp,,10,Privat,,,Primärvård,2,,Vallentuna Husläkargrupp
+2030,Hallonbergens vårdcentral,,10,Offentlig,,,Primärvård,2,,Hallonbergens vårdcentral
+2031,Edsbergs vårdcentral,,10,Privat,,,Primärvård,2,,Edsbergs vårdcentral
+2032,Turebergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Turebergs vårdcentral
+2033,Hjorthagens vårdcentral,,10,Offentlig,,,Primärvård,2,,Hjorthagens vårdcentral
+2034,BrommaAkuten - Vårdcentral,,10,Privat,,,Primärvård,2,,BrommaAkuten - Vårdcentral
+2035,Hötorgets läkarpraktik,,10,Privat,,,Primärvård,2,,Hötorgets läkarpraktik
+2036,Aleris Vårdcentral Nykvarn,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Nykvarn
+2037,Ormängens vårdcentral,,10,Privat,,,Primärvård,2,,Ormängens vårdcentral
+2038,Boo vårdcentral,,10,Offentlig,,,Primärvård,2,,Boo vårdcentral
+2039,Saltsjöbadens vårdcentral,,10,Offentlig,,,Primärvård,2,,Saltsjöbadens vårdcentral
+2040,Stuvsta Vårdcentral,,10,Privat,,,Primärvård,2,,Stuvsta Vårdcentral
+2041,Huvudsta Vårdcentral,,10,Privat,,,Primärvård,2,,Huvudsta Vårdcentral
+2042,"Vårdcentralen Badhotellet, Södertälje",,10,Privat,,,Primärvård,2,,"Vårdcentralen Badhotellet, Södertälje"
+2043,Veritas vårdcentral Ekerö,,10,Privat,,,Primärvård,2,,Veritas vårdcentral Ekerö
+2044,Familjeläkarna i City,,10,Privat,,,Primärvård,2,,Familjeläkarna i City
+2045,Gustavsbergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Gustavsbergs vårdcentral
+2046,Salems vårdcentral,,10,Offentlig,,,Primärvård,2,,Salems vårdcentral
+2047,Kvartersakuten Matteus,,10,Privat,,,Primärvård,2,,Kvartersakuten Matteus
+2048,Capio Vårdcentral Södermalm,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Södermalm
+2049,NynäsAkuten,,10,Privat,,,Primärvård,2,,NynäsAkuten
+2050,Carema Vårdcentral Lina Hage,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Lina Hage
+2051,Vibblaby Husläkarmottagning,,10,Privat,,,Primärvård,2,,Vibblaby Husläkarmottagning
+2052,Märsta Läkarhus,,10,Privat,,,Primärvård,2,,Märsta Läkarhus
+2053,Husläkarna Rimbo-Edsbro,,10,Privat,,,Primärvård,2,,Husläkarna Rimbo-Edsbro
+2054,Östra vårdcentralen,,10,Privat,,,Primärvård,2,,Östra vårdcentralen
+2055,Lill-Jans husläkarmottagning,,10,Privat,,,Primärvård,2,,Lill-Jans husläkarmottagning
+2056,Capio Vårdcentral Skogås,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Skogås
+2057,Österåkersdoktorn,,10,Privat,,,Primärvård,2,,Österåkersdoktorn
+2058,Barkarby vårdcentral,,10,Offentlig,,,Primärvård,2,,Barkarby vårdcentral
+2059,Efoel husläkarmottagning,,10,Privat,,,Primärvård,2,,Efoel husläkarmottagning
+2060,Stureby vårdcentral,,10,Privat,,,Primärvård,2,,Stureby vårdcentral
+2061,Bergshamra Ulriksdal Vårdcentral,,10,Offentlig,,,Primärvård,2,,Bergshamra Ulriksdal Vårdcentral
+2062,Vendelsö vårdcentral,,10,Offentlig,,,Primärvård,2,,Vendelsö vårdcentral
+2063,Husläkarmottagning Hallstavik,,10,Offentlig,,,Primärvård,2,,Husläkarmottagning Hallstavik
+2064,Abrahamsbergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Abrahamsbergs vårdcentral
+2066,Vidar vårdcentral,,10,Privat,,,Primärvård,2,,Vidar vårdcentral
+2067,Kista vårdcentral,,10,Offentlig,,,Primärvård,2,,Kista vårdcentral
+2068,Carema Vårdcentral Södermalm,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Södermalm
+2069,Fridhemsplans Vårdcentral,,10,Privat,,,Primärvård,2,,Fridhemsplans Vårdcentral
+2070,Din vårdcentral Bagarmossen,,10,Privat,,,Primärvård,2,,Din vårdcentral Bagarmossen
+2071,Forums vårdcentral,,10,Offentlig,,,Primärvård,2,,Forums vårdcentral
+2072,S:t Eriks vårdcentral,,10,Privat,,,Primärvård,2,,S:t Eriks vårdcentral
+2073,Tveta hälsocentral,,10,Privat,,,Primärvård,2,,Tveta hälsocentral
+2074,Husläkarmottagning Norrtälje Södra,,10,Offentlig,,,Primärvård,2,,Husläkarmottagning Norrtälje Södra
+2075,Västra skogens vårdcentral,,10,Offentlig,,,Primärvård,2,,Västra skogens vårdcentral
+2076,Brandbergens vårdcentral,,10,Offentlig,,,Primärvård,2,,Brandbergens vårdcentral
+2077,Capio Vårdcentral Väsby,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Väsby
+2078,Carema Vårdcentral Farsta,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Farsta
+2079,Jordbro vårdcentral,,10,Offentlig,,,Primärvård,2,,Jordbro vårdcentral
+2080,Capio Vårdcentral Lina Hage,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Lina Hage
+2081,Husläkarmottagningen Korallen,,10,Offentlig,,,Primärvård,2,,Husläkarmottagningen Korallen
+2082,Telefonplans Husläkare,,10,Privat,,,Primärvård,2,,Telefonplans Husläkare
+2083,Ektorps vårdcentral,,10,Offentlig,,,Primärvård,2,,Ektorps vårdcentral
+2084,Familjeläkarna i Husby,,10,Privat,,,Primärvård,2,,Familjeläkarna i Husby
+2085,Tibra Medica husläkarmottagning,,10,Privat,,,Primärvård,2,,Tibra Medica husläkarmottagning
+2086,Älvsjö vårdcentral,,10,Offentlig,,,Primärvård,2,,Älvsjö vårdcentral
+2087,Axelsbergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Axelsbergs vårdcentral
+2088,Helsa vårdcentral Älta,,10,Privat,,,Primärvård,2,,Helsa vårdcentral Älta
+2089,Veritas vårdcentral Upplands Väsby,,10,Privat,,,Primärvård,2,,Veritas vårdcentral Upplands Väsby
+2090,Scania Hälsocenter,,10,Privat,,,Primärvård,2,,Scania Hälsocenter
+2091,Jakobsbergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Jakobsbergs vårdcentral
+2092,Gärdets vårdcentral,,10,Offentlig,,,Primärvård,2,,Gärdets vårdcentral
+2093,"Capio Stadshusdoktorn, Lidingö",,10,Privat,,,Primärvård,2,,"Capio Stadshusdoktorn, Lidingö"
+2094,Ösmo VårdCentral,,10,Privat,,,Primärvård,2,,Ösmo VårdCentral
+2095,Aleris Vårdcentral Tungelstahälsan,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Tungelstahälsan
+2096,Capio Vårdcentral Rågsved,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Rågsved
+2097,Luna vårdcentral,,10,Offentlig,,,Primärvård,2,,Luna vårdcentral
+2098,Sophiahemmet Husläkarmottagningen,,10,Privat,,,Primärvård,2,,Sophiahemmet Husläkarmottagningen
+2099,Familjeläkarna i Saltsjöbaden,,10,Privat,,,Primärvård,2,,Familjeläkarna i Saltsjöbaden
+2100,Carema Vårdcentral Gubbängen,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Gubbängen
+2101,Mörby vårdcentral,,10,Offentlig,,,Primärvård,2,,Mörby vårdcentral
+2103,Trollbäckens vårdcentral,,10,Offentlig,,,Primärvård,2,,Trollbäckens vårdcentral
+2104,Vaxholms vårdcentral,,10,Privat,,,Primärvård,2,,Vaxholms vårdcentral
+2105,Ulriksdals vårdcentral,,10,Offentlig,,,Primärvård,2,,Ulriksdals vårdcentral
+2106,Aleris Vallatorpsdoktorn,,10,Privat,,,Primärvård,2,,Aleris Vallatorpsdoktorn
+2107,Åsö Vårdcentral,,10,Privat,,,Primärvård,2,,Åsö Vårdcentral
+2108,Husläkarmottagning Norrtälje Norra,,10,Offentlig,,,Primärvård,2,,Husläkarmottagning Norrtälje Norra
+2109,Kvartersakuten Tegnérgatan,,10,Privat,,,Primärvård,2,,Kvartersakuten Tegnérgatan
+2110,Carema Vårdcentral Skogås,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Skogås
+2111,Fruängens vårdcentral,,10,Privat,,,Primärvård,2,,Fruängens vårdcentral
+2112,Carema Vårdcentral Viksjö,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Viksjö
+2113,Familjeläkarmottagningen i Järfälla,,10,Privat,,,Primärvård,2,,Familjeläkarmottagningen i Järfälla
+2114,Hässelby vårdcentral,,10,Offentlig,,,Primärvård,2,,Hässelby vårdcentral
+2115,Djursholms Doktorn,,10,Privat,,,Primärvård,2,,Djursholms Doktorn
+2116,Capio Vårdcentral Östermalm,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Östermalm
+2117,Storvretens vårdcentral,,10,Privat,,,Primärvård,2,,Storvretens vårdcentral
+2118,Tranebergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Tranebergs vårdcentral
+2119,Valsta vårdcentral,,10,Offentlig,,,Primärvård,2,,Valsta vårdcentral
+2120,Aleris Husläkarmottagning i Täby centrum,,10,Privat,,,Primärvård,2,,Aleris Husläkarmottagning i Täby centrum
+2121,Täby vårdcentral,,10,Offentlig,,,Primärvård,2,,Täby vårdcentral
+2122,Akalla vårdcentral,,10,Offentlig,,,Primärvård,2,,Akalla vårdcentral
+2123,Kungsholmsdoktorn,,10,Privat,,,Primärvård,2,,Kungsholmsdoktorn
+2124,Fittja vårdcentral,,10,Offentlig,,,Primärvård,2,,Fittja vårdcentral
+2125,Alby vårdcentral,,10,Offentlig,,,Primärvård,2,,Alby vårdcentral
+2126,Kallhälls Nya Vårdcentral,,10,Privat,,,Primärvård,2,,Kallhälls Nya Vårdcentral
+2127,Åkermyntans vårdcentral,,10,Privat,,,Primärvård,2,,Åkermyntans vårdcentral
+2128,Quality Care Östermalm,,10,Privat,,,Primärvård,2,,Quality Care Östermalm
+2129,"Kringlans Vårdcentrum, Södertälje",,10,Privat,,,Primärvård,2,,"Kringlans Vårdcentrum, Södertälje"
+2130,Kvartersakuten Surbrunn,,10,Offentlig,,,Primärvård,2,,Kvartersakuten Surbrunn
+2131,Stenhamra Hälsocentral,,10,Privat,,,Primärvård,2,,Stenhamra Hälsocentral
+2132,Aleris Vårdcentral Danvik,,10,Privat,,,Primärvård,2,,Aleris Vårdcentral Danvik
+2133,Arlanda Sky Clinic,,10,Privat,,,Primärvård,2,,Arlanda Sky Clinic
+2134,"To Care Husläkarmottagning, Sibyllegatan",,10,Privat,,,Primärvård,2,,"To Care Husläkarmottagning, Sibyllegatan"
+2135,Carema Vårdcentral Gullmarsplan,,10,Privat,,,Primärvård,2,,Carema Vårdcentral Gullmarsplan
+2136,Dalarö vårdcentral,,10,Offentlig,,,Primärvård,2,,Dalarö vårdcentral
+2137,Fem Husläkare,,10,Privat,,,Primärvård,2,,Fem Husläkare
+2138,Aleris Husläkarmottagning Näsby Park,,10,Privat,,,Primärvård,2,,Aleris Husläkarmottagning Näsby Park
+2139,Vallentuna Doktorn AB,,10,Privat,,,Primärvård,2,,Vallentuna Doktorn AB
+2140,Capio Vårdcentral Ringen,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Ringen
+2141,Livero Läkarmottagning,,10,Privat,,,Primärvård,2,,Livero Läkarmottagning
+2142,Enebybergs vårdcentral,,10,Offentlig,,,Primärvård,2,,Enebybergs vårdcentral
+2143,Kungsängens Vårdcentral,,10,Offentlig,,,Primärvård,2,,Kungsängens Vårdcentral
+2144,Essinge Vårdcentral,,10,Offentlig,,,Primärvård,2,,Essinge Vårdcentral
+2145,Capio Vårdcentral Årsta,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Årsta
+2146,Fornhöjdens vårdcentrum,,10,Privat,,,Primärvård,2,,Fornhöjdens vårdcentrum
+2147,Värmdö vårdcentral,,10,Privat,,,Primärvård,2,,Värmdö vårdcentral
+2148,Segeltorps vårdcentral,,10,Offentlig,,,Primärvård,2,,Segeltorps vårdcentral
+2149,Skärholmens vårdcentral,,10,Offentlig,,,Primärvård,2,,Skärholmens vårdcentral
+2150,Gröndals vårdcentral,,10,Offentlig,,,Primärvård,2,,Gröndals vårdcentral
+2151,Capio Vårdcentral Slussen,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Slussen
+2152,Capio Vårdcentral Hagsätra,,10,Privat,,,Primärvård,2,,Capio Vårdcentral Hagsätra
+2153,Trångsunds vårdcentral,,10,Offentlig,,,Primärvård,2,,Trångsunds vårdcentral
+2154,Rudans vårdcentral,,10,Privat,,,Primärvård,2,,Rudans vårdcentral
+2155,Husläkarmottagningen Solna läkarmottagning,,10,Privat,,,Primärvård,2,,Husläkarmottagningen Solna läkarmottagning
+2156,Gamla Stans Vårdcentral,,10,Privat,,,Primärvård,2,,Gamla Stans Vårdcentral
+2157,Runby vårdcentral,,10,Privat,,,Primärvård,2,,Runby vårdcentral
+2158,Husläkarna i Österåker,,10,Privat,,,Primärvård,2,,Husläkarna i Österåker
+2159,Taptogatans husläkare,,10,Privat,,,Primärvård,2,,Taptogatans husläkare
+2160,"Helsa vårdcentral, Sundbyberg",,10,Privat,,,Primärvård,2,,"Helsa vårdcentral, Sundbyberg"
+2161,Östhammars vårdcentral,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Östhammars vårdcentral
+2162,Knivsta vårdcentral,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Knivsta vårdcentral
+2163,Luthagens vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Luthagens vårdcentral
+2164,Årsta vårdcentral,8 eller fler läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Årsta vårdcentral
+2165,Öregrund vårdcentral,,12,Privat,,,Primärvård,2,,Öregrund vårdcentral
+2166,Enköpings husläkarcentrum,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Enköpings husläkarcentrum
+2167,Öregrund vårdcentralen,,12,Offentlig,,,Primärvård,2,,Öregrund vårdcentralen
+2168,"Dr Wahlunds läkarmottagning, Enköping",2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Dr Wahlunds läkarmottagning, Enköping"
+2169,Kungsgärdets vårdcentral,8 eller fler läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kungsgärdets vårdcentral
+2170,Skutskärs vårdcentral,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Skutskärs vårdcentral
+2171,Bålsta vårdcentral,8 eller fler läkare,12,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Bålsta vårdcentral
+2172,Fjärdhundra vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Fjärdhundra vårdcentral
+2173,Enköpingshälsan,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Enköpingshälsan
+2174,Alunda vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Alunda vårdcentral
+2175,Knivsta läkargrupp,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Knivsta läkargrupp
+2176,Uppsala privatklinik,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Uppsala privatklinik
+2177,Capio Liljeforstorg vårdcentral,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Capio Liljeforstorg vårdcentral
+2178,Eriksbergs vårdcentral,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Eriksbergs vårdcentral
+2179,Österbybruk vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Österbybruk vårdcentral
+2180,Svartbäckens vårdcentral,8 eller fler läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Svartbäckens vårdcentral
+2181,Ekeby hälsocenter vårdcentral,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ekeby hälsocenter vårdcentral
+2182,Gimo vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gimo vårdcentral
+2183,Håbohälsan,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Håbohälsan
+2184,Capio Sävja vårdcentral,5 - 7 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Sävja vårdcentral
+2185,Familjeläkarna Bålsta,5 - 7 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Familjeläkarna Bålsta
+2186,Hälsohuset Enköping,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsohuset Enköping
+2187,Knutby/Länna vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Knutby/Länna vårdcentral
+2188,Rasbo vårdcentral,,12,Offentlig,,,Primärvård,2,,Rasbo vårdcentral
+2189,Östervåla vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Östervåla vårdcentral
+2190,Bålsta Doktorn,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bålsta Doktorn
+2191,Gränby vårdcentral,,12,Offentlig,,,Primärvård,2,,Gränby vårdcentral
+2192,Bålsta Medpro Clinic,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bålsta Medpro Clinic
+2193,Centrumkliniken husläkarmottagning,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Centrumkliniken husläkarmottagning
+2194,Aros läkarmottagning,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Aros läkarmottagning
+2195,Brukshälsan i Uppland AB,2 - 4 läkare,12,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Brukshälsan i Uppland AB
+2196,Storvreta vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Storvreta vårdcentral
+2197,Kåbohälsan,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kåbohälsan
+2198,Heby vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Heby vårdcentral
+2200,Brukshälsan i Söderfors,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Brukshälsan i Söderfors
+2201,Tierps vårdcentral,8 eller fler läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Tierps vårdcentral
+2202,Capio Enköpings vårdcentral,5 - 7 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Enköpings vårdcentral
+2203,Familjedoktorn i Uppsala,,12,Privat,,,Primärvård,2,,Familjedoktorn i Uppsala
+2204,Aleris Barncentrum och Vårdcentral,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Aleris Barncentrum och Vårdcentral
+2205,Örsundsbro vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Örsundsbro vårdcentral
+2206,Aleris Nyby vårdcentral,5 - 7 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Aleris Nyby vårdcentral
+2207,Nyby vårdcentralen,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nyby vårdcentralen
+2208,Bälinge vårdcentral,,12,Offentlig,,,Primärvård,2,,Bälinge vårdcentral
+2209,Gottsunda vårdcentral,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gottsunda vårdcentral
+2210,Ture Ålander Läkarpraktik,2 - 4 läkare,12,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Ture Ålander Läkarpraktik
+2211,Flogsta vårdcentral,8 eller fler läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Flogsta vårdcentral
+2212,Länna vårdcentral,2 - 4 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Länna vårdcentral
+2213,Aleris Ingrid Marie vårdcentral,2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Aleris Ingrid Marie vårdcentral
+2214,Länna/Knutby  vårdcentral,,12,Offentlig,,,Primärvård,2,,Länna/Knutby  vårdcentral
+2215,Samariterhemmets vårdcentral,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Samariterhemmets vårdcentral
+2216,Fålhagens vårdcentral,5 - 7 läkare,12,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Fålhagens vårdcentral
+2217,Vårdcentralen Oxelösund,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Oxelösund
+2218,Vårdcentralen Flen,2 - 4 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Flen
+2219,"Vårdcentralen City, Eskilstuna",8 eller fler läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen City, Eskilstuna"
+2220,Vårdcentralen Stadsfjärden Nyköping,8 eller fler läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Stadsfjärden Nyköping
+2221,Vårdcentralen Bagaregatan Nyköping,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Bagaregatan Nyköping
+2222,"Vårdcentralen Unicare, Strängnäs",2 - 4 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Unicare, Strängnäs"
+2223,Vårdcentralen Fröslunda,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Fröslunda
+2224,Vårdcentralen Trosa,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Trosa
+2225,Vårdcentralen Åsidan Nyköping,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Åsidan Nyköping
+2226,Vårdcentralen Smeden,5 - 7 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Smeden
+2227,"Vårdcentralen Achima Care Fristaden, Eskilstuna",2 - 4 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Achima Care Fristaden, Eskilstuna"
+2228,Vårdcentralen Malmköping,2 - 4 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmköping
+2229,Vårdcentralen Nävertorp,2 - 4 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Nävertorp
+2230,Vårdcentralen Lövåsen,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lövåsen
+2231,Vårdcentralen Skiftinge,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skiftinge
+2232,"Vårdcentralen Familjedoktorerna, Strängnäs",2 - 4 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Familjedoktorerna, Strängnäs"
+2233,"Vår vårdcentral, Katrineholm",2 - 4 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vår vårdcentral, Katrineholm"
+2234,Vårdcentralen Ekensberg Nyköping,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ekensberg Nyköping
+2235,Vårdcentralen Strängnäs,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Strängnäs
+2236,Vårdcentralen Gnesta,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Gnesta
+2237,Vårdcentralen Mariefred,8 eller fler läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Mariefred
+2238,Vårdcentralen Vingåker,5 - 7 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Vingåker
+2239,Vårdcentralen Tunafors,8 eller fler läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Tunafors
+2240,Vårdcentral Linden,2 - 4 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Linden
+2241,"Vårdcentralen Centrum, Flen",2 - 4 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Centrum, Flen"
+2242,"Vårdcentralen Achima Care, Eskilstuna",5 - 7 läkare,13,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Achima Care, Eskilstuna"
+2243,Vårdcentralen Torshälla,2 - 4 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Torshälla
+2244,Vårdcentralen Sandbäcken,5 - 7 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Sandbäcken
+2245,Vårdcentralen Väven,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Väven
+2246,Skarptorps vårdcentral,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Skarptorps vårdcentral
+2247,Vårdcentral Brinken,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentral Brinken
+2248,Vårdcentralen Kisa,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kisa
+2249,Vårdcentralen Söderköping,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Söderköping
+2250,Vårdcentralen Borensberg,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Borensberg
+2251,"Centrumklinikens vårdcentral, Linköping",,21,Privat,,,Primärvård,2,,"Centrumklinikens vårdcentral, Linköping"
+2252,Vårdcentralen Skänninge,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skänninge
+2253,"Vårdcentralen Kungsgatan, Norrköping",5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Kungsgatan, Norrköping"
+2254,Vårdcentralen Östertull,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Östertull
+2255,"Vårdcentralen Medicinskt Centrum,  Norrköping",5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Medicinskt Centrum,  Norrköping"
+2256,Vårdcentralen Åby,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Åby
+2257,Vårdcentralen Åtvidaberg,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Åtvidaberg
+2258,Vårdcentralen Boxholm,2 - 4 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Boxholm
+2259,Vårdcentralen Valla,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Valla
+2260,Vårdcentralen Vikbolandet,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Vikbolandet
+2261,Vårdcentralen Vadstena,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Vadstena
+2262,Vårdcentralen Kolmården,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kolmården
+2263,Vårdcentralen Marieberg,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Marieberg
+2264,Vårdcentralen Ekholmen,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Vårdcentralen Ekholmen
+2265,Vårdcentralen Ryd,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ryd
+2266,"Vårdcentralen Cityakuten, Linköping",2 - 4 läkare,21,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Cityakuten, Linköping"
+2267,Cityhälsan Centrum,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Cityhälsan Centrum
+2268,Vårdcentralen Lambohov,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lambohov
+2269,Capio Vårdcentral Berga,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Capio Vårdcentral Berga
+2270,Vårdcentralen Valdemarsvik,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Valdemarsvik
+2271,Cityhälsan Norr,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Cityhälsan Norr
+2272,Cityhälsan Söder,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Cityhälsan Söder
+2273,Vårdcentralen Ljungsbro,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ljungsbro
+2274,Vårdcentralen Skäggetorp,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skäggetorp
+2275,Vårdcentralen Mantorp,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Mantorp
+2276,Vårdcentralen Lyckorna,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lyckorna
+2277,"Vårdcentralen Kungsgatan, Linköping",,21,Offentlig,,,Primärvård,2,,"Vårdcentralen Kungsgatan, Linköping"
+2278,Vårdcentralen Linghem,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Linghem
+2279,Vårdcentralen Ödeshög,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ödeshög
+2280,Vårdcentralen Mjölby,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Mjölby
+2281,Vårdcentralen Kärna,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kärna
+2282,"Vårdcentralen Geria, Söderköping",2 - 4 läkare,21,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Geria, Söderköping"
+2283,Vårdcentralen Finspång,8 eller fler läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Finspång
+2284,Johannelunds vårdcentral AB,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Johannelunds vårdcentral AB
+2285,Carema vårdcentral Berga,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Carema vårdcentral Berga
+2286,Kneippens vårdcentral,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kneippens vårdcentral
+2288,Vårdcentralen Skärblacka,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skärblacka
+2289,Vilbergens vårdcentral,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vilbergens vårdcentral
+2290,Vårdcentralen Nygatan,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Nygatan
+2291,Vårdcentralen Österbymo,2 - 4 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Österbymo
+2292,Vårdcentralen Tannefors,5 - 7 läkare,21,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Tannefors
+2293,Nässjö Läkarhus,5 - 7 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nässjö Läkarhus
+2294,"Rosenhälsans Vårdcentral, Huskvarna",5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Rosenhälsans Vårdcentral, Huskvarna"
+2295,"Hälsans Vårdcentral 2, Jönköping",8 eller fler läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsans Vårdcentral 2, Jönköping"
+2296,Norrahammars Vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Norrahammars Vårdcentral
+2297,"Wasa Vårdcentral, Jönköping",1 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Wasa Vårdcentral, Jönköping"
+2298,"Avonova vård, Värnamo",2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Avonova vård, Värnamo"
+2299,Eksjö vårdcentral,8 eller fler läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Eksjö vårdcentral
+2300,Rydaholm vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Rydaholm vårdcentral
+2301,Sävsjö Vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sävsjö Vårdcentral
+2302,"Hälsans Vårdcentral 1, Jönköping",5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsans Vårdcentral 1, Jönköping"
+2303,"Gislehälsan, Gislaved",2 - 4 läkare,22,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Gislehälsan, Gislaved"
+2304,"Läkarhuset Väster, Jönköping",2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Läkarhuset Väster, Jönköping"
+2305,Gnosjö Vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gnosjö Vårdcentral
+2306,Dr Olofssons läkarmott i Vetlanda,,22,Privat,,,Primärvård,2,,Dr Olofssons läkarmott i Vetlanda
+2307,Gislaveds Vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gislaveds Vårdcentral
+2308,Mullsjö Vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mullsjö Vårdcentral
+2309,Mariannelunds vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mariannelunds vårdcentral
+2310,Habo vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Habo vårdcentral
+2311,"Bräcke Diakoni Vårdcentralen Lokstallarna, Jönköping",2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Bräcke Diakoni Vårdcentralen Lokstallarna, Jönköping"
+2312,Vrigstad läkarmottagning,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vrigstad läkarmottagning
+2313,"Avonova Apladalen vård, Värnamo",2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Avonova Apladalen vård, Värnamo"
+2314,Tranås vårdcentral,8 eller fler läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Tranås vårdcentral
+2315,Smålandsstenars vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Smålandsstenars vårdcentral
+2316,Anderstorp vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Anderstorp vårdcentral
+2317,Skillingaryds vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Skillingaryds vårdcentral
+2318,Finn Johansen Privatpraktik,,22,Privat,,,Primärvård,2,,Finn Johansen Privatpraktik
+2319,Familjeläkarna i Forserum,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Familjeläkarna i Forserum
+2320,Vetlanda vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vetlanda vårdcentral
+2321,Stortorgets Läkarm. L Wittrock,,22,Privat,,,Primärvård,2,,Stortorgets Läkarm. L Wittrock
+2322,Reftele vårdcentral,1 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Reftele vårdcentral
+2323,Läkarhuset i Tranås,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Läkarhuset i Tranås
+2324,Aneby vårdcentral,5 - 7 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Aneby vårdcentral
+2325,Familjeläkarna i Smålandsstenar,1 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Familjeläkarna i Smålandsstenar
+2326,"Unicare vård, Vetlanda",2 - 4 läkare,22,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Unicare vård, Vetlanda"
+2327,Läkarhuset i Småland,,22,Privat,,,Primärvård,2,,Läkarhuset i Småland
+2328,"Svegaholm, Vaggeryd",,22,Offentlig,,,Primärvård,2,,"Svegaholm, Vaggeryd"
+2329,Dr Lars Mörlids läkarmottagning,,22,Privat,,,Primärvård,2,,Dr Lars Mörlids läkarmottagning
+2330,"Vårdcentralen Aroma, Vetlanda",2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Aroma, Vetlanda"
+2331,Familjeläkarna i Gislaved,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Familjeläkarna i Gislaved
+2332,"Wetterhälsan, Jönköping",2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Wetterhälsan, Jönköping"
+2333,"Bräcke Diakoni Vårdcentralen Nyhälsan, Nässjö",1 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Bräcke Diakoni Vårdcentralen Nyhälsan, Nässjö"
+2334,Familjeläkarna i Mullsjö,1 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Familjeläkarna i Mullsjö
+2335,Läkarhuset i Huskvarna,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Läkarhuset i Huskvarna
+2336,"Kungshälsans vårdcentral, Huskvarna",5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Kungshälsans vårdcentral, Huskvarna"
+2337,Nässjö Vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nässjö Vårdcentral
+2338,Gränna vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gränna vårdcentral
+2339,Öxnehaga vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Öxnehaga vårdcentral
+2340,"Vråens vårdcentral,  Värnamo",8 eller fler läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vråens vårdcentral,  Värnamo"
+2341,Familjeläkarna i Anderstorp,2 - 4 läkare,22,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Familjeläkarna i Anderstorp
+2342,Hälsan Tornet,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsan Tornet
+2343,Rosenlunds vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Rosenlunds vårdcentral
+2344,Bodafors vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bodafors vårdcentral
+2345,"Läkarhuset Öster, Jönköping",2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Läkarhuset Öster, Jönköping"
+2346,Landsbro Vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Landsbro Vårdcentral
+2347,Råslätts Vårdcentral,8 eller fler läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Råslätts Vårdcentral
+2348,Vaggeryds Vårdcentral,2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vaggeryds Vårdcentral
+2349,"Västers vårdcentral, Värnamo",2 - 4 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Västers vårdcentral, Värnamo"
+2350,Bankeryds vårdcentral,5 - 7 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bankeryds vårdcentral
+2351,Tenhults vårdcentral,1 läkare,22,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Tenhults vårdcentral
+2352,Vårdcentralen Dalbo,5 - 7 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Dalbo
+2353,Vårdcentralen Smålandshälsan Ljungby,1 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Smålandshälsan Ljungby
+2354,Vårdcentralen Lammhult,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lammhult
+2355,"Specialistläkargruppen Åseda, Hälsans hus",1 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Specialistläkargruppen Åseda, Hälsans hus"
+2356,"Hälsocentralen Falken, Alstermo",1 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsocentralen Falken, Alstermo"
+2357,"Vårdcentralen Hälsoringen, Älmhult",2 - 4 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Hälsoringen, Älmhult"
+2358,Vårdcentralen Ryd,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ryd
+2359,Vårdcentralen Strandbjörket,5 - 7 läkare,23,Offentlig,Datoriserat återuppringningssystem,Högst 3 dagar,Primärvård,2,,Vårdcentralen Strandbjörket
+2360,Vårdcentralen Hovshaga,5 - 7 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Hovshaga
+2361,Vårdcentralen Lagan,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lagan
+2362,Vårdcentralen Teleborg,8 eller fler läkare,23,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Teleborg
+2363,Vårdcentralen Läkarhuset Ljungby,1 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Läkarhuset Ljungby
+2364,Vårdcentralen Älmhult,5 - 7 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Älmhult
+2365,"Vårdcentralen Unicare, Växjö",2 - 4 läkare,23,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,"Vårdcentralen Unicare, Växjö"
+2366,Vårdcentralen Ingelstad,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ingelstad
+2367,Vårdcentralen Alstermo,1 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Alstermo
+2368,Vårdcentralen Lessebo,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lessebo
+2369,Vårdcentralen Växjöhälsan,1 läkare,23,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Växjöhälsan
+2370,Vårdcentralen Markaryd,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Markaryd
+2371,Vårdcentralen Moheda,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Moheda
+2372,Vårdcentralen Åseda,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Åseda
+2373,Vårdcentralen Vislanda,2 - 4 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Vislanda
+2374,Vårdcentralen Alvesta,5 - 7 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Alvesta
+2375,Vårdcentralen Rottne,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Rottne
+2376,Vårdcentralen Lenhovda,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lenhovda
+2377,Vårdcentralen Gränsbygdskliniken,1 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Gränsbygdskliniken
+2378,Vårdcentralen Sländan,5 - 7 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Sländan
+2379,Vårdcentralen Tingsryd,5 - 7 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Tingsryd
+2380,Vårdcentralen Kungshögen,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kungshögen
+2381,Strömsnäsbruk vårdcentral,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Strömsnäsbruk vårdcentral
+2382,Vårdcentralen Birka,8 eller fler läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Birka
+2383,Vårdcentralen Centrum,5 - 7 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Centrum
+2384,Vårdcentralen Lidhult,1 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lidhult
+2385,Vårdcentralen Braås,2 - 4 läkare,23,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Braås
+2386,Slottsgatans Vårdcentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Slottsgatans Vårdcentral
+2387,Kent Argus läkarpraktik Kalmar,,24,Privat,,,Primärvård,2,,Kent Argus läkarpraktik Kalmar
+2388,Överums läkarmottagning,1 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Överums läkarmottagning
+2389,Läkarhuset Kronan Kalmar,2 - 4 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Läkarhuset Kronan Kalmar
+2390,Ankarsrums hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ankarsrums hälsocentral
+2391,Mörlunda hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mörlunda hälsocentral
+2392,Gamleby hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Gamleby hälsocentral
+2393,Astrakanen Nybro läkarcentrum,2 - 4 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Astrakanen Nybro läkarcentrum
+2394,Läkarmottagning Dorrit Ruge,1 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Läkarmottagning Dorrit Ruge
+2395,Vimmerby hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vimmerby hälsocentral
+2396,Läkarhuset Prima,,24,Privat,,,Primärvård,2,,Läkarhuset Prima
+2397,Dackekliniken Virserum,,24,Privat,,,Primärvård,2,,Dackekliniken Virserum
+2398,Husläkarcentrum Kalmar,2 - 4 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Husläkarcentrum Kalmar
+2399,Borgholms hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Borgholms hälsocentral
+2400,Kvarnholmens hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kvarnholmens hälsocentral
+2401,Ljungbyholms hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Ljungbyholms hälsocentral
+2402,Färjestadens hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Färjestadens hälsocentral
+2403,Slottsfjärdens läkarmottagning Kalmar,1 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Slottsfjärdens läkarmottagning Kalmar
+2404,Esplanadens hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Esplanadens hälsocentral
+2405,Torsås hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Torsås hälsocentral
+2406,Berga hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Berga hälsocentral
+2407,Sensia vårdcentral Hultsfred,1 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sensia vårdcentral Hultsfred
+2408,Emmaboda hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Emmaboda hälsocentral
+2409,Minikliniken i Nybro,,24,Privat,,,Primärvård,2,,Minikliniken i Nybro
+2410,Mönsterås vårdcentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mönsterås vårdcentral
+2411,Virserums läkarhus,,24,Privat,,,Primärvård,2,,Virserums läkarhus
+2412,Mörbylånga hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mörbylånga hälsocentral
+2413,Lindsdals hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Lindsdals hälsocentral
+2414,Blå Kustens hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Blå Kustens hälsocentral
+2415,Ångkvarnens läkarmottagning  Kalmar,,24,Privat,,,Primärvård,2,,Ångkvarnens läkarmottagning  Kalmar
+2416,Stora Trädgårdsgatans hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Stora Trädgårdsgatans hälsocentral
+2417,RiddarHusläkarna Västervik,2 - 4 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,RiddarHusläkarna Västervik
+2418,Norra Ölands läkarmottagning,1 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Norra Ölands läkarmottagning
+2419,Smedby hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Smedby hälsocentral
+2420,Sune Blanking läkarservice Emmaboda,,24,Privat,,,Primärvård,2,,Sune Blanking läkarservice Emmaboda
+2421,Överums läkarhus,,24,Privat,,,Primärvård,2,,Överums läkarhus
+2422,Hultsfreds hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hultsfreds hälsocentral
+2423,Nybro hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nybro hälsocentral
+2424,Högsby hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Högsby hälsocentral
+2425,Stensö hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Stensö hälsocentral
+2426,Blomstermåla hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Blomstermåla hälsocentral
+2427,Söderåkra hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Söderåkra hälsocentral
+2428,"Sensia Hälsa, Kalmar",8 eller fler läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Sensia Hälsa, Kalmar"
+2429,Läkarhuset i Hultsfred,,24,Privat,,,Primärvård,2,,Läkarhuset i Hultsfred
+2430,Norrlidens hälsocentral,2 - 4 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Norrlidens hälsocentral
+2431,Kristinebergs hälsocentral,5 - 7 läkare,24,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kristinebergs hälsocentral
+2432,Vårdcentralen Wisby Söder,5 - 7 läkare,26,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Wisby Söder
+2433,Slite Vårdcentral,2 - 4 läkare,26,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Slite Vårdcentral
+2434,Roma vårdcentral,2 - 4 läkare,26,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Roma vårdcentral
+2435,Hemse Vårdcentral,5 - 7 läkare,26,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hemse Vårdcentral
+2436,Vårdcentralen Hansahälsan,2 - 4 läkare,26,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Hansahälsan
+2437,"Klinte vårdcentral, Klintehamn",2 - 4 läkare,26,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Klinte vårdcentral, Klintehamn"
+2438,Vårdcentralen Visborg,5 - 7 läkare,26,Privat,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Vårdcentralen Visborg
+2439,Vårdcentralen Visby Norr,5 - 7 läkare,26,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Visby Norr
+2440,Nättraby vårdcentral,2 - 4 läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nättraby vårdcentral
+2441,Ronneby Vårdcentral,5 - 7 läkare,27,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Ronneby Vårdcentral
+2442,Bräkne-Hoby vårdcentral,2 - 4 läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bräkne-Hoby vårdcentral
+2443,Kungsmarkens vårdcentral,2 - 4 läkare,27,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Kungsmarkens vårdcentral
+2444,Brunnsgårdens vårdcentral,8 eller fler läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Brunnsgårdens vårdcentral
+2445,Trossö vårdcentral,5 - 7 läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Trossö vårdcentral
+2446,Hälsoringen Sölvesborg,2 - 4 läkare,27,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsoringen Sölvesborg
+2447,Wämö vårdcentral,2 - 4 läkare,27,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Wämö vårdcentral
+2448,Jämjö vårdcentral,2 - 4 läkare,27,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Jämjö vårdcentral
+2449,Rödeby vårdcentral,5 - 7 läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Rödeby vårdcentral
+2450,"Capio Citykliniken, Ronneby",2 - 4 läkare,27,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Ronneby"
+2451,Samaritens vårdcentral,5 - 7 läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Samaritens vårdcentral
+2452,Lyckeby vårdcentral,5 - 7 läkare,27,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Lyckeby vårdcentral
+2453,Kallinge vårdcentral,5 - 7 läkare,27,Offentlig,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Kallinge vårdcentral
+2454,Läkarhuset i Karlshamn,2 - 4 läkare,27,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Läkarhuset i Karlshamn
+2455,Olofströms vårdcentral,2 - 4 läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Olofströms vårdcentral
+2456,"Valjehälsan, Sölvesborg",2 - 4 läkare,27,Privat,Datoriserad växel,Samma dag,Primärvård,2,,"Valjehälsan, Sölvesborg"
+2457,Läkehjälpen i Olofström,1 läkare,27,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Läkehjälpen i Olofström
+2458,Familjeläkarna i Olofström,2 - 4 läkare,27,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Familjeläkarna i Olofström
+2459,"Hälsohuset för alla, Karlskrona",2 - 4 läkare,27,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsohuset för alla, Karlskrona"
+2460,"Tvings läkarmottagning, Tving",1 läkare,27,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Tvings läkarmottagning, Tving"
+2461,Sölvesborgs vårdcentral,5 - 7 läkare,27,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sölvesborgs vårdcentral
+2462,Vårdcentralen Malmö-Husie,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Husie
+2463,Vårdcentralen Malmö-Bunkeflostrand,2 - 4 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Bunkeflostrand
+2464,Hälsoringen Osby,2 - 4 läkare,41,Privat,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Hälsoringen Osby
+2465,Vårdcentralen Klippan,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Klippan
+2466,Vårdcentralen Bara-Bokskogen,2 - 4 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Bara-Bokskogen
+2467,Vårdcentralen Lund-Måsen,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lund-Måsen
+2468,Vårdcentralen Lund-Linero Östra Torn,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Lund-Linero Östra Torn
+2469,Vårdcentralen Malmö-Sorgenfrimottagningen,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Sorgenfrimottagningen
+2470,Specialisthälsan Malmö,,41,Privat,,,Primärvård,2,,Specialisthälsan Malmö
+2471,"Novakliniken, Sjöbo",,41,Privat,,,Primärvård,2,,"Novakliniken, Sjöbo"
+2472,Vårdcentralen Åhus,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Åhus
+2473,"Berga Läkarhus, Helsingborg",,41,Privat,,,Primärvård,2,,"Berga Läkarhus, Helsingborg"
+2474,Capio Citykliniken Limhamn,8 eller fler läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Capio Citykliniken Limhamn
+2475,Privatläkarna i Knutpunkten,,41,Privat,,,Primärvård,2,,Privatläkarna i Knutpunkten
+2476,"Novakliniken, Gärsnäs",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Novakliniken, Gärsnäs"
+2477,Vårdcentralen Helsingborg-Husensjö,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Husensjö
+2478,Vårdcentralen Kristianstad-Östermalm,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kristianstad-Östermalm
+2479,HälsoRingen Lönsboda,,41,Privat,,,Primärvård,2,,HälsoRingen Lönsboda
+2480,"Vårdcentralen Åparken, Tyringe",2 - 4 läkare,41,Offentlig,Datoriserad växel,Samma dag,Primärvård,2,,"Vårdcentralen Åparken, Tyringe"
+2481,Vårdcentralen Lund-Norra Fäladen,8 eller fler läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lund-Norra Fäladen
+2482,Hälsoringen Bromölla,5 - 7 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsoringen Bromölla
+2483,"Capio Citykliniken Olympia, Helsingborg",,41,Privat,,,Primärvård,2,,"Capio Citykliniken Olympia, Helsingborg"
+2484,"Feelgood Vårdcentral, Malmö",1 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Feelgood Vårdcentral, Malmö"
+2485,Vårdcentralen Höganäs-Delfinen,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Höganäs-Delfinen
+2486,Vårdcentralen Ystad,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ystad
+2487,E Ehnevids läkarmottagning Tomelilla,,41,Privat,,,Primärvård,2,,E Ehnevids läkarmottagning Tomelilla
+2488,Limhamns läkargrupp Tärnan,,41,Privat,,,Primärvård,2,,Limhamns läkargrupp Tärnan
+2489,Vårdcentralen Bjuv-Söderåsen,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Bjuv-Söderåsen
+2490,Vårdcentralen Hässleholm-Solbrinken,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Hässleholm-Solbrinken
+2491,Vårdcentralen Osby,,41,Offentlig,,,Primärvård,2,,Vårdcentralen Osby
+2492,Vårdcentralen Helsingborg-Tågaborg,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Tågaborg
+2493,Vårdcentralen Malmö-Lunden,,41,Offentlig,,,Primärvård,2,,Vårdcentralen Malmö-Lunden
+2494,Vårdcentralen Degeberga,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Degeberga
+2495,Vårdcentralen Höganäs-Sjöcrona,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Höganäs-Sjöcrona
+2496,Vårdcentralen Bjärred,,41,Offentlig,,,Primärvård,2,,Vårdcentralen Bjärred
+2497,"Capio Citykliniken Mariastaden, Helsingborg",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken Mariastaden, Helsingborg"
+2498,Kattens Läkargrupp,,41,Privat,,,Primärvård,2,,Kattens Läkargrupp
+2499,Vårdcentralen Vittsjö,2 - 4 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Vittsjö
+2500,Vårdcentralen Vinslöv,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Vinslöv
+2501,"Novakliniken, Tomelilla",2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Novakliniken, Tomelilla"
+2502,Capio Citykliniken Bunkeflo - Hyllie,2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Capio Citykliniken Bunkeflo - Hyllie
+2503,Laurentiikliniken vårdcentral Lund,2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Laurentiikliniken vårdcentral Lund
+2504,Vårdcentralen Helsingborg-Planteringen,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Planteringen
+2505,Valens läkargrupp,,41,Privat,,,Primärvård,2,,Valens läkargrupp
+2506,"Multi-Clinic, Malmö",2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Multi-Clinic, Malmö"
+2507,Vårdcentralen Vellinge,5 - 7 läkare,41,Offentlig,Datoriserad växel,Samma dag,Primärvård,2,,Vårdcentralen Vellinge
+2508,Vårdcentralen Knislinge,2 - 4 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Knislinge
+2509,"Novakliniken, Svarte",,41,Privat,,,Primärvård,2,,"Novakliniken, Svarte"
+2510,"Capio Citykliniken, Broby",2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Broby"
+2511,"Capio Citykliniken, Landskrona",,41,Privat,,,Primärvård,2,,"Capio Citykliniken, Landskrona"
+2512,Vårdcentralen Dalby,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Dalby
+2513,Vårdcentralen Helsingborg-Ramlösa,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Ramlösa
+2514,Centrumläkarna Adolfsberg Helsingborg,1 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Centrumläkarna Adolfsberg Helsingborg
+2515,"Novakliniken Missunna, Ystad",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Novakliniken Missunna, Ystad"
+2516,Hälsomedicinskt Center Hjärup,2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsomedicinskt Center Hjärup
+2517,"Novakliniken, Rydsgård",,41,Privat,,,Primärvård,2,,"Novakliniken, Rydsgård"
+2519,Vårdcentralen Malmö-Limhamn,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Limhamn
+2520,"Östra Läkargruppen. Praktikertjänst,  Kristianstad",5 - 7 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Östra Läkargruppen. Praktikertjänst,  Kristianstad"
+2521,Hälsocentralen Ellenbogen,,41,Privat,,,Primärvård,2,,Hälsocentralen Ellenbogen
+2522,"Sundets läkargrupp, Bjärred",,41,Privat,,,Primärvård,2,,"Sundets läkargrupp, Bjärred"
+2523,Vårdcentralen Helsingborg-Stattena,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Stattena
+2524,Vårdcentralen Höör,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Höör
+2525,Vårdcentralen Ängelholm-Laxen,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ängelholm-Laxen
+2526,Sveakliniken i Svedala AB,,41,Privat,,,Primärvård,2,,Sveakliniken i Svedala AB
+2527,Vårdcentralen Förslöv,2 - 4 läkare,41,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Vårdcentralen Förslöv
+2528,Vårdcentralen Malmö-Törnrosen,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Törnrosen
+2529,Kungsgårdshälsan,,41,Privat,,,Primärvård,2,,Kungsgårdshälsan
+2530,Vårdcentralen Perstorp,2 - 4 läkare,41,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Vårdcentralen Perstorp
+2531,Vårdcentralen Lund-Nöbbelöv,,41,Offentlig,,,Primärvård,2,,Vårdcentralen Lund-Nöbbelöv
+2532,Vårdcentralen Kristianstad-Näsby,5 - 7 läkare,41,Offentlig,Datoriserad växel,Samma dag,Primärvård,2,,Vårdcentralen Kristianstad-Näsby
+2533,Domus Medica-Helsingborg,,41,Privat,,,Primärvård,2,,Domus Medica-Helsingborg
+2534,Vårdcentralen Kristianstad-Vä,2 - 4 läkare,41,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Vårdcentralen Kristianstad-Vä
+2535,"Näsets Läkargrupp, Skanör",,41,Privat,,,Primärvård,2,,"Näsets Läkargrupp, Skanör"
+2536,Läkargården Familjeläkarna,,41,Privat,,,Primärvård,2,,Läkargården Familjeläkarna
+2537,Vårdcentralen Helsingborg-Närlunda,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Närlunda
+2538,Vårdcentralen Helsingborg-Rydebäck,2 - 4 läkare,41,Offentlig,Datoriserad växel,Samma dag,Primärvård,2,,Vårdcentralen Helsingborg-Rydebäck
+2539,"Carema hälsocentral, Lund",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Carema hälsocentral, Lund"
+2540,Vårdcentralen Trelleborg-Fagerängen,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Trelleborg-Fagerängen
+2541,Vårdcentralen Oxie,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Oxie
+2542,Vårdcentralen Malmö-Hindby,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Hindby
+2543,Vårdcentralen Malmö-Rosengården,8 eller fler läkare,41,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Rosengården
+2544,Vårdcentralen Hässleholm-Vänhem,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Hässleholm-Vänhem
+2545,"Privatläkarna Hälsoval, Helsingborg",,41,Privat,,,Primärvård,2,,"Privatläkarna Hälsoval, Helsingborg"
+2546,Achima Care Ekeby,2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Achima Care Ekeby
+2547,"Novakliniken, Veberöd",,41,Privat,,,Primärvård,2,,"Novakliniken, Veberöd"
+2548,Näsums hälsocentral,1 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Näsums hälsocentral
+2549,Vårdcentralen Malmö-Gullviksborg,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Gullviksborg
+2550,"Novakliniken, Borrby",2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Novakliniken, Borrby"
+2551,Vårdcentralen Helsingborg-Laröd,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Laröd
+2552,Ödåkra Läkargrupp,5 - 7 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Ödåkra Läkargrupp
+2553,"Carema Hälsocentral, Limhamn",8 eller fler läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Carema Hälsocentral, Limhamn"
+2554,Rosengårdskliniken,,41,Privat,,,Primärvård,2,,Rosengårdskliniken
+2555,"Näsets Läkargrupp, Höllviken",,41,Privat,,,Primärvård,2,,"Näsets Läkargrupp, Höllviken"
+2556,Familjehälsan Rydsgård,,41,Privat,,,Primärvård,2,,Familjehälsan Rydsgård
+2557,Vårdcentralen Malmö-Fågelbacken,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Fågelbacken
+2558,"Vårdcentralen Centrum, Landskrona",8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Centrum, Landskrona"
+2559,"Novakliniken, Ystad",5 - 7 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Novakliniken, Ystad"
+2560,Familjehälsan Åstorp,,41,Privat,,,Primärvård,2,,Familjehälsan Åstorp
+2561,Läkarmottagningen i Bjärnum,,41,Privat,,,Primärvård,2,,Läkarmottagningen i Bjärnum
+2562,Vårdcentralen Tollarp,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Tollarp
+2563,Vårdcentralen Brösarp,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Brösarp
+2564,Vårdcentralen Malmö-Kirseberg,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Kirseberg
+2565,"Vårdcentralen Tornet, Landskrona",2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Tornet, Landskrona"
+2566,"Novakliniken, Simrishamn",,41,Privat,,,Primärvård,2,,"Novakliniken, Simrishamn"
+2567,Vårdcentralen Kristianstad-Vilan,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kristianstad-Vilan
+2568,Victoria Vård och Hälsa,,41,Privat,,,Primärvård,2,,Victoria Vård och Hälsa
+2569,Hälsocentralen Sankt Hans,2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Sankt Hans
+2570,Vårdcentralen Södra Sandby,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Södra Sandby
+2571,Vårdcentralen Helsingborg-Påarp-Mörarp,2 - 4 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Påarp-Mörarp
+2572,"Capio Citykliniken, Lund",5 - 7 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Lund"
+2573,"Capio Citykliniken, Båstad",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Båstad"
+2574,Kristianstadkliniken,,41,Privat,,,Primärvård,2,,Kristianstadkliniken
+2575,Vårdcentralen Anderslöv,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Anderslöv
+2576,Capio Vårdcentral Simrishamn,5 - 7 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Vårdcentral Simrishamn
+2577,Vårdcentralen Trelleborg-Centrumkliniken,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Trelleborg-Centrumkliniken
+2578,Vårdcentralen Örkelljunga,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Örkelljunga
+2579,Vårdcentralen Malmö-Borgmästaregården,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Borgmästaregården
+2580,"Novakliniken, Köpingebro",,41,Privat,,,Primärvård,2,,"Novakliniken, Köpingebro"
+2581,Carema hälsocentral Simrishamn,5 - 7 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema hälsocentral Simrishamn
+2582,Vårdcentralen Skurup,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skurup
+2583,"Capio Citykliniken, Ängelholm",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Ängelholm"
+2584,"Capio Cityklinik Centrum, Malmö",8 eller fler läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Cityklinik Centrum, Malmö"
+2585,Vårdcentralen Ljungbyhed,2 - 4 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ljungbyhed
+2586,"Capio Citykliniken Laurentii, Lund",2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken Laurentii, Lund"
+2587,Vårdcentralen Hörby,,41,Offentlig,,,Primärvård,2,,Vårdcentralen Hörby
+2588,Vårdcentralen Lund-Södertull,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lund-Södertull
+2589,"Capio Citykliniken Singelgatan, Malmö",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken Singelgatan, Malmö"
+2590,Hälsomedicinskt Center Lomma,2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsomedicinskt Center Lomma
+2591,Vårdcentralen Malmö-Lundbergsgatan,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Lundbergsgatan
+2592,Capio Göingekliniken,,41,Privat,,,Primärvård,2,,Capio Göingekliniken
+2593,Vårdcentralen Malmö-Lindängen,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Lindängen
+2594,Läkarhuset i Roslunda,2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Läkarhuset i Roslunda
+2595,Limhamns läkargrupp Måsen,,41,Privat,,,Primärvård,2,,Limhamns läkargrupp Måsen
+2596,Vårdcentralen Malmö-Lindeborg,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Lindeborg
+2597,Vårdcentralen Helsingborg-Råå,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Helsingborg-Råå
+2598,Vårdcentralen Tomelilla,2 - 4 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Tomelilla
+2599,"Capio Citykliniken, Klippan",2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Klippan"
+2600,"Örestadskliniken, Malmö",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Örestadskliniken, Malmö"
+2601,Vårdcentralen Arlöv,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Arlöv
+2602,Vårdcentralen Staffanstorp,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Staffanstorp
+2603,Carema hälsocentral Bunkeflo,2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Carema hälsocentral Bunkeflo
+2604,Vårdcentralen Malmö-Granen,8 eller fler läkare,41,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Granen
+2605,Brahehälsan Löberöd,8 eller fler läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Brahehälsan Löberöd
+2606,Solljungahälsan Örkelljunga,,41,Privat,,,Primärvård,2,,Solljungahälsan Örkelljunga
+2607,Vårdcentralen Kärråkra,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kärråkra
+2608,Vårdcentralen Drottninghög,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Drottninghög
+2609,Vårdcentralen Malmö-Kroksbäck,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Kroksbäck
+2610,Vårdcentralen Sjöbo,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Sjöbo
+2611,Vårdcentralen Lund-Sankt Lars,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lund-Sankt Lars
+2612,Vårdcentralen Sösdala,2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Sösdala
+2613,Vårdcentralen Eslöv-Tåbelund,,41,Offentlig,,,Primärvård,2,,Vårdcentralen Eslöv-Tåbelund
+2614,Carema Hälsocentral i Eslöv,,41,Privat,,,Primärvård,2,,Carema Hälsocentral i Eslöv
+2615,Brahehälsan Eslöv,,41,Privat,,,Primärvård,2,,Brahehälsan Eslöv
+2616,"Capio Citykliniken, Helsingborg",8 eller fler läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Helsingborg"
+2617,Vårdcentralen Lomma,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Lomma
+2618,Läkargruppen Munka Ljungby,,41,Privat,,,Primärvård,2,,Läkargruppen Munka Ljungby
+2619,Vårdcentralen Svalöv,8 eller fler läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Svalöv
+2620,Vårdcentralen Malmö-Eden,8 eller fler läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Eden
+2621,"Vårdhuset Vårdcentralen, Malmö City",,41,Privat,,,Primärvård,2,,"Vårdhuset Vårdcentralen, Malmö City"
+2622,"Capio Cityklinik Västra Hamnen, Malmö",5 - 7 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Cityklinik Västra Hamnen, Malmö"
+2623,Vårdcentralen Malmö-Södervärn,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Södervärn
+2624,Vårdcentralen Åstorp,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Åstorp
+2625,Vårdcentralen Kävlinge,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kävlinge
+2626,Vårdcentralen Löddeköpinge,5 - 7 läkare,41,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Löddeköpinge
+2627,Solklart Vård i Bjuv,,41,Privat,,,Primärvård,2,,Solklart Vård i Bjuv
+2628,"Capio Citykliniken, Kristianstad",2 - 4 läkare,41,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Kristianstad"
+2629,Vårdcentralen Landskrona-Norrestad,,41,Offentlig,,,Primärvård,2,,Vårdcentralen Landskrona-Norrestad
+2630,Vårdcentralen Malmö-Fosietorp,5 - 7 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Malmö-Fosietorp
+2631,Båstad-Bjäre Läkarpraktik,,41,Privat,,,Primärvård,2,,Båstad-Bjäre Läkarpraktik
+2632,Navets Vårdcentral Varberg,,42,Privat,,,Primärvård,2,,Navets Vårdcentral Varberg
+2633,Vårdcentral Veddige,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Veddige
+2634,Vårdcentral Fjärås,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Fjärås
+2635,Vårdcentral Onsala,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Onsala
+2636,Neptunuskliniken,,42,Privat,,,Primärvård,2,,Neptunuskliniken
+2637,Vårdcentral Åsa,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Åsa
+2638,Laholmshälsan,,42,Privat,,,Primärvård,2,,Laholmshälsan
+2639,Vårdcentral Vallås,2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentral Vallås
+2640,Söndrumskliniken,,42,Privat,,,Primärvård,2,,Söndrumskliniken
+2641,"Helsa Vårdcentral, Glänninge/Laholm",2 - 4 läkare,42,Privat,Datoriserad växel,Högst 14 dagar,Primärvård,2,,"Helsa Vårdcentral, Glänninge/Laholm"
+2642,"Tudorkliniken, Halmstad",,42,Privat,,,Primärvård,2,,"Tudorkliniken, Halmstad"
+2643,Laurentiuskliniken,8 eller fler läkare,42,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Laurentiuskliniken
+2644,Vårdcentral Getinge,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Vårdcentral Getinge
+2645,Familjeläkarna i Laholm,,42,Privat,,,Primärvård,2,,Familjeläkarna i Laholm
+2646,Familjeläkarna Söderbro,,42,Privat,,,Primärvård,2,,Familjeläkarna Söderbro
+2647,Husläkarna i Kungsbacka,5 - 7 läkare,42,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Husläkarna i Kungsbacka
+2648,Vårdcentral Kungsbacka,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Kungsbacka
+2649,Vårdcentralen Stenblomman,2 - 4 läkare,42,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Stenblomman
+2650,Vårdcentral Tvååker,,42,Offentlig,,,Primärvård,2,,Vårdcentral Tvååker
+2651,Vårdcentral Hyltebruk,2 - 4 läkare,42,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentral Hyltebruk
+2652,Vårdcentral Slöinge,2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Slöinge
+2653,Vårdcentral Oskarström,,42,Offentlig,,,Primärvård,2,,Vårdcentral Oskarström
+2654,Vårdcentral Västra Vall,8 eller fler läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Västra Vall
+2655,Säröledens familjeläkare,,42,Privat,,,Primärvård,2,,Säröledens familjeläkare
+2656,Vårdcentral Hjortsberg,2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Hjortsberg
+2657,"Capio Citykliniken, Halmstad",5 - 7 läkare,42,Privat,Datoriserad växel,Högst 14 dagar,Primärvård,2,,"Capio Citykliniken, Halmstad"
+2658,Vårdcentral Gruebäck,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Gruebäck
+2659,"Viktoriakliniken, Kungsgatan",2 - 4 läkare,42,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Viktoriakliniken, Kungsgatan"
+2660,"Helsa Vårdcentral, Knäred",1 läkare,42,Privat,Datoriserad växel,Högst 14 dagar,Primärvård,2,,"Helsa Vårdcentral, Knäred"
+2661,"Familjeläkarna vid torget, Laholm",,42,Privat,,,Primärvård,2,,"Familjeläkarna vid torget, Laholm"
+2662,Vårdcentral Bäckagård,2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentral Bäckagård
+2663,Vårdcentral Falkenberg,,42,Offentlig,,,Primärvård,2,,Vårdcentral Falkenberg
+2664,Läjeskliniken,,42,Privat,,,Primärvård,2,,Läjeskliniken
+2665,"Kattegattkliniken, Eldsberga",2 - 4 läkare,42,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Kattegattkliniken, Eldsberga"
+2666,Vårdcentral Ullared,2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Ullared
+2667,Vårdcentral Vessigebro,,42,Offentlig,,,Primärvård,2,,Vårdcentral Vessigebro
+2668,"Vårdcentral Håsten, Varberg",2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentral Håsten, Varberg"
+2669,Capio Husläkarna Vallda,5 - 7 läkare,42,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Capio Husläkarna Vallda
+2670,Vårdcentral Hertig Knut,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentral Hertig Knut
+2671,Vårdcentral Torup,,42,Offentlig,,,Primärvård,2,,Vårdcentral Torup
+2672,"Husläkarna Varmbadhuset, Varberg",,42,Privat,,,Primärvård,2,,"Husläkarna Varmbadhuset, Varberg"
+2673,"Vårdcentral Centrum, Laholm",5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentral Centrum, Laholm"
+2674,Läkargruppen Tre Hjärtan,,42,Privat,,,Primärvård,2,,Läkargruppen Tre Hjärtan
+2675,Vårdcentral Särö,5 - 7 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Särö
+2676,Familjeläkarna Skrea,,42,Privat,,,Primärvård,2,,Familjeläkarna Skrea
+2677,Amadeuskliniken Söndrum,5 - 7 läkare,42,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Amadeuskliniken Söndrum
+2678,Vårdcentral Nyhem,2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentral Nyhem
+2679,Vårdcentral Andersberg,2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Andersberg
+2680,Amadeuskliniken Fyllinge,2 - 4 läkare,42,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Amadeuskliniken Fyllinge
+3384,Rävlanda vårdcentral,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Rävlanda vårdcentral
+3385,Hjortmossens Läkarhus,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hjortmossens Läkarhus
+3386,Närhälsan Kyrkbyn vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Kyrkbyn vårdcentral
+3387,Vårdcentralen Läkarhuset,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Läkarhuset
+3388,Aleris Torggatans Läkarmottagning,1 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Aleris Torggatans Läkarmottagning
+3389,Närhälsan Skogslyckan vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Skogslyckan vårdcentral
+3390,Carema Vårdcentral Orust,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema Vårdcentral Orust
+3391,Närhälsan Viskafors vårdcentral,1 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Viskafors vårdcentral
+3392,Medpro Clinic Lilla Edet Vårdcentral AB,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Medpro Clinic Lilla Edet Vårdcentral AB
+3393,Närhälsan Landvetter vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Landvetter vårdcentral
+3394,Kvarterskliniken Tanum,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kvarterskliniken Tanum
+3395,Vårdcentralen Kurhälsan - Falköping,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kurhälsan - Falköping
+3396,Sävedalens Vårdcentral,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Sävedalens Vårdcentral
+3397,Fredriksdals Läkarhus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Fredriksdals Läkarhus
+3398,Brämhults Vårdcentral,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Brämhults Vårdcentral
+3399,"Allemanshälsans vårdcentral, Västra Frölunda",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Allemanshälsans vårdcentral, Västra Frölunda"
+3400,"Ekenhälsan, Kållered",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Ekenhälsan, Kållered"
+3401,Capio Citykliniken Amhult -Torslanda,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Citykliniken Amhult -Torslanda
+3402,Närhälsan Sörhaga vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Sörhaga vårdcentral
+3403,Närhälsan Styrsö vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Styrsö vårdcentral
+3404,Närhälsan Slottsskogen vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Slottsskogen vårdcentral
+3405,Hagaklinikens vårdcentral,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hagaklinikens vårdcentral
+3406,Närhälsan Olskroken vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Olskroken vårdcentral
+3407,Närhälsan Ljungskile vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Ljungskile vårdcentral
+3408,Närhälsan Södra Ryd vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Södra Ryd vårdcentral
+3409,"Allemanshälsans vårdcentral, Sävedalen",,51,Privat,,,Primärvård,2,,"Allemanshälsans vårdcentral, Sävedalen"
+3410,Kinnekullehälsan Vårdcentral Mariestad,5 - 7 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Kinnekullehälsan Vårdcentral Mariestad
+3411,Närhälsan Tibro vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Närhälsan Tibro vårdcentral
+3412,Närhälsan Mellerud vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Mellerud vårdcentral
+3413,Capio Citykliniken Lundby sjukhus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Citykliniken Lundby sjukhus
+3414,Nötkärnan Kortedala Vårdcentral och BVC,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nötkärnan Kortedala Vårdcentral och BVC
+3415,"Centrumpraktiken, Kungälv",5 - 7 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Centrumpraktiken, Kungälv"
+3416,Närhälsan Sandared vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Sandared vårdcentral
+3417,Närhälsan Opaltorget vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Opaltorget vårdcentral
+3418,Närhälsan Sylte vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Sylte vårdcentral
+3419,Kungsportsläkarna,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kungsportsläkarna
+3420,Närhälsan Brastad vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Brastad vårdcentral
+3421,Närhälsan Guldvingen vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Närhälsan Guldvingen vårdcentral
+3422,Närhälsan Herrljunga vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Herrljunga vårdcentral
+3423,Närhälsan Gibraltargatan vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Gibraltargatan vårdcentral
+3424,Vårdcentralen Fritsla (Medhelp AB ),2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Fritsla (Medhelp AB )
+3425,Närhälsan Fristad vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Fristad vårdcentral
+3426,Närhälsan Tidan vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Tidan vårdcentral
+3427,Selmas Läkarhus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Selmas Läkarhus
+3428,"Hälsans Hus, Landvetter",,51,Privat,,,Primärvård,2,,"Hälsans Hus, Landvetter"
+3429,Sotenäs Vårdcentral i Hunnebostrand,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Sotenäs Vårdcentral i Hunnebostrand
+3430,"Allemanshälsans vårdcentral, Gamlestaden",1 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Allemanshälsans vårdcentral, Gamlestaden"
+3431,Närhälsan Hjällbo vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Hjällbo vårdcentral
+3432,Nötkärnan Friskväderstorgets Vårdcentral och BVC,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nötkärnan Friskväderstorgets Vårdcentral och BVC
+3433,Närhälsan Färgelanda vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Färgelanda vårdcentral
+3434,"Sävelången Familjeläkare och BVC, Alingsås",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Sävelången Familjeläkare och BVC, Alingsås"
+3435,"Vårdcentralen Kusten, Ytterby",,51,Privat,,,Primärvård,2,,"Vårdcentralen Kusten, Ytterby"
+3436,Närhälsan Mariestad vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Mariestad vårdcentral
+3437,Närhälsan Tranemo vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Tranemo vårdcentral
+3438,Billdals vårdcentral,,51,Privat,,,Primärvård,2,,Billdals vårdcentral
+3439,Närhälsan Dalaberg vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Dalaberg vårdcentral
+3440,Capio Vårdcentral Noltorp,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Vårdcentral Noltorp
+3441,Närhälsan Ulricehamn vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Ulricehamn vårdcentral
+3442,Närhälsan Svenljunga vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Närhälsan Svenljunga vårdcentral
+3443,Backa läkarhus,8 eller fler läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Backa läkarhus
+3444,Vårdcentralen Bohus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Bohus
+3445,"Medical Center Vårdcentral och BVC, Göteborg",,51,Privat,,,Primärvård,2,,"Medical Center Vårdcentral och BVC, Göteborg"
+3446,Capio vårdcentral Sävedalen,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio vårdcentral Sävedalen
+3447,Närhälsan Vargön vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Vargön vårdcentral
+3448,Närhälsa Boda vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsa Boda vårdcentral
+3449,Läkargruppen Mölndalsbro KB,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Läkargruppen Mölndalsbro KB
+3450,Närhälsan Askim vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Askim vårdcentral
+3451,Närhälsan Frölunda vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Frölunda vårdcentral
+3452,Närhälsan Bollebygd vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Bollebygd vårdcentral
+3453,Närhälsan Hindås vårdcentral,1 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Hindås vårdcentral
+3454,Kvarterskliniken Lorensberg,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kvarterskliniken Lorensberg
+3455,Närhälsan Trandared vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Trandared vårdcentral
+3456,Närhälsan Angered vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Angered vårdcentral
+3457,Närhälsan Heimdal vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Heimdal vårdcentral
+3458,Närhälsan Dalsjöfors vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Dalsjöfors vårdcentral
+3459,Närhälsan Töreboda vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Töreboda vårdcentral
+3460,Akutläkarna Frölunda,,51,Privat,,,Primärvård,2,,Akutläkarna Frölunda
+3461,Närhälsan Furulund vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Furulund vårdcentral
+3462,"Vårdcentralen Kusten, Marstrand",,51,Privat,,,Primärvård,2,,"Vårdcentralen Kusten, Marstrand"
+3463,Nötkärnan Bergsjön Vårdcentral och BVC,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nötkärnan Bergsjön Vårdcentral och BVC
+3464,Närhälsan Herrestad vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Närhälsan Herrestad vårdcentral
+3465,Närhälsan Solgärde vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Solgärde vårdcentral
+3466,Närhälsan Tuve vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Tuve vårdcentral
+3467,Kvarterskliniken Lilla Torget,,51,Privat,,,Primärvård,2,,Kvarterskliniken Lilla Torget
+3468,"Vårdcentralen Kusten, Kärna",,51,Privat,,,Primärvård,2,,"Vårdcentralen Kusten, Kärna"
+3469,Capio Citykliniken Gårda,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Citykliniken Gårda
+3470,Vårdecentralen Torpa,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdecentralen Torpa
+3471,Maria Alberts vårdcentral,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Maria Alberts vårdcentral
+3472,Närhälsan Skene vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Skene vårdcentral
+3473,Vårdcentralen Herkules,8 eller fler läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Herkules
+3474,Närhälsan Vara-Kvänum vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Vara-Kvänum vårdcentral
+3475,Närhälsan Södra Torget vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Södra Torget vårdcentral
+3476,Närhälsan Torslanda vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Torslanda vårdcentral
+3477,Närhälsan Kärra vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Kärra vårdcentral
+3478,Närhälsan Horred vårdcentral,,51,Offentlig,,,Primärvård,2,,Närhälsan Horred vårdcentral
+3479,Närhälsan Gullspång/Hova vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Närhälsan Gullspång/Hova vårdcentral
+3480,Kvarterskliniken Husaren,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kvarterskliniken Husaren
+3481,Torslanda Läkarhus,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Torslanda Läkarhus
+3482,Vårdcentral Sjuntorp,2 - 4 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentral Sjuntorp
+3483,Närhälsan Nossebro vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Nossebro vårdcentral
+3484,Vårdcentralen Carlanderska,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Carlanderska
+3485,Närhälsan Högsbo vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Högsbo vårdcentral
+3486,Almö Läkarhus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Almö Läkarhus
+3487,Närhälsan Gamlestadstorget vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Närhälsan Gamlestadstorget vårdcentral
+3488,"Johannesvården - vårdcentral och BVC, Västra Frölunda",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Johannesvården - vårdcentral och BVC, Västra Frölunda"
+3489,Närhälsan Sätila vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Närhälsan Sätila vårdcentral
+3490,Närhälsan Oden vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Oden vårdcentral
+3491,Närhälsan Torpavallen vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Torpavallen vårdcentral
+3492,Angereds Läkarhus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Angereds Läkarhus
+3493,Nödinge vårdcentral,5 - 7 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Nödinge vårdcentral
+3494,Medpro Clinic Brålanda vårdcentral,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Medpro Clinic Brålanda vårdcentral
+3495,Närhälsan Bäckefors vårdcentral,1 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Bäckefors vårdcentral
+3496,Nötkärnan Kållereds Familjeläkare och BVC,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nötkärnan Kållereds Familjeläkare och BVC
+3497,Närhälsan Nordmanna vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Nordmanna vårdcentral
+3498,Närhälsan Karlsborg vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Karlsborg vårdcentral
+3499,Hälsocentralen i Hjo,,51,Privat,,,Primärvård,2,,Hälsocentralen i Hjo
+3500,Carema Vårdcentral Grästorp,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema Vårdcentral Grästorp
+3501,Närhälsan Sjöbo vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Sjöbo vårdcentral
+3502,Närhälsan Dals-Ed vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Dals-Ed vårdcentral
+3503,Närhälsan Bjurslätt vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Närhälsan Bjurslätt vårdcentral
+3504,Närhälsan Gråbo vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Gråbo vårdcentral
+3505,"Vårdcentralen Centrum, Skövde",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Centrum, Skövde"
+3506,Närhälsan Eriksberg vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Eriksberg vårdcentral
+3507,Närhälsan Backa vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Backa vårdcentral
+3508,Backa Läkarhusgruppen Stenungsund,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Backa Läkarhusgruppen Stenungsund
+3509,Närhälsan Norrmalm vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Närhälsan Norrmalm vårdcentral
+3510,Carema Vårdcentral Noltorp,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema Vårdcentral Noltorp
+3511,Achima Care Uddevalla vårdcentral,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Achima Care Uddevalla vårdcentral
+3512,Närhälsan Mölnlycke vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Mölnlycke vårdcentral
+3513,Närhälsan Tanumshede vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Tanumshede vårdcentral
+3514,Närhälsan Floby vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Floby vårdcentral
+3515,Närhälsan Lindome vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Lindome vårdcentral
+3516,Närhälsan Bengtsfors vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Bengtsfors vårdcentral
+3517,"Allemanshälsans vårdcentral, Jungfruplatsen",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Allemanshälsans vårdcentral, Jungfruplatsen"
+3518,Närhälsan Dagson vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Dagson vårdcentral
+3519,Hönö vårdcentral,5 - 7 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Hönö vårdcentral
+3520,Närhälsan Lysekil vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Lysekil vårdcentral
+3521,Citysjukhuset +7 Vårdcentral,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Citysjukhuset +7 Vårdcentral
+3522,Närhälsan Källstorp vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Källstorp vårdcentral
+3523,Kvarterskliniken Almedal,,51,Privat,,,Primärvård,2,,Kvarterskliniken Almedal
+3524,Närhälsan Partille vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Partille vårdcentral
+3525,"Allemanshälsans vårdcentral, Lunden",1 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Allemanshälsans vårdcentral, Lunden"
+3526,"Västerledens Vårdcentral, Grimmered",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Västerledens Vårdcentral, Grimmered"
+3527,Närhälsan Vårgårda vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Vårgårda vårdcentral
+3528,Närhälsan Vänerparken vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Närhälsan Vänerparken vårdcentral
+3529,Vårdcentralen Stenbocken,5 - 7 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Stenbocken
+3530,Carema Vårdcentral Mölndal,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema Vårdcentral Mölndal
+3531,Wästerläkarna,8 eller fler läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Wästerläkarna
+3532,Närhälsan Öckerö vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Öckerö vårdcentral
+3533,Kinnekullehälsan Vårdcentral Götene,1 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Kinnekullehälsan Vårdcentral Götene
+3534,"Järnhälsan, Göteborg",2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Järnhälsan, Göteborg"
+3535,Närhälsan Biskopsgården vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Biskopsgården vårdcentral
+3536,Närhälsan Stenungsund vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Stenungsund vårdcentral
+3537,Närhälsan Hentorp vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Hentorp vårdcentral
+3538,Capio Vårdcentral Grästorp,,51,Privat,,,Primärvård,2,,Capio Vårdcentral Grästorp
+3539,Närhälsan Tidaholm vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Närhälsan Tidaholm vårdcentral
+3540,Närhälsan Stora Höga vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Stora Höga vårdcentral
+3541,Närhälsan Tjörn vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Tjörn vårdcentral
+3542,Närhälsan Lerum vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Lerum vårdcentral
+3543,Närhälsan Kinna vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Kinna vårdcentral
+3544,Närhälsan Götene vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Närhälsan Götene vårdcentral
+3545,"Medpro Clinic Brålanda-Torpa Vårdcentral, Vänersborg",5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Medpro Clinic Brålanda-Torpa Vårdcentral, Vänersborg"
+3546,"Bräcke Diakoni Vårdcentralen Vilan, Skara",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Bräcke Diakoni Vårdcentralen Vilan, Skara"
+3547,Närhälsan Ekmanska vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Ekmanska vårdcentral
+3548,Närhälsan Krokslätt vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Krokslätt vårdcentral
+3549,Vårdcentralen Bohuslinden - Strömstad,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Bohuslinden - Strömstad
+3550,"Allemanshälsans vårdcentral, Nol",,51,Privat,,,Primärvård,2,,"Allemanshälsans vårdcentral, Nol"
+3551,Akutläkarna Vårdcentralen Stampen,,51,Privat,,,Primärvård,2,,Akutläkarna Vårdcentralen Stampen
+3552,Närhälsan Sollebrunn vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Sollebrunn vårdcentral
+3553,Vårdcentralen Skepplanda,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skepplanda
+3554,Närhälsan Ågårdsskogen vårdcentral,,51,Offentlig,,,Primärvård,2,,Närhälsan Ågårdsskogen vårdcentral
+3555,Närhälsan Kungshöjd vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Kungshöjd vårdcentral
+3556,Närhälsan Dalum vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Dalum vårdcentral
+3557,Närhälsan Floda vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Floda vårdcentral
+3558,"Balderkliniken, Åmål",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Balderkliniken, Åmål"
+3559,Vårdcentralen Brålanda,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Brålanda
+3560,Vårdcentralen Silentzvägen Uddevalla,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Vårdcentralen Silentzvägen Uddevalla
+3561,Vårdcentralen Feelgood Torslanda,1 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Feelgood Torslanda
+3562,Lysekils Läkarhus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Lysekils Läkarhus
+3563,Kållereds vårdcentral,,51,Privat,,,Primärvård,2,,Kållereds vårdcentral
+3564,Närhälsan Kungshamn vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Kungshamn vårdcentral
+3565,Närhälsan Fjällbacka vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Närhälsan Fjällbacka vårdcentral
+3566,"Capio vårdcentral Axess, Göteborg",5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio vårdcentral Axess, Göteborg"
+3567,"Vårdcentralen Nordstan, Vänersborg",5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Nordstan, Vänersborg"
+3568,Familjehälsan Vårdcentral,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Familjehälsan Vårdcentral
+3569,Närhälsan Älvängen vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Älvängen vårdcentral
+3570,Kvänum vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kvänum vårdcentral
+3571,Bohuspraktiken,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bohuspraktiken
+3572,Adina Hälsans Vårdcentral Nol,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Adina Hälsans Vårdcentral Nol
+3573,Capio Vårdcentral Orust,8 eller fler läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Vårdcentral Orust
+3574,Närhälsan Brämaregården vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Brämaregården vårdcentral
+3575,Medpro Clinic Stavre Vårdcentral,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Medpro Clinic Stavre Vårdcentral
+3576,Cityläkarna Borås,,51,Privat,,,Primärvård,2,,Cityläkarna Borås
+3577,Nötkärnan Masthugget Familjeläkare och BVC,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nötkärnan Masthugget Familjeläkare och BVC
+3578,"Vårdcentralen City, Skövde",1 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen City, Skövde"
+3579,Carema Vårdcentral Uddevalla,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Carema Vårdcentral Uddevalla
+3580,Närhälsan Lövgärdet vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Lövgärdet vårdcentral
+3581,Nya Vårdcentralen Kortedala Torg,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nya Vårdcentralen Kortedala Torg
+3582,"Din Klinik, Göteborg",,51,Privat,,,Primärvård,2,,"Din Klinik, Göteborg"
+3583,Närhälsan Billingen vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Billingen vårdcentral
+3584,Närhälsan Åby vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Åby vårdcentral
+3585,Skagerns Vård och Hälsoenhet,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Skagerns Vård och Hälsoenhet
+3586,Närhälsan Mösseberg vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Mösseberg vårdcentral
+3587,Närhälsan Kungssten vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Närhälsan Kungssten vårdcentral
+3588,Närhälsan Skara vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Skara vårdcentral
+3589,Närhälsan Strömstad vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Strömstad vårdcentral
+3590,Närhälsan Ängabo vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Ängabo vårdcentral
+3591,Nötkärnan Hovås Askim Familjeläkare och BVC,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nötkärnan Hovås Askim Familjeläkare och BVC
+3592,"HälsoBrunnen Vårdcentral, Ulricehamn",2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"HälsoBrunnen Vårdcentral, Ulricehamn"
+3593,Allékliniken Sleipner,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Allékliniken Sleipner
+3594,Capio vårdcentral Hovås/Billdal,5 - 7 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Capio vårdcentral Hovås/Billdal
+3595,Närhälsan Majorna vårdcentral,8 eller fler läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Majorna vårdcentral
+3596,Närhälsan Åmål vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Åmål vårdcentral
+3597,Primapraktiken Trollhättan,5 - 7 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Primapraktiken Trollhättan
+3598,Närhälsan Munkedal vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Munkedal vårdcentral
+3599,Närhälsan Björkekärr vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Björkekärr vårdcentral
+3600,Vårdcentralen Lilla Edet,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vårdcentralen Lilla Edet
+3601,"Allemanshälsans vårdcentral, Landala",2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Allemanshälsans vårdcentral, Landala"
+3602,"Bräcke Diakoni Vårdcentralen Centrum, Alingsås",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Bräcke Diakoni Vårdcentralen Centrum, Alingsås"
+3603,Närhälsan Masthugget vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Masthugget vårdcentral
+3604,Närhälsan Hjo vårdcentral,,51,Offentlig,,,Primärvård,2,,Närhälsan Hjo vårdcentral
+3605,Capio Vårdcentral Mölndal,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Vårdcentral Mölndal
+3606,Närhälsan Stenstorp vårdcentral,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Stenstorp vårdcentral
+3607,"Bräcke Diakoni Vårdcentralen Centralhälsan, Falköping",,51,Privat,,,Primärvård,2,,"Bräcke Diakoni Vårdcentralen Centralhälsan, Falköping"
+3608,Vårdcentralen Grums,2 - 4 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Grums
+3609,Vårdcentralen Hagfors,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Hagfors
+3610,Vålbergs vårdcentral,2 - 4 läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vålbergs vårdcentral
+3611,Vårdcentralen Skoghall/Lövnäs,8 eller fler läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skoghall/Lövnäs
+3612,Vårdcentralen Herrhagen,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Herrhagen
+3613,Vårdcentralen Kronoparken,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kronoparken
+3614,Vårdcentralen Töcksfors,2 - 4 läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Töcksfors
+3615,Vårdcentralen Eda,5 - 7 läkare,54,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Eda
+3616,Vårdcentralen Kristinehamn/Nybble,8 eller fler läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kristinehamn/Nybble
+3617,Vårdcentralen Filipstad,2 - 4 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Filipstad
+3618,"Vintergatans Vårdcentral, Kristinehamn",5 - 7 läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Vintergatans Vårdcentral, Kristinehamn"
+3619,Vårdcentralen Forshaga,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Forshaga
+3620,"Filipstads nya Vårdcentral, Filipstad",2 - 4 läkare,54,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Filipstads nya Vårdcentral, Filipstad"
+3621,Vårdcentralen Munkfors,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Munkfors
+3622,Vårdcentralen Likenäs,2 - 4 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Likenäs
+3623,"Vårdcentralen Åttkanten, Karlstad",5 - 7 läkare,54,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Åttkanten, Karlstad"
+3624,Vårdcentralen Rud,8 eller fler läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Rud
+3625,Vårdcentralen Torsby,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Torsby
+3626,Vårdcentralen Nybble,,54,Privat,,,Primärvård,2,,Vårdcentralen Nybble
+3627,Vårdcentralen Årjäng,2 - 4 läkare,54,Offentlig,Datoriserad växel,Samma dag,Primärvård,2,,Vårdcentralen Årjäng
+3628,"Grums Nya Vårdcentral, Grums",2 - 4 läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Grums Nya Vårdcentral, Grums"
+3629,Töcksforspraktiken,2 - 4 läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Töcksforspraktiken
+3630,Vårdcentralen Deje,,54,Offentlig,,,Primärvård,2,,Vårdcentralen Deje
+3631,Vårdcentral Verkstaden,8 eller fler läkare,54,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Vårdcentral Verkstaden
+3632,Vårdcentralen Säffle/Nysäter,2 - 4 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Säffle/Nysäter
+3633,Vårdcentralen Ekshärad,2 - 4 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ekshärad
+3634,Vårdcentralen Kristinehamn,8 eller fler läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kristinehamn
+3635,Vårdcentralen Skåre,2 - 4 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Skåre
+3636,Kinnekullehälsan Vårdcentral Arvika,2 - 4 läkare,54,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kinnekullehälsan Vårdcentral Arvika
+3637,Vårdcentralen Storfors,2 - 4 läkare,54,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Vårdcentralen Storfors
+3638,Vårdcentralen Kil,8 eller fler läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kil
+3639,"Drillsnäppans vårdcentral, Kristinehamn",2 - 4 läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Drillsnäppans vårdcentral, Kristinehamn"
+3640,Vårdcentralen Västerstrand,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Västerstrand
+3641,Vårdcentralen Gripen,8 eller fler läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Gripen
+3642,Vårdcentralen Molkom,2 - 4 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Molkom
+3643,"Svea vårdcentral, Säffle",5 - 7 läkare,54,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Svea vårdcentral, Säffle"
+3644,Vårdcentralen Sunne,5 - 7 läkare,54,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Sunne
+3645,Laxå vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Laxå vårdcentral
+3646,Baggängens vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Baggängens vårdcentral
+3647,Brickebackens vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Brickebackens vårdcentral
+3648,Lindesbergs vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Lindesbergs vårdcentral
+3649,Mikaeli vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mikaeli vårdcentral
+3650,Vivalla vårdcentral,2 - 4 läkare,55,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vivalla vårdcentral
+3651,Pålsboda vårdcentral,,55,Privat,,,Primärvård,2,,Pålsboda vårdcentral
+3652,Karla vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Karla vårdcentral
+3653,Frövi vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Frövi vårdcentral
+3654,Odensbackens vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Odensbackens vårdcentral
+3655,Pilgårdens Vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Pilgårdens Vårdcentral
+3656,Lillåns vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Lillåns vårdcentral
+3657,Storå vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Storå vårdcentral
+3658,Tybble vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Tybble vårdcentral
+3659,Varberga vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Varberga vårdcentral
+3660,Hällefors vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hällefors vårdcentral
+3661,Nora Vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nora Vårdcentral
+3662,Hallsbergs vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hallsbergs vårdcentral
+3663,Kumla vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kumla vårdcentral
+3664,Karolina vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Karolina vårdcentral
+3665,Olaus Petri vårdcentral,8 eller fler läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Olaus Petri vårdcentral
+3666,Skebäcks vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Skebäcks vårdcentral
+3667,Adolfsbergs vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Adolfsbergs vårdcentral
+3668,Fellingsbro vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Fellingsbro vårdcentral
+3669,Brickegårdens vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Brickegårdens vårdcentral
+3670,Capio vårdcentral Lekeberg,5 - 7 läkare,55,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio vårdcentral Lekeberg
+3671,Askersunds vårdcentral,5 - 7 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Askersunds vårdcentral
+3672,Capio vårdcentral Haga,5 - 7 läkare,55,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio vårdcentral Haga
+3673,Kopparbergs vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kopparbergs vårdcentral
+3674,Ängens vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Ängens vårdcentral
+3675,Akvedukten i Västmanland AB,2 - 4 läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Akvedukten i Västmanland AB
+3676,Odensvi Läkarmottagning,5 - 7 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Odensvi Läkarmottagning
+3677,Capio Vårdcentral Vallby,5 - 7 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Vårdcentral Vallby
+3678,Herrgärdet vårdcentral,5 - 7 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Herrgärdet vårdcentral
+3679,Skinnskatteberg vårdcentral,2 - 4 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Skinnskatteberg vårdcentral
+3680,"Virsbodoktorn, Virsbo",,56,Privat,,,Primärvård,2,,"Virsbodoktorn, Virsbo"
+3681,Kolbäcks familjeläkarenhet,,56,Privat,,,Primärvård,2,,Kolbäcks familjeläkarenhet
+3682,Åbågens Nya Familjeläkarenhet,2 - 4 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Åbågens Nya Familjeläkarenhet
+3683,Kungsuddens vårdcentral,,56,Privat,,,Primärvård,2,,Kungsuddens vårdcentral
+3684,Apalby familjeläkarenhet,,56,Privat,,,Primärvård,2,,Apalby familjeläkarenhet
+3685,Servicehälsan  i Västerås,,56,Privat,,,Primärvård,2,,Servicehälsan  i Västerås
+3687,Hemdal vårdcentral,5 - 7 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hemdal vårdcentral
+3688,"Mitt hjärta vårdcentral, Fagersta",5 - 7 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Mitt hjärta vårdcentral, Fagersta"
+3689,Kungsörs vårdcentral,2 - 4 läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Kungsörs vårdcentral
+3690,Ängsgården vårdcentral,,56,Privat,,,Primärvård,2,,Ängsgården vårdcentral
+3691,Sala Väsby vårdcentral,5 - 7 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sala Väsby vårdcentral
+3692,Ullvi-Tuna vårdcentral,5 - 7 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ullvi-Tuna vårdcentral
+3693,"PRIMA familjeläkarmottagning, Västerås",,56,Privat,,,Primärvård,2,,"PRIMA familjeläkarmottagning, Västerås"
+3695,Skultuna familjeläkarmottagning,2 - 4 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Skultuna familjeläkarmottagning
+3696,Mitt Hjärta Vårdcentral Köping,2 - 4 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mitt Hjärta Vårdcentral Köping
+3697,Achima Care Sala Vårdcentral,2 - 4 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Achima Care Sala Vårdcentral
+3698,"Citypraktiken, Västerås",8 eller fler läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Citypraktiken, Västerås"
+3699,"LäkarGruppen, Västerås",5 - 7 läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"LäkarGruppen, Västerås"
+3700,Carema Vallby vårdcentral,5 - 7 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema Vallby vårdcentral
+3701,Familjeläkarna Önsta-Gryta,5 - 7 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Familjeläkarna Önsta-Gryta
+3702,Åbågens vårdcentral AB,2 - 4 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Åbågens vårdcentral AB
+3703,Bäckby vårdcentral,5 - 7 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bäckby vårdcentral
+3704,Grindberga Familjeläkarenhet,2 - 4 läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Grindberga Familjeläkarenhet
+3705,Kolsva vårdcentral,2 - 4 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kolsva vårdcentral
+3706,Norberg vårdcentral,2 - 4 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Norberg vårdcentral
+3707,Carema Vårdcentral Köping,2 - 4 läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Carema Vårdcentral Köping
+3708,Hallstahammar vårdcentral,5 - 7 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hallstahammar vårdcentral
+3709,Carema vårdcentral Västerås,8 eller fler läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema vårdcentral Västerås
+3710,Capio Vårdcentral Västerås City,8 eller fler läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Vårdcentral Västerås City
+3711,Oxbacken familjeläkarmottagning,5 - 7 läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Oxbacken familjeläkarmottagning
+3712,Byjordens familjeläkarenhet,2 - 4 läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Byjordens familjeläkarenhet
+3715,"Vårdcentral Norslund-Svärdsjö, mottagning Norslund",8 eller fler läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentral Norslund-Svärdsjö, mottagning Norslund"
+3719,Skogsbo vårdcentral,,57,Offentlig,,,Primärvård,2,,Skogsbo vårdcentral
+3720,"Vårdcentral Britsarvet-Grycksbo, mottagning Britsarvet",8 eller fler läkare,57,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,"Vårdcentral Britsarvet-Grycksbo, mottagning Britsarvet"
+3726,"Vårdcentral Avesta, Mottagning Horndal",,57,Offentlig,,,Primärvård,2,,"Vårdcentral Avesta, Mottagning Horndal"
+3730,"Vårdcentral Britsarvet-Grycksbo, mottagning Grycksbo",2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentral Britsarvet-Grycksbo, mottagning Grycksbo"
+3731,"Vårdcentral Norslund-Svärdsjö, mottagning Svärdsjö",2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentral Norslund-Svärdsjö, mottagning Svärdsjö"
+3733,Smedjebackens vårdcentral,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Smedjebackens vårdcentral
+3734,Vårdcentralen Britsarvet - Grycksbo,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Britsarvet - Grycksbo
+3736,"Vårdcentral Södra Dalarna, Hedemora",2 - 4 läkare,57,Privat,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,"Vårdcentral Södra Dalarna, Hedemora"
+3738,Vårdcentralen Norslund - Svärdsjö,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Norslund - Svärdsjö
+3747,Avesta vårdcentral,8 eller fler läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Avesta vårdcentral
+3748,Solsidans vårdcentral,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Solsidans vårdcentral
+3750,Krylbo Vårdcentral,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Krylbo Vårdcentral
+3751,Carema Bomhus hälsocentral,5 - 7 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema Bomhus hälsocentral
+3752,Sandviken Södra - din hälsocentral,8 eller fler läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sandviken Södra - din hälsocentral
+3753,Hedesunda Färnebo Hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hedesunda Färnebo Hälsocentral
+3754,Andersbergs hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Andersbergs hälsocentral
+3755,Strömsbro hälsocentral,8 eller fler läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Strömsbro hälsocentral
+3756,Linden hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Linden hälsocentral
+3757,Oxtorgets Hälsocentral AB,2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Oxtorgets Hälsocentral AB
+3758,Harmångers Hälsocentral Hälsingeläkarna AB,2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Harmångers Hälsocentral Hälsingeläkarna AB
+3759,Hamrånge  hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hamrånge  hälsocentral
+3760,Färnebo hälsocentral,,61,Offentlig,,,Primärvård,2,,Färnebo hälsocentral
+3761,Söderhamnsfjärdens hälsocentral,2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Söderhamnsfjärdens hälsocentral
+3762,Söderhamns hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Söderhamns hälsocentral
+3763,Färila Los Hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Färila Los Hälsocentral
+3764,Södertulls hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Södertulls hälsocentral
+3765,Capio Hälsocentral Bomhus,5 - 7 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Hälsocentral Bomhus
+3766,Sandviken Norra - Din hälsocentral,8 eller fler läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sandviken Norra - Din hälsocentral
+3767,Gävle Strand,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gävle Strand
+3768,Ockelbo hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ockelbo hälsocentral
+3769,Bergsjö hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bergsjö hälsocentral
+3770,Vallhov  hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vallhov  hälsocentral
+3771,Ljusdal Ramsjö Hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ljusdal Ramsjö Hälsocentral
+3772,Bomhus hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bomhus hälsocentral
+3773,Storvik hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Storvik hälsocentral
+3774,Arbrå hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Arbrå hälsocentral
+3775,Capio Hälsocentral Brynäs,5 - 7 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Hälsocentral Brynäs
+3776,Hudiksvalls hälsocentral,8 eller fler läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hudiksvalls hälsocentral
+3777,Järvsö hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Järvsö hälsocentral
+3778,Ockelbo familjeläkarmottagning,,61,Privat,,,Primärvård,2,,Ockelbo familjeläkarmottagning
+3779,Björksätra Hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Björksätra Hälsocentral
+3780,"Hälsopartner hälsocentral, Sandviken",2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsopartner hälsocentral, Sandviken"
+3781,Friggesund hälsocentral,1 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Friggesund hälsocentral
+3782,"E-hälsan, Söderhamn",2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"E-hälsan, Söderhamn"
+3783,Iggesunds hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Iggesunds hälsocentral
+3784,Torget Hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Torget Hälsocentral
+3785,Alfta hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Alfta hälsocentral
+3786,Delsbo-Friggesund hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Delsbo-Friggesund hälsocentral
+3787,Stortorgets hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Stortorgets hälsocentral
+3788,"Varvet hälsocentral, Hudiksvall",5 - 7 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Varvet hälsocentral, Hudiksvall"
+3789,Centrum hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Centrum hälsocentral
+3790,Valbo hälsocentral,8 eller fler läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Valbo hälsocentral
+3791,Carema Hälsocentral Gävle,8 eller fler läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema Hälsocentral Gävle
+3792,Ljusne hälsocentral,2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ljusne hälsocentral
+3793,"Hälsocentral City, Gävle",2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsocentral City, Gävle"
+3794,Kilafors hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kilafors hälsocentral
+3795,Sätra hälsocentral Gävle,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sätra hälsocentral Gävle
+3796,Aleris hälsocentral Voxnadalen,,61,Privat,,,Primärvård,2,,Aleris hälsocentral Voxnadalen
+3797,Edsbyns hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Edsbyns hälsocentral
+3798,Carema hälsocentral Brynäs,8 eller fler läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Carema hälsocentral Brynäs
+3799,Aleris Hälsocentral  Bollnäs,8 eller fler läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Aleris Hälsocentral  Bollnäs
+3800,Hofors hälsocentral,5 - 7 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hofors hälsocentral
+3801,Capio Hälsocentral Gävle,8 eller fler läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Capio Hälsocentral Gävle
+3802,Njurunda vårdcentral,5 - 7 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Njurunda vårdcentral
+3803,Hälsocentralen Kramfors,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Kramfors
+3804,Timrå vårdcentral,5 - 7 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Timrå vårdcentral
+3805,Hälsocentralen Centrum Sundsvall,8 eller fler läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Centrum Sundsvall
+3806,Hälsocentralen Husum/Trehörningsjö,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Hälsocentralen Husum/Trehörningsjö
+3807,Hälsocentralen Ramsele,1 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Ramsele
+3808,Hälsocentralen Ankaret,8 eller fler läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Ankaret
+3809,"Öviks vårdcentral, Örnsköldsvik",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Öviks vårdcentral, Örnsköldsvik"
+3810,Alnö vårdcentral,2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Alnö vårdcentral
+3811,Sundsvalls vårdcentral,5 - 7 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sundsvalls vårdcentral
+3812,Hälsocentralen Matfors,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Matfors
+3813,Hälsocentralen Nacksta,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Nacksta
+3814,Hälsocentralen Junsele,1 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Junsele
+3815,"Johannesberg vårdcentral, Härnösand",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Johannesberg vårdcentral, Härnösand"
+3816,"Sensia Hälsocentral, Sundsvall",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Sensia Hälsocentral, Sundsvall"
+3817,Hälsocentralen Nyland,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Hälsocentralen Nyland
+3818,Hälsocentralen Liden,1 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Liden
+3819,Hälsocentralen Stöde,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Stöde
+3820,Hälsocentralen Sollefteå,8 eller fler läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Hälsocentralen Sollefteå
+3821,Hälsocentralen Bredbyn,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Bredbyn
+3822,Hälsocentralen Gilleberget,5 - 7 läkare,62,Offentlig,Datoriserad växel,Högst 14 dagar,Primärvård,2,,Hälsocentralen Gilleberget
+3823,"Ö-viks Vårdcentral, Örnsköldsvik",2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,"Ö-viks Vårdcentral, Örnsköldsvik"
+3824,"Öbacka vårdcentral, Härnösand",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,"Öbacka vårdcentral, Härnösand"
+3825,Söråker vårdcentral,2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Söråker vårdcentral
+3826,"Vårdcentralen Humanresurs, Örnsköldsvik",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Humanresurs, Örnsköldsvik"
+3827,Hälsocentralen Själevad,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Själevad
+3828,Hälsocentralen Höga Kusten,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Höga Kusten
+3829,Hälsocentralen Bjästa,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Bjästa
+3830,Hälsocentralen Granlo,5 - 7 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Granlo
+3831,"Vårdcentralen Sidsjö, Sundsvall",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Sidsjö, Sundsvall"
+3832,Hälsocentralen Domsjö,5 - 7 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Domsjö
+3833,Hälsocentralen Södra Sundet,8 eller fler läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Södra Sundet
+3834,Hälsocentralen Ånge,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Ånge
+3835,Hälsocentralen Ljustadalen,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hälsocentralen Ljustadalen
+3836,"Carema vårdcentral, Kramfors",2 - 4 läkare,62,Privat,Datoriserad växel,Högst 14 dagar,Primärvård,2,,"Carema vårdcentral, Kramfors"
+3837,Fränsta vårdcentral,2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Fränsta vårdcentral
+3838,Frösö hälsocentral,8 eller fler läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Frösö hälsocentral
+3839,Funäsdalen hälsocentral,5 - 7 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Funäsdalen hälsocentral
+3840,Lit Hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Lit Hälsocentral
+3841,Stugun hälsocentral,1 läkare,63,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Stugun hälsocentral
+3842,Hälsocentral Lugnvik,5 - 7 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentral Lugnvik
+3843,Svegs hälsocentral,5 - 7 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Svegs hälsocentral
+3844,Hallens vårdcentral,1 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hallens vårdcentral
+3845,Föllinge hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Föllinge hälsocentral
+3846,Backe hälsocentral,1 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Backe hälsocentral
+3847,Myrviken hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Myrviken hälsocentral
+3848,"Fjällhälsan Hede, Vemdalen",2 - 4 läkare,63,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Fjällhälsan Hede, Vemdalen"
+3849,Hotings hälsocentral,1 läkare,63,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Hotings hälsocentral
+3850,Brunflo hälsocentral,5 - 7 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Brunflo hälsocentral
+3851,Åre hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Åre hälsocentral
+3852,Kälarne hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kälarne hälsocentral
+3853,Offerdals hälsocentral,1 läkare,63,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Offerdals hälsocentral
+3854,"Nya Närvården, Strömsund-Hoting-Hammerdal",,63,Privat,,,Primärvård,2,,"Nya Närvården, Strömsund-Hoting-Hammerdal"
+3855,Strömsunds hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Strömsunds hälsocentral
+3856,Zätagränds hälsocentral,8 eller fler läkare,63,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Zätagränds hälsocentral
+3857,Järpens hälsocentral,5 - 7 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Järpens hälsocentral
+3858,Gäddede hälsocentral,1 läkare,63,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Gäddede hälsocentral
+3859,Odensala hälsocentral,8 eller fler läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Odensala hälsocentral
+3860,Utrikeshälsan Hammerdal,2 - 4 läkare,63,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Utrikeshälsan Hammerdal
+3861,Hammarstrands hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hammarstrands hälsocentral
+3862,Svenstaviks hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Svenstaviks hälsocentral
+3863,Torvalla hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Torvalla hälsocentral
+3864,Hälsocentral Krokom,5 - 7 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentral Krokom
+3865,Bräcke hälsocentral,2 - 4 läkare,63,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bräcke hälsocentral
+3866,Norrlandskliniken hälsocentral,2 - 4 läkare,64,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Norrlandskliniken hälsocentral
+3867,Bjurholm hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Bjurholm hälsocentral
+3868,Husläkarnas Hälsocentralen i Umeå,2 - 4 läkare,64,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Husläkarnas Hälsocentralen i Umeå
+3869,Dragonen hälsocentral,8 eller fler läkare,64,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Dragonen hälsocentral
+3870,Bureå hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bureå hälsocentral
+3871,Byske hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Byske hälsocentral
+3872,Kåge/Morö backe hälsocentral,8 eller fler läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kåge/Morö backe hälsocentral
+3873,Sorsele sjukstuga,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sorsele sjukstuga
+3874,Boliden hälsocentral,1 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Boliden hälsocentral
+3875,Vilhelmina sjukstuga,5 - 7 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vilhelmina sjukstuga
+3876,Robertsfors Hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Robertsfors Hälsocentral
+3877,Storuman sjukstuga,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Storuman sjukstuga
+3878,Ålidhem hälsocentral,8 eller fler läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ålidhem hälsocentral
+3879,"Medicinkonsulten AB hälsocentral, Lycksele",2 - 4 läkare,64,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Medicinkonsulten AB hälsocentral, Lycksele"
+3880,Tärnaby sjukstuga,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Tärnaby sjukstuga
+3881,Vännäs hälsocentral,5 - 7 läkare,64,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Vännäs hälsocentral
+3882,Lövånger Hälsocentral,,64,Offentlig,,,Primärvård,2,,Lövånger Hälsocentral
+3883,Dorotea sjukstuga,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Dorotea sjukstuga
+3884,Burträsk hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Burträsk hälsocentral
+3885,Ursvikens hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ursvikens hälsocentral
+3886,Mellanbygdens hälsocentral Lövånger/Robertsfors,5 - 7 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mellanbygdens hälsocentral Lövånger/Robertsfors
+3887,Åsele sjukstuga,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Åsele sjukstuga
+3888,Teg hälsocentral,8 eller fler läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Teg hälsocentral
+3889,Holmsund hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Holmsund hälsocentral
+3890,Erikslid hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Erikslid hälsocentral
+3891,Backen hälsocentral,5 - 7 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Backen hälsocentral
+3892,Nordmaling hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Nordmaling hälsocentral
+3893,"Stenbergska hälsocentral, Lycksele",5 - 7 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Stenbergska hälsocentral, Lycksele"
+3894,Heimdall hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Heimdall hälsocentral
+3895,Sävar hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sävar hälsocentral
+3896,Norsjö hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Norsjö hälsocentral
+3897,Citymottagningen hälsocentral i Umeå,2 - 4 läkare,64,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Citymottagningen hälsocentral i Umeå
+3898,Hälsogemenskapens hälsocentral i Jörn,1 läkare,64,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsogemenskapens hälsocentral i Jörn
+3899,Mariehem hälsocentral,8 eller fler läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mariehem hälsocentral
+3900,Vindeln hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Vindeln hälsocentral
+3901,Malå sjukstuga,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Malå sjukstuga
+3902,Hörnefors hälsocentral,2 - 4 läkare,64,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Hörnefors hälsocentral
+3903,Anderstorp hälsocentral,5 - 7 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Anderstorp hälsocentral
+3904,Ersboda hälsocentral,5 - 7 läkare,64,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Ersboda hälsocentral
+3905,"Hällans hälsocentral, Öjebyn",2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hällans hälsocentral, Öjebyn"
+3906,Harads vårdcentral,1 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Harads vårdcentral
+3907,"Sensia Hälsocentral, Boden",2 - 4 läkare,65,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Sensia Hälsocentral, Boden"
+3908,Haparandas hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Haparandas hälsocentral
+3909,"Norrskenets hälsocentral, Vittangi",,65,Privat,,,Primärvård,2,,"Norrskenets hälsocentral, Vittangi"
+3910,Malmbergets vårdcentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Malmbergets vårdcentral
+3911,Gällivare Hälsocentral,2 - 4 läkare,65,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gällivare Hälsocentral
+3912,Pajalas hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Pajalas hälsocentral
+3913,Arvidsjaurs hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Arvidsjaurs hälsocentral
+3914,"Cederkliniken, Piteå",5 - 7 läkare,65,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Cederkliniken, Piteå"
+3915,Grytnäs hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Grytnäs hälsocentral
+3916,Jokkmokks hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Jokkmokks hälsocentral
+3917,"Sensia Hälsocentral, Luleå",5 - 7 läkare,65,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Sensia Hälsocentral, Luleå"
+3918,Furunäsets hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Furunäsets hälsocentral
+3919,Överkalixs hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Överkalixs hälsocentral
+3920,Hortlaxs hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Hortlaxs hälsocentral
+3921,Sandens hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Sandens hälsocentral
+3922,Stadsvikens hälsocentral,8 eller fler läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Stadsvikens hälsocentral
+3923,Bergnäsets hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Bergnäsets hälsocentral
+3924,Övertorneås hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Övertorneås hälsocentral
+3925,Örnäsets hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Örnäsets hälsocentral
+3926,Älvsbyns hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Älvsbyns hälsocentral
+3927,"Sensia Hälsocentral, Piteå",5 - 7 läkare,65,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,"Sensia Hälsocentral, Piteå"
+3928,Råneås hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Råneås hälsocentral
+3929,Arjeplogs hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Arjeplogs hälsocentral
+3930,Björknäs hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Björknäs hälsocentral
+3931,Piteås hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Piteås hälsocentral
+3932,Erikslunds hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,Erikslunds hälsocentral
+3933,Norrfjärdens hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Norrfjärdens hälsocentral
+3934,Forsens hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Forsens hälsocentral
+3935,Hertsös hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hertsös hälsocentral
+3936,Granitens hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Granitens hälsocentral
+3937,Porsöns hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Porsöns hälsocentral
+3938,Gammelstads hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Gammelstads hälsocentral
+3939,Björkskatans hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Björkskatans hälsocentral
+3940,Kiruna hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Kiruna hälsocentral
+3941,Kalixs hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kalixs hälsocentral
+3942,Mjölkuddens hälsocentral,2 - 4 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Mjölkuddens hälsocentral
+3943,Roslagshälsans husläkarmottagning,,10,Privat,,,Primärvård,2,,Roslagshälsans husläkarmottagning
+3944,Baldersnäs Din hälsocentral,2 - 4 läkare,61,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Baldersnäs Din hälsocentral
+4107,"Boländernas vårdcentral, Uppsala",2 - 4 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Boländernas vårdcentral, Uppsala"
+4118,Vårdcentralen Tanumshede/Fjällbacka,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,Vårdcentralen Tanumshede/Fjällbacka
+4119,Vara vårdcentral,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vara vårdcentral
+4120,"Alviva, Volvo Närsjukvård",,51,Privat,,,Primärvård,2,,"Alviva, Volvo Närsjukvård"
+4121,Läkarhuset Göteborg,,51,Privat,,,Primärvård,2,,Läkarhuset Göteborg
+4122,Skepparens Läkarmottagning,,51,Privat,,,Primärvård,2,,Skepparens Läkarmottagning
+4123,"Allemanshälsans vårdcentral, Hisingen",1 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Allemanshälsans vårdcentral, Hisingen"
+4124,Vårdcentralen Ulrica,5 - 7 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Ulrica
+4125,Sävelången Familjeläkare,,51,Privat,,,Primärvård,2,,Sävelången Familjeläkare
+4126,"Allemanshälsans vårdcentral, Nya varvet",1 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Allemanshälsans vårdcentral, Nya varvet"
+4127,Vårdcentral Haga-Annedal,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Haga-Annedal
+4132,Fagersta Familjeläkarenhet,5 - 7 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Fagersta Familjeläkarenhet
+4133,"Capio Citykliniken, Hallstahammar",2 - 4 läkare,56,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Hallstahammar"
+4135,Granloholms vårdcentral,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Granloholms vårdcentral
+4137,Kronholmens vårdcentral,5 - 7 läkare,62,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Kronholmens vårdcentral
+4138,Vårdcentralen Blåsippan,5 - 7 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Blåsippan
+4140,Sundet vårdcentral,5 - 7 läkare,62,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Sundet vårdcentral
+4141,Vårdcentralen Viken,5 - 7 läkare,62,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Viken
+4142,Skönsmon vårdcentral,2 - 4 läkare,62,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Skönsmon vårdcentral
+4144,Laponias hälsocentral,5 - 7 läkare,65,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Laponias hälsocentral
+4156,Cityläkarna i Kalmar,2 - 4 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Cityläkarna i Kalmar
+4157,Vårdkliniken Ängelholm,,41,Privat,,,Primärvård,2,,Vårdkliniken Ängelholm
+4159,"Sickla Hälsocenter, Danviken",,10,Privat,,,Primärvård,2,,"Sickla Hälsocenter, Danviken"
+4160,Hälsans vårdcentral Tensta,,10,Privat,,,Primärvård,2,,Hälsans vårdcentral Tensta
+4161,Telefonplans vårdcentral,,10,Privat,,,Primärvård,2,,Telefonplans vårdcentral
+4162,CityAkutens husläkarmottagning,,10,Privat,,,Primärvård,2,,CityAkutens husläkarmottagning
+4163,Vårdcentralen Solnas Hjärta,,10,Privat,,,Primärvård,2,,Vårdcentralen Solnas Hjärta
+4164,Hälsocentralen Premicare Ljustadalen,2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Premicare Ljustadalen
+4171,"To Care, Solna Sundbyberg",,10,Privat,,,Primärvård,2,,"To Care, Solna Sundbyberg"
+4172,"Västerledens Vårdcentral och Hälsocenter, Frölunda Torg",8 eller fler läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Västerledens Vårdcentral och Hälsocenter, Frölunda Torg"
+4173,Närhälsan Fritsla,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Närhälsan Fritsla
+4189,"Eira Hälsocentral, Gävle",5 - 7 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Eira Hälsocentral, Gävle"
+4190,"Capio Hälsocentral Wasahuset, Gävle",2 - 4 läkare,61,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Hälsocentral Wasahuset, Gävle"
+4193,Hötorgets vårdcentral,,10,Privat,,,Primärvård,2,,Hötorgets vårdcentral
+4194,Lundens husläkarmottagning,,10,Privat,,,Primärvård,2,,Lundens husläkarmottagning
+4195,Nockebyhöjdens vårdcentral,,10,Privat,,,Primärvård,2,,Nockebyhöjdens vårdcentral
+4198,"Achima Care Vårdcentral, Köping",2 - 4 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Achima Care Vårdcentral, Köping"
+4199,Capio vårdcentral Taptogatan,,10,Privat,,,Primärvård,2,,Capio vårdcentral Taptogatan
+4201,Angered Care vårdcentral,,51,Privat,,,Primärvård,2,,Angered Care vårdcentral
+4203,Hälsoteamet i Smålandsstenar,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsoteamet i Smålandsstenar
+4204,Hälsoteamet i Gislaved,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsoteamet i Gislaved
+4205,Hälsosteamet i Anderstorp,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsosteamet i Anderstorp
+4206,Hälsoteamet i Mullsjö,2 - 4 läkare,22,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsoteamet i Mullsjö
+4207,Vårdcentralen Stenblomman,2 - 4 läkare,42,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Stenblomman
+4208,Kinnekullehälsan Vårdcentral Timmersdala,1 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kinnekullehälsan Vårdcentral Timmersdala
+4209,Vårdcentral Sunnansjö,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Sunnansjö
+4210,Vårdcentral Ludvika-Grängesberg,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Ludvika-Grängesberg
+4211,Vårdcentral Älvdalen,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Älvdalen
+4212,Vårdcentralen Vansbro,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Vansbro
+4213,Vårdcentral Leksand,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Leksand
+4214,Vårdcentral Gagnef,,57,Offentlig,,,Primärvård,2,,Vårdcentral Gagnef
+4215,Vårdcentral Mora,8 eller fler läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Mora
+4216,Vårdcentralen Kvarnsveden,8 eller fler läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kvarnsveden
+4217,Falu vårdcentral,5 - 7 läkare,57,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Falu vårdcentral
+4218,Vårdcentralen Tisken,8 eller fler läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Tisken
+4219,Vårdcentralen Sälen-Lima,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Sälen-Lima
+4220,Vårdcentral Långshyttan,,57,Offentlig,,,Primärvård,2,,Vårdcentral Långshyttan
+4221,Vårdcentralen Säter,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Säter
+4222,Vårdcentral Malung,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Malung
+4223,Vårdcentralen Avestahälsan,2 - 4 läkare,57,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Avestahälsan
+4224,Vårdcentralen Jakobsgårdarna,8 eller fler läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Jakobsgårdarna
+4225,Vårdcentral Engelbrekt,5 - 7 läkare,57,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Engelbrekt
+4226,Vårdcentral Grängesberg,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Grängesberg
+4227,Vårdcentralen Koppardalen,2 - 4 läkare,57,Privat,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Vårdcentralen Koppardalen
+4228,"Vårdcentral Smedjebacken, mottagning Söderbärke",,57,Offentlig,,,Primärvård,2,,"Vårdcentral Smedjebacken, mottagning Söderbärke"
+4229,Vårdcentral Domnarvet,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Domnarvet
+4230,Vårdcentral Särna,,57,Offentlig,,,Primärvård,2,,Vårdcentral Särna
+4231,"Läkarhuset Unicare, Borlänge",5 - 7 läkare,57,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Läkarhuset Unicare, Borlänge"
+4232,By vårdcentral,,57,Offentlig,,,Primärvård,2,,By vårdcentral
+4233,"Vårdcentral Avesta, Mottagning Avesta",5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentral Avesta, Mottagning Avesta"
+4234,Vårdcentral Orsa,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Vårdcentral Orsa
+4235,Vårdcentral Rättvik,5 - 7 läkare,57,Offentlig,Datoriserat återuppringningssystem,Högst 7 dagar,Primärvård,2,,Vårdcentral Rättvik
+4236,"Vårdcentral Smedjebacken, mottagning Smedjebacken",1 läkare,57,Offentlig,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,"Vårdcentral Smedjebacken, mottagning Smedjebacken"
+4262,Freja vårdcentral,2 - 4 läkare,55,Offentlig,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Freja vårdcentral
+4265,Vårdcentralen Smålandshälsan i Ljungby,1 läkare,23,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Smålandshälsan i Ljungby
+4266,Vårdcentral Hedemora,2 - 4 läkare,57,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentral Hedemora
+4289,Trädgårdstorgets vårdcentral,2 - 4 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Trädgårdstorgets vårdcentral
+4294,"Vårdcentralen Getingen, Lund",2 - 4 läkare,41,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Getingen, Lund"
+4295,"Emmakliniken, Emmaboda",2 - 4 läkare,24,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Emmakliniken, Emmaboda"
+4297,Vårdcentralen Hökarängen,,10,Privat,,,Primärvård,2,,Vårdcentralen Hökarängen
+4298,Familjeläkarna i Laholm,,42,Privat,,,Primärvård,2,,Familjeläkarna i Laholm
+4301,Min Hälsa hälsocentral,,64,Privat,,,Primärvård,2,,Min Hälsa hälsocentral
+4302,"Öbacka vårdcentral, Härnösand",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,"Öbacka vårdcentral, Härnösand"
+4303,Hälsocentralen Tibro,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Tibro
+4304,"Johannesberg vårdcentral, Härnösand",2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Johannesberg vårdcentral, Härnösand"
+4305,"Hamnstadens Vårdcentral, Lidköping",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hamnstadens Vårdcentral, Lidköping"
+4335,"Lagaholmskliniken, Laholm",,42,Privat,,,Primärvård,2,,"Lagaholmskliniken, Laholm"
+4337,"Vårdcentralen Sidsjö, Sundsvall",5 - 7 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Sidsjö, Sundsvall"
+4338,Hälsocentralen Premicare Ljustadalen,2 - 4 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsocentralen Premicare Ljustadalen
+4349,Flottiljen vårdcentral och BVC,,10,Privat,,,Primärvård,2,,Flottiljen vårdcentral och BVC
+4353,Hälsomedicinskt Center Lomma,2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Hälsomedicinskt Center Lomma
+4354,"To Care Husläkarmottagning, Karlavägen",,10,Privat,,,Primärvård,2,,"To Care Husläkarmottagning, Karlavägen"
+4355,"Hälsocentral NorraHamn, Luleå",2 - 4 läkare,65,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsocentral NorraHamn, Luleå"
+4360,"Håstaholmens hälsocentral, Hudiksvall",2 - 4 läkare,61,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Håstaholmens hälsocentral, Hudiksvall"
+4362,"Vårdcentralen S:t Olof, Sundsvall",1 läkare,62,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen S:t Olof, Sundsvall"
+4363,"Vårdcentralen Kolla, Kungsbacka",2 - 4 läkare,42,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Kolla, Kungsbacka"
+4372,"Hälsomedicinskt center, Landskrona",1 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Hälsomedicinskt center, Landskrona"
+4380,Oxbacken-Skultuna vårdcentral,8 eller fler läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Oxbacken-Skultuna vårdcentral
+4381,Viksäng-Irsta vårdcentral,8 eller fler läkare,56,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Viksäng-Irsta vårdcentral
+4387,Strömstads Läkarhus,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Strömstads Läkarhus
+4390,MedPro Clinic Noltorp Vårdecentral,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,MedPro Clinic Noltorp Vårdecentral
+4399,"Husläkargruppen, Uppsala",5 - 7 läkare,12,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Husläkargruppen, Uppsala"
+4403,"PLENT vårdcentral, Västerås",2 - 4 läkare,56,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"PLENT vårdcentral, Västerås"
+4404,"Familjeläkarna Luthagen, Uppsala",,12,Privat,,,Primärvård,2,,"Familjeläkarna Luthagen, Uppsala"
+4412,"Crama Vårdcentral, Mölnlycke",2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,"Crama Vårdcentral, Mölnlycke"
+4413,"Vårdcentralen Mäster Olof, Strängnäs",2 - 4 läkare,13,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Vårdcentralen Mäster Olof, Strängnäs"
+4414,"Vårdcentralen Din vårdcentral, Nyköping",1 läkare,13,Privat,Datoriserat återuppringningssystem,Högst 14 dagar,Primärvård,2,,"Vårdcentralen Din vårdcentral, Nyköping"
+4415,"Vårdcentralen Östra, Göteborg",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,"Vårdcentralen Östra, Göteborg"
+4416,Sätila Vårdcentral,2 - 4 läkare,51,Privat,Datoriserad växel,Längre än 14 dagar,Primärvård,2,,Sätila Vårdcentral
+4417,Vårdcentralen Kasernhöjden,2 - 4 läkare,54,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Vårdcentralen Kasernhöjden
+4420,Strandängshälsan AB,,42,Privat,,,Primärvård,2,,Strandängshälsan AB
+4421,Lödöse läkarhus,2 - 4 läkare,51,Offentlig,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Lödöse läkarhus
+4422,Kronogårdens Vårdcentral,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Kronogårdens Vårdcentral
+4426,"Capio Citykliniken, Landskrona",2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Capio Citykliniken, Landskrona"
+4432,"Sankt Olofs vårdcentral, Sundsvall",1 läkare,62,Privat,Datoriserat återuppringningssystem,Samma dag,Primärvård,2,,"Sankt Olofs vårdcentral, Sundsvall"
+4439,"Sundsvalls vårdcentral, Sundsvall",,62,Offentlig,,,Primärvård,2,,"Sundsvalls vårdcentral, Sundsvall"
+4443,"Helsa Vårdcentral Spiran, Norrköping",8 eller fler läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Helsa Vårdcentral Spiran, Norrköping"
+4447,"Bräcke diakoni Vårdcentralen Malmen, Skara",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Bräcke diakoni Vårdcentralen Malmen, Skara"
+4448,Viskaforskliniken,2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Viskaforskliniken
+4449,Helsingborgs Vårdcentral,2 - 4 läkare,41,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Helsingborgs Vårdcentral
+4450,"Blomman Vårdcentral, Malmö",,41,Privat,,,Primärvård,2,,"Blomman Vårdcentral, Malmö"
+4451,"Möllevångs Vårdcentral, Malmö",,41,Privat,,,Primärvård,2,,"Möllevångs Vårdcentral, Malmö"
+4452,"Västerleden vårdcentral och BVC, Majorna, Göteborg",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Västerleden vårdcentral och BVC, Majorna, Göteborg"
+4453,MedPro Clinic Lödöse vårdcentral,1 läkare,51,Privat,Datoriserat återuppringningssystem,Högst 3 dagar,Primärvård,2,,MedPro Clinic Lödöse vårdcentral
+4455,"Västerleden vårdcentral och BVC, Åby, Mölndal",2 - 4 läkare,51,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,"Västerleden vårdcentral och BVC, Åby, Mölndal"
+4456,Helsa vårdcentral Östertull,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Helsa vårdcentral Östertull
+4457,Helsa vårdcentral Vilbergen,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Helsa vårdcentral Vilbergen
+4458,Helsa vårdcentral Skarptorp,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Helsa vårdcentral Skarptorp
+4459,Helsa vårdcentral Kneippen,5 - 7 läkare,21,Privat,Datoriserat återuppringningssystem,Längre än 14 dagar,Primärvård,2,,Helsa vårdcentral Kneippen

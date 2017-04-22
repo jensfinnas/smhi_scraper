@@ -20,30 +20,45 @@ class Common(Common):
     def get_html(self, url):
         """ Get html from url
         """
-        print u"/GET " + url
+        self.log.info(u"/GET " + url)
         r = requests.get(url)
         if r.status_code != 200:
-            msg = u"Error getting {}: ({})".format(url, r.status_code)
-            raise RequestException(msg)
+            throw_request_err(r)
 
         return r.content
 
     def post_html(self, url, payload):
-        print "u/POST {} with {}".format(url, payload)
+        self.log.info(u"/POST {} with {}".format(url, payload))
         r = requests.post(url, payload)
         if r.status_code != 200:
-            msg = u"Error posting to {}: ({})".format(url, r.status_code)
-            raise RequestException(msg)
+            throw_request_err(r)
 
         return r.content
 
     def get_json(self, url):
         """ Get json from url
         """
-        print u"/GET " + url
+        self.log.info(u"/GET " + url)
         r = requests.get(url)
+        if r.from_cache:
+            self.log.info("(from cache)")
         if r.status_code != 200:
-            msg = u"Error getting {}: ({})".format(url, r.status_code)
-            raise RequestException(msg)
+            throw_request_err(r)
 
         return r.json()
+
+def throw_request_err(r):
+    msg = u"Error getting {}: ({})".format(r.url, r.status_code)
+    if r.status_code == 404:
+        raise RequestException404(msg)
+    elif r.status_code == 500:
+        raise RequestException500(msg)
+    else:
+        raise RequestException(msg)
+
+
+class RequestException404(RequestException):
+    pass
+
+class RequestException500(RequestException):
+    pass

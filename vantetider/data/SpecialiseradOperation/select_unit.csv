@@ -1,0 +1,274 @@
+id,label,number_of_doctors,landsting_id,ownership,phonesystem,booking_type,unit_type,unit_type_number,code,_label
+3328,Mora lasarett,,57,Offentlig,,,Specialiserad vård,3,57011,Mora lasarett
+3075,"Handikappförvaltningen, Borås",,51,Offentlig,,,Specialiserad vård,3,52021A,"Handikappförvaltningen, Borås"
+3078,"Handikappförvaltningen, Skövde",,51,Offentlig,,,Specialiserad vård,3,52021E,"Handikappförvaltningen, Skövde"
+4378,NU-sjukvården (NÄL och Uddevalla),,51,Offentlig,,,Specialiserad vård,3,52015A,NU-sjukvården (NÄL och Uddevalla)
+3089,"Frölunda specialistsjukhus, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50071,"Frölunda specialistsjukhus, Göteborg"
+3090,"Handikappförvaltningen, Alingsås",,51,Offentlig,,,Specialiserad vård,3,52021C,"Handikappförvaltningen, Alingsås"
+3304,Västmanlands sjukhus Västerås,,56,Offentlig,,,Specialiserad vård,3,56010,Västmanlands sjukhus Västerås
+3098,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",,51,Offentlig,,,Specialiserad vård,3,53014,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)"
+3102,Alingsås lasarett,,51,Offentlig,,,Specialiserad vård,3,52012,Alingsås lasarett
+3113,Göteborg Hand Center,,51,Privat,,,Specialiserad vård,3,50075,Göteborg Hand Center
+4445,"Spine Center, Göteborg",,51,Privat,,,Specialiserad vård,3,50082,"Spine Center, Göteborg"
+4146,"Carema Specialistvård, Eslöv - Vårdval",,41,Privat,,,Specialiserad vård,3,41078x,"Carema Specialistvård, Eslöv - Vårdval"
+4147,"Carema Specialistvård, Lund",,41,Privat,,,Specialiserad vård,3,41051x,"Carema Specialistvård, Lund"
+4149,"Carema Specialistvård, Eslöv",,41,Privat,,,Specialiserad vård,3,41050x,"Carema Specialistvård, Eslöv"
+3127,"Capio Lundby Närsjukhus, Göteborg",,51,Privat,,,Specialiserad vård,3,50070,"Capio Lundby Närsjukhus, Göteborg"
+2741,"Ortopedi- &amp; KirurgiCentrum, Vallentuna",,10,Privat,,,Specialiserad vård,3,10078,"Ortopedi- &amp; KirurgiCentrum, Vallentuna"
+3156,"Handikappförvaltningen, Mariestad",,51,Offentlig,,,Specialiserad vård,3,52021I,"Handikappförvaltningen, Mariestad"
+3137,Sjukhuset i Falköping,,51,Offentlig,,,Specialiserad vård,3,53010,Sjukhuset i Falköping
+3147,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",,51,Offentlig,,,Specialiserad vård,3,52015,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)"
+3148,Sahlgrenska Universitetssjukhuset,,51,Offentlig,,,Specialiserad vård,3,50000,Sahlgrenska Universitetssjukhuset
+3149,Kärnsjukhuset i Skövde,,51,Offentlig,,,Specialiserad vård,3,53014A,Kärnsjukhuset i Skövde
+4176,Göteborgs Urologmottagning,,51,Privat,,,Specialiserad vård,3,50079,Göteborgs Urologmottagning
+4177,"Nacka Närsjukhus, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10071_old,"Nacka Närsjukhus, Stockholm"
+3154,"Handikappförvaltningen, Göteborg",,51,Offentlig,,,Specialiserad vård,3,52021J,"Handikappförvaltningen, Göteborg"
+3171,"SU/Sahlgrenska sjukhuset, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50001,"SU/Sahlgrenska sjukhuset, Göteborg"
+3276,Specialistmottagning Säffle,,54,Offentlig,,,Specialiserad vård,3,54013,Specialistmottagning Säffle
+4184,"Audika, Upplands Väsby",,10,Privat,,,Specialiserad vård,3,11067,"Audika, Upplands Väsby"
+4185,"Avesina Södermalm, Stockholm",,10,Privat,,,Specialiserad vård,3,11066,"Avesina Södermalm, Stockholm"
+3162,"Handikappförvaltningen, Trollhättan",,51,Offentlig,,,Specialiserad vård,3,52021F,"Handikappförvaltningen, Trollhättan"
+3163,"Hörseldiagnostik och rehabilitering, Göteborg",,51,Offentlig,,,Specialiserad vård,3,52022D,"Hörseldiagnostik och rehabilitering, Göteborg"
+3165,NU-sjukvården - Uddevalla,,51,Offentlig,,,Specialiserad vård,3,51010,NU-sjukvården - Uddevalla
+2747,"Ryggkirurgiska kliniken, Strängnäs",,10,Privat,,,Specialiserad vård,3,10484,"Ryggkirurgiska kliniken, Strängnäs"
+4196,"Audionommottagning, Trelleborg (Audika)",,41,Privat,,,Specialiserad vård,3,41016E,"Audionommottagning, Trelleborg (Audika)"
+4369,"Aktys ögonklinik, Malmö  - Vårdval",,41,Privat,,,Specialiserad vård,3,41085,"Aktys ögonklinik, Malmö  - Vårdval"
+3260,"Hörseldiagnostik och rehabilitering, Södra Älvsborg",,51,Offentlig,,,Specialiserad vård,3,52022A,"Hörseldiagnostik och rehabilitering, Södra Älvsborg"
+3183,Kungälvs sjukhus,,51,Offentlig,,,Specialiserad vård,3,51012,Kungälvs sjukhus
+3187,"SU/Östra sjukhuset, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50010,"SU/Östra sjukhuset, Göteborg"
+3262,"Handikappförvaltningen, Falköping",,51,Offentlig,,,Specialiserad vård,3,52021G,"Handikappförvaltningen, Falköping"
+3192,Sjukhuset i Lidköping,,51,Offentlig,,,Specialiserad vård,3,53011,Sjukhuset i Lidköping
+2681,"Ersta Närsjukvård, Specialistmottagning, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10306,"Ersta Närsjukvård, Specialistmottagning, Stockholm"
+3263,"Södra Älvsborgs Sjukhus, Borås/Skene",,51,Offentlig,,,Specialiserad vård,3,52011,"Södra Älvsborgs Sjukhus, Borås/Skene"
+2684,Södertälje sjukhus AB,,10,Offentlig,,,Specialiserad vård,3,11011,Södertälje sjukhus AB
+3202,NU-sjukvården - NÄL,,51,Offentlig,,,Specialiserad vård,3,52017,NU-sjukvården - NÄL
+2691,"Ortopediska Huset, Stockholm",,10,Privat,,,Specialiserad vård,3,10090,"Ortopediska Huset, Stockholm"
+2693,"Ortopedi- och Fotkirurgikliniken, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10104,"Ortopedi- och Fotkirurgikliniken, Stockholm"
+3315,Västmanlands sjukhus Sala,,56,Offentlig,,,Specialiserad vård,3,56011,Västmanlands sjukhus Sala
+3208,NU-sjukvården - Strömstad,,51,Offentlig,,,Specialiserad vård,3,51032,NU-sjukvården - Strömstad
+2698,"Aleris Specialistvård Sabbatsberg, Stockholm",,10,Privat,,,Specialiserad vård,3,10010,"Aleris Specialistvård Sabbatsberg, Stockholm"
+2700,"Karolinska universitetssjukhuset, Huddinge och Solna",,10,Offentlig,,,Specialiserad vård,3,10000,"Karolinska universitetssjukhuset, Huddinge och Solna"
+2701,Norrtälje sjukhus,,10,Offentlig,,,Specialiserad vård,3,11012,Norrtälje sjukhus
+3214,"Hörseldiagnostik och rehabilitering, Fyrbodal",,51,Offentlig,,,Specialiserad vård,3,52022C,"Hörseldiagnostik och rehabilitering, Fyrbodal"
+2704,"Novius Ögonklinik, Stockholm",,10,Privat,,,Specialiserad vård,3,10081,"Novius Ögonklinik, Stockholm"
+2705,"Capio Artro Clinic, Stockholm",,10,Privat,,,Specialiserad vård,3,10051,"Capio Artro Clinic, Stockholm"
+2711,"Aleris Specialistvård Täby, Stockholm",,10,Privat,,,Specialiserad vård,3,10070,"Aleris Specialistvård Täby, Stockholm"
+3226,Scanloc Healthcare AB/Scanloc Ögon,,51,Privat,,,Specialiserad vård,3,50076,Scanloc Healthcare AB/Scanloc Ögon
+2717,"S:t Eriks ögonsjukhus, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10012,"S:t Eriks ögonsjukhus, Stockholm"
+2718,"Danderyds sjukhus AB, Stockholm",,10,Offentlig,,,Specialiserad vård,3,11010,"Danderyds sjukhus AB, Stockholm"
+2757,"Capio Medocular, Stockholm",,10,Privat,,,Specialiserad vård,3,10080,"Capio Medocular, Stockholm"
+3232,"Hörseldiagnostik och rehabilitering, Skaraborg",,51,Offentlig,,,Specialiserad vård,3,52022B,"Hörseldiagnostik och rehabilitering, Skaraborg"
+2722,"Audika, Södertälje",,10,Privat,,,Specialiserad vård,3,11059,"Audika, Södertälje"
+3235,Centrum för Obesitas/Göteborg,,51,Offentlig,,,Specialiserad vård,3,50091,Centrum för Obesitas/Göteborg
+2724,"Södersjukhuset, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10013,"Södersjukhuset, Stockholm"
+4263,"Axess Medica, Kristianstad – Vårdval",,41,Privat,,,Specialiserad vård,3,41075C,"Axess Medica, Kristianstad – Vårdval"
+4264,Hallands sjukhus (Halmstad/Varberg/Kungsbacka),,42,Offentlig,,,Specialiserad vård,3,42020,Hallands sjukhus (Halmstad/Varberg/Kungsbacka)
+2729,Sollentuna Specialistklinik,,10,Privat,,,Specialiserad vård,3,11064,Sollentuna Specialistklinik
+2730,UroClinic Stockholm (S:t Görans sjukhus),,10,Offentlig,,,Specialiserad vård,3,10053,UroClinic Stockholm (S:t Görans sjukhus)
+4268,"Kirurgi- och ortopediverksamhet, Gävleborg",,61,Offentlig,,,Specialiserad vård,3,61021,"Kirurgi- och ortopediverksamhet, Gävleborg"
+2735,OrthoCenter (Löwenströmska),,10,Privat,,,Specialiserad vård,3,10487,OrthoCenter (Löwenströmska)
+3250,"Handikappförvaltningen, Frölunda",,51,Offentlig,,,Specialiserad vård,3,52021D,"Handikappförvaltningen, Frölunda"
+4275,Aleris Specialistvård Bollnäs,,61,Privat,,,Specialiserad vård,3,61011A,Aleris Specialistvård Bollnäs
+4382,"Agata Ögonklinik, Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41093,"Agata Ögonklinik, Malmö - Vårdval"
+4283,"Audionommottagning, Ängelholm (Audika)",,41,Privat,,,Specialiserad vård,3,41017F,"Audionommottagning, Ängelholm (Audika)"
+4284,"Audionommottagning, Kristianstad (Audika)",,41,Privat,,,Specialiserad vård,3,41017C,"Audionommottagning, Kristianstad (Audika)"
+4285,Audionommottagning  Hälsovägen Helsingborg (Audionomerna),,41,Privat,,,Specialiserad vård,3,41017B,Audionommottagning  Hälsovägen Helsingborg (Audionomerna)
+4286,"Audionommottagning Rundelsgatan, Malmö (Audika)",,41,Privat,,,Specialiserad vård,3,41017E,"Audionommottagning Rundelsgatan, Malmö (Audika)"
+4287,"Audionommottagning, Båstad (Audionomerna)",,41,Privat,,,Specialiserad vård,3,41017A,"Audionommottagning, Båstad (Audionomerna)"
+4288,"Audionommottagning, Landskrona (Audika)",,41,Privat,,,Specialiserad vård,3,41017D,"Audionommottagning, Landskrona (Audika)"
+4290,"Ögonoperationskliniken, Lund – Vårdval",,41,Privat,,,Specialiserad vård,3,41018,"Ögonoperationskliniken, Lund – Vårdval"
+4291,"Aleris Obesitas, Kristianstad",,41,Privat,,,Specialiserad vård,3,41019,"Aleris Obesitas, Kristianstad"
+4292,"Audionommottagning, Båstad (Audionova)",,41,Privat,,,Specialiserad vård,3,41017G,"Audionommottagning, Båstad (Audionova)"
+4293,Specialistläkarna i Lund,,41,Privat,,,Specialiserad vård,3,41084,Specialistläkarna i Lund
+3272,Sjukhuset i Torsby,,54,Offentlig,,,Specialiserad vård,3,54014,Sjukhuset i Torsby
+3273,Hörselvården Hagfors/Torsby,,54,Offentlig,,,Specialiserad vård,3,54107,Hörselvården Hagfors/Torsby
+3274,"Centralsjukhuset, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54010,"Centralsjukhuset, Karlstad"
+2763,"Aleris Specialistvård Handen, Stockholm",,10,Privat,,,Specialiserad vård,3,11335,"Aleris Specialistvård Handen, Stockholm"
+2764,"Audika, Norrtälje",,10,Privat,,,Specialiserad vård,3,11058,"Audika, Norrtälje"
+2770,"Capio S:t Görans sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10011,"Capio S:t Görans sjukhus, Stockholm"
+4310,"Öron Näsa Hals, Capio Globen, Stockholm",,10,Privat,,,Specialiserad vård,3,10424,"Öron Näsa Hals, Capio Globen, Stockholm"
+3193,"SU/Mölndals sjukhus, Mölndal",,51,Offentlig,,,Specialiserad vård,3,51011,"SU/Mölndals sjukhus, Mölndal"
+3288,"Capio Läkargruppen, Örebro",,55,Privat,,,Specialiserad vård,3,55050,"Capio Läkargruppen, Örebro"
+4313,Läkarhuset Utsikten (Praktikertjänst),,10,Privat,,,Specialiserad vård,3,10412,Läkarhuset Utsikten (Praktikertjänst)
+4314,"Hudmottagning, Farsta läkarhus",,10,Privat,,,Specialiserad vård,3,10410,"Hudmottagning, Farsta läkarhus"
+2780,"Europakliniken, Stockholm",,10,Privat,,,Specialiserad vård,3,10050,"Europakliniken, Stockholm"
+3293,Lindesbergs lasarett,,55,Offentlig,,,Specialiserad vård,3,55012,Lindesbergs lasarett
+2782,Löwenströmska sjukhuset,,10,Privat,,,Specialiserad vård,3,10105,Löwenströmska sjukhuset
+4319,Liljeholmens ortopedi,,10,Privat,,,Specialiserad vård,3,10401,Liljeholmens ortopedi
+3296,Västmanlands sjukhus Köping,,56,Offentlig,,,Specialiserad vård,3,56012,Västmanlands sjukhus Köping
+4322,"UltraGyn, Sophiahemmet",,10,Privat,,,Specialiserad vård,3,10420,"UltraGyn, Sophiahemmet"
+4326,"Hudkliniken, Sophiahemmet",,10,Privat,,,Specialiserad vård,3,10409,"Hudkliniken, Sophiahemmet"
+4327,"Hudmottagning, Vårbergs vårdcentral",,10,Privat,,,Specialiserad vård,3,10411,"Hudmottagning, Vårbergs vårdcentral"
+2792,"Audika Kungsholmen, Stockholm",,10,Privat,,,Specialiserad vård,3,11065,"Audika Kungsholmen, Stockholm"
+4331,"Öron-, näs- och halsklinik, Danderyd",,10,Privat,,,Specialiserad vård,3,10423,"Öron-, näs- och halsklinik, Danderyd"
+4332,Ögonläkargruppen Odenplan,,10,Offentlig,,,Specialiserad vård,3,10405,Ögonläkargruppen Odenplan
+3282,Specialistmottagning Kristinehamn,,54,Offentlig,,,Specialiserad vård,3,54011,Specialistmottagning Kristinehamn
+4339,"A6 Ögonklinik, Jönköping",,22,Privat,,,Specialiserad vård,3,22054,"A6 Ögonklinik, Jönköping"
+3212,Centrum för Obesitas/Skaraborg,,51,Offentlig,,,Specialiserad vård,3,53054,Centrum för Obesitas/Skaraborg
+4341,"Eye Clinic, Värnamo",,22,Privat,,,Specialiserad vård,3,22056,"Eye Clinic, Värnamo"
+4342,"Capio Medocular, Jönköping",,22,Privat,,,Specialiserad vård,3,22055,"Capio Medocular, Jönköping"
+3319,Avesta lasarett,,57,Offentlig,,,Specialiserad vård,3,57013,Avesta lasarett
+4344,"Aktys ögonklinik, Malmö  - Vårdval",,41,Privat,,,Specialiserad vård,3,41PPP,"Aktys ögonklinik, Malmö  - Vårdval"
+2810,Stockholms Spine Center,,10,Privat,,,Specialiserad vård,3,10082,Stockholms Spine Center
+4350,Aleris Helsingborg - Vårdval,,41,Offentlig,,,Specialiserad vård,3,42mmmm,Aleris Helsingborg - Vårdval
+4351,Aleris Malmö - Vårdval,,41,Privat,,,Specialiserad vård,3,42nnn,Aleris Malmö - Vårdval
+4352,Aleris Kristianstad - Vårdval,,41,Privat,,,Specialiserad vård,3,42oooo,Aleris Kristianstad - Vårdval
+3329,Ludvika lasarett,,57,Offentlig,,,Specialiserad vård,3,57012,Ludvika lasarett
+2818,Gynekologkliniken Stockholm (S:t Görans sjukhus),,10,Privat,,,Specialiserad vård,3,10052,Gynekologkliniken Stockholm (S:t Görans sjukhus)
+3286,Sjukhuset i Arvika,,54,Offentlig,,,Specialiserad vård,3,54012,Sjukhuset i Arvika
+2822,"Aleris Specialistvård, Nacka",,10,Privat,,,Specialiserad vård,3,10071,"Aleris Specialistvård, Nacka"
+2825,"Ersta sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10481,"Ersta sjukhus, Stockholm"
+3338,"Citykirurgen, Gävle",,61,Privat,,,Specialiserad vård,3,61051,"Citykirurgen, Gävle"
+3339,Gävle sjukhus,,61,Offentlig,,,Specialiserad vård,3,61010,Gävle sjukhus
+4364,Aleris Kristianstad - Vårdval,,41,Privat,,,Specialiserad vård,3,41089,Aleris Kristianstad - Vårdval
+4365,Aleris Helsingborg - Vårdval,,41,Privat,,,Specialiserad vård,3,41087,Aleris Helsingborg - Vårdval
+3345,"Core Care, Söderhamn",,61,Privat,,,Specialiserad vård,3,61018,"Core Care, Söderhamn"
+4370,Aleris Malmö - Vårdval,,41,Privat,,,Specialiserad vård,3,41088,Aleris Malmö - Vårdval
+2836,"Globen Ögonklinik, Enskede",,10,Privat,,,Specialiserad vård,3,10075,"Globen Ögonklinik, Enskede"
+4373,"Audionommottagning, Helsingborg (Audiovox)",,41,Privat,,,Specialiserad vård,3,41017H,"Audionommottagning, Helsingborg (Audiovox)"
+3289,Karlskoga lasarett,,55,Offentlig,,,Specialiserad vård,3,55011,Karlskoga lasarett
+2841,Lasarettet i Enköping,,12,Offentlig,,,Specialiserad vård,3,12010,Lasarettet i Enköping
+3354,Sandvikens sjukhus,,61,Offentlig,,,Specialiserad vård,3,61013,Sandvikens sjukhus
+3356,Hudiksvalls sjukhus,,61,Offentlig,,,Specialiserad vård,3,61012,Hudiksvalls sjukhus
+3290,Universitetssjukhuset i Örebro,,55,Offentlig,,,Specialiserad vård,3,55010,Universitetssjukhuset i Örebro
+3358,Bollnäs sjukhus,,61,Offentlig,,,Specialiserad vård,3,61011,Bollnäs sjukhus
+4383,"Ögoncentrum Annedal, Lund",,41,Privat,,,Specialiserad vård,3,41094,"Ögoncentrum Annedal, Lund"
+3360,Sollefteå sjukhus,,62,Offentlig,,,Specialiserad vård,3,62013,Sollefteå sjukhus
+4385,"Österlenkirurgin AB, Simrishamn",,41,Privat,,,Specialiserad vård,3,41095,"Österlenkirurgin AB, Simrishamn"
+3362,Länssjukhuset Sundsvall-Härnösand,,62,Offentlig,,,Specialiserad vård,3,62010,Länssjukhuset Sundsvall-Härnösand
+3363,Örnsköldsviks sjukhus,,62,Offentlig,,,Specialiserad vård,3,62011,Örnsköldsviks sjukhus
+3364,Länssjukhuset Härnösand-Sundsvall,,62,Offentlig,,,Specialiserad vård,3,62012,Länssjukhuset Härnösand-Sundsvall
+3368,"Medicin Direkt, Östersund",,63,Privat,,,Specialiserad vård,3,63050,"Medicin Direkt, Östersund"
+3370,Östersunds sjukhus,,63,Offentlig,,,Specialiserad vård,3,63010,Östersunds sjukhus
+3372,"Norrlands Universitetssjukhus, Umeå",,64,Offentlig,,,Specialiserad vård,3,64001,"Norrlands Universitetssjukhus, Umeå"
+3373,Lycksele lasarett,,64,Offentlig,,,Specialiserad vård,3,64011,Lycksele lasarett
+3374,"Norrlands Universitetssjukhus, Umeå (Idrottsmedicinsk klinik)",,64,Offentlig,,,Specialiserad vård,3,64001A,"Norrlands Universitetssjukhus, Umeå (Idrottsmedicinsk klinik)"
+3375,"Sports Medicin AB, Umeå",,64,Privat,,,Specialiserad vård,3,64700,"Sports Medicin AB, Umeå"
+3377,Skellefteå lasarett,,64,Offentlig,,,Specialiserad vård,3,64010,Skellefteå lasarett
+2867,"Elisabethsjukhuset, Uppsala",,12,Privat,,,Specialiserad vård,3,12051,"Elisabethsjukhuset, Uppsala"
+4405,"Katarakta, Lund",,41,Privat,,,Specialiserad vård,3,41020,"Katarakta, Lund"
+3382,Sunderby sjukhus,,65,Offentlig,,,Specialiserad vård,3,65016,Sunderby sjukhus
+3383,Kalix sjukhus,,65,Offentlig,,,Specialiserad vård,3,65014,Kalix sjukhus
+4408,"Audionommottagning, Helsingborg (Audionomcentrum)",,41,Privat,,,Specialiserad vård,3,41017I,"Audionommottagning, Helsingborg (Audionomcentrum)"
+4409,"Audionommottagning, Svalöv (Audiovox)",,41,Privat,,,Specialiserad vård,3,41017K,"Audionommottagning, Svalöv (Audiovox)"
+4411,"Ögonlasern, Lund - Vårdval",,41,Privat,,,Specialiserad vård,3,41097,"Ögonlasern, Lund - Vårdval"
+2877,"Akademiska sjukhuset, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12001,"Akademiska sjukhuset, Uppsala"
+2806,"Audika City, Stockholm",,10,Privat,,,Specialiserad vård,3,11060,"Audika City, Stockholm"
+2869,"Akademiska sjukhuset, Uppsala (Kortvårdskirurgi)",,12,Offentlig,,,Specialiserad vård,3,12001A,"Akademiska sjukhuset, Uppsala (Kortvårdskirurgi)"
+3318,Falu lasarett,,57,Offentlig,,,Specialiserad vård,3,57010,Falu lasarett
+4419,Barnläkargruppen Sparta,,41,Privat,,,Specialiserad vård,3,41098,Barnläkargruppen Sparta
+4406,"Audionommottagning, Höganäs (Audiovox)",,41,Privat,,,Specialiserad vård,3,41017J,"Audionommottagning, Höganäs (Audiovox)"
+2886,Nyköpings lasarett,,13,Offentlig,,,Specialiserad vård,3,13011,Nyköpings lasarett
+2887,"Mälarsjukhuset, Eskilstuna",,13,Offentlig,,,Specialiserad vård,3,13010,"Mälarsjukhuset, Eskilstuna"
+2889,"Kullbergska sjukhuset, Katrineholm",,13,Offentlig,,,Specialiserad vård,3,13012,"Kullbergska sjukhuset, Katrineholm"
+2890,"Helsa Specialistvård, Linköping",,21,Privat,,,Specialiserad vård,3,21054,"Helsa Specialistvård, Linköping"
+4407,Aleris Ystad Specialistvård Ögon - Vårdval,,41,Privat,,,Specialiserad vård,3,41096,Aleris Ystad Specialistvård Ögon - Vårdval
+2892,Lasarettet i Motala,,21,Offentlig,,,Specialiserad vård,3,21014,Lasarettet i Motala
+2894,Vrinnevisjukhuset i Norrköping,,21,Offentlig,,,Specialiserad vård,3,21013,Vrinnevisjukhuset i Norrköping
+2895,Universitetssjukhuset i Linköping,,21,Offentlig,,,Specialiserad vård,3,21001,Universitetssjukhuset i Linköping
+2872,"Akademiska sjukhuset, Uppsala (Neurokirurgidivisionen)",,12,Offentlig,,,Specialiserad vård,3,12001B,"Akademiska sjukhuset, Uppsala (Neurokirurgidivisionen)"
+2901,"Länssjukhuset Ryhov, Jönköping",,22,Offentlig,,,Specialiserad vård,3,22010,"Länssjukhuset Ryhov, Jönköping"
+2906,Värnamo sjukhus,,22,Offentlig,,,Specialiserad vård,3,22012,Värnamo sjukhus
+4444,"Art Clinic, Göteborg",,51,Privat,,,Specialiserad vård,3,50081,"Art Clinic, Göteborg"
+2739,"Audika Kista, Stockholm",,10,Privat,,,Specialiserad vård,3,11061,"Audika Kista, Stockholm"
+4446,Ögonläkarna i Eslöv AB - Vårdval,,41,Privat,,,Specialiserad vård,3,41086,Ögonläkarna i Eslöv AB - Vårdval
+2911,"Höglandssjukhuset, Eksjö-Nässjö",,22,Offentlig,,,Specialiserad vård,3,22011,"Höglandssjukhuset, Eksjö-Nässjö"
+2912,Ljungby lasarett,,23,Offentlig,,,Specialiserad vård,3,23011,Ljungby lasarett
+2914,Centrallasarettet Växjö,,23,Offentlig,,,Specialiserad vård,3,23010,Centrallasarettet Växjö
+2790,Stockholms ögonklinik (Sophiahemmet),,10,Privat,,,Specialiserad vård,3,11053,Stockholms ögonklinik (Sophiahemmet)
+2918,Oskarshamns sjukhus,,24,Offentlig,,,Specialiserad vård,3,25011,Oskarshamns sjukhus
+3234,"Handikappförvaltningen, Lidköping",,51,Offentlig,,,Specialiserad vård,3,52021H,"Handikappförvaltningen, Lidköping"
+2920,Västerviks sjukhus,,24,Offentlig,,,Specialiserad vård,3,24010,Västerviks sjukhus
+2923,Länssjukhuset i Kalmar,,24,Offentlig,,,Specialiserad vård,3,25010,Länssjukhuset i Kalmar
+4461,"Audionommottagning Rådmansgatan, Malmö (Audionova)",,41,Privat,,,Specialiserad vård,3,42016E,"Audionommottagning Rådmansgatan, Malmö (Audionova)"
+4462,"Audionommottagning Norra Stationsgatan, Hässleholm (Audionova)",,41,Privat,,,Specialiserad vård,3,42016D,"Audionommottagning Norra Stationsgatan, Hässleholm (Audionova)"
+4463,"Audionommottagning Gasverksgatan, Helsingborg (Audionova)",,41,Privat,,,Specialiserad vård,3,42016C,"Audionommottagning Gasverksgatan, Helsingborg (Audionova)"
+2929,Visby lasarett,,26,Offentlig,,,Specialiserad vård,3,26010,Visby lasarett
+4466,"Åderbråckscentrum, Malmö",,41,Privat,,,Specialiserad vård,3,41063,"Åderbråckscentrum, Malmö"
+4467,"Nya Karolinska universitetsjukhuset, Solna",,10,Offentlig,,,Specialiserad vård,3,11003,"Nya Karolinska universitetsjukhuset, Solna"
+4470,"Aveny Ögonklinik, Göteborg",,51,Privat,,,Specialiserad vård,3,SE2321000131-E000000008886,"Aveny Ögonklinik, Göteborg"
+4471,"Capio Medocular, Göteborg",,51,Privat,,,Specialiserad vård,3,52xxx,"Capio Medocular, Göteborg"
+3961,Ögoncentrum i Hudiksvall AB,,61,Privat,,,Specialiserad vård,3,61020,Ögoncentrum i Hudiksvall AB
+3320,Borlänge sjukhus,,57,Offentlig,,,Specialiserad vård,3,57316,Borlänge sjukhus
+2944,"Blekingesjukhuset, Karlshamn och Karlskrona",,27,Offentlig,,,Specialiserad vård,3,27012,"Blekingesjukhuset, Karlshamn och Karlskrona"
+3136,"Handikappförvaltningen, Skene",,51,Offentlig,,,Specialiserad vård,3,52021B,"Handikappförvaltningen, Skene"
+2946,Lasarettet i Ystad - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41013A,Lasarettet i Ystad - Vårdval
+2947,Lasarettet Trelleborg,,41,Offentlig,,,Specialiserad vård,3,41011,Lasarettet Trelleborg
+2948,Ängelholms sjukhus,,41,Offentlig,,,Specialiserad vård,3,28011,Ängelholms sjukhus
+2950,"Audionommottagning, Malmö (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015G,"Audionommottagning, Malmö (Hörsam)"
+2952,"Audionommottagning, Landskrona (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015Ö,"Audionommottagning, Landskrona (Hörsam)"
+2955,Lasarettet i Landskrona - Lund,,41,Offentlig,,,Specialiserad vård,3,41010A,Lasarettet i Landskrona - Lund
+2956,Skånes universitetssjukhus Lund,,41,Offentlig,,,Specialiserad vård,3,41001,Skånes universitetssjukhus Lund
+2957,Helsingborgs lasarett - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41012A,Helsingborgs lasarett - Vårdval
+2959,Lasarettet i Landskrona - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41010C,Lasarettet i Landskrona - Vårdval
+2960,"Audionommottagning, Malmö (Audiovox)",,41,Privat,,,Specialiserad vård,3,41051Å,"Audionommottagning, Malmö (Audiovox)"
+2963,Globen Ögonklinik AB - Vårdval,,41,Privat,,,Specialiserad vård,3,41074,Globen Ögonklinik AB - Vårdval
+2964,Helsingborgs lasarett,,41,Offentlig,,,Specialiserad vård,3,41012,Helsingborgs lasarett
+2967,Capio Specialisthuset Eslöv - Vårdval,,41,Privat,,,Specialiserad vård,3,41078,Capio Specialisthuset Eslöv - Vårdval
+2969,"Audionommottagning, Landskrona",,41,Offentlig,,,Specialiserad vård,3,41015E,"Audionommottagning, Landskrona"
+2970,"Audionommottagning, Ängelholm (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015V,"Audionommottagning, Ängelholm (Hörsam)"
+2973,Sjukhuset Ängelholm - Helsingborg,,41,Offentlig,,,Specialiserad vård,3,28011A,Sjukhuset Ängelholm - Helsingborg
+2974,"Capio Citykliniken, Kristianstad (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41059,"Capio Citykliniken, Kristianstad (Specialistmottagning)"
+2975,Audionommottagning Höganäs  (Audionomerna),,41,Privat,,,Specialiserad vård,3,41016C,Audionommottagning Höganäs  (Audionomerna)
+2976,"Audionommottagning, Båstad (Hörsam)",,41,Privat,,,Specialiserad vård,3,41016D,"Audionommottagning, Båstad (Hörsam)"
+2978,"Audionommottagning, Hässleholm (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015C,"Audionommottagning, Hässleholm (Din Hörsel)"
+2979,Lasarettet Trelleborg - Lund,,41,Offentlig,,,Specialiserad vård,3,41011A,Lasarettet Trelleborg - Lund
+2980,"Axess Medica, Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41075,"Axess Medica, Malmö - Vårdval"
+2981,Capio Specialisthuset Eslöv,,41,Privat,,,Specialiserad vård,3,41050,Capio Specialisthuset Eslöv
+2982,Lasarettet i Landskrona,,41,Offentlig,,,Specialiserad vård,3,41010,Lasarettet i Landskrona
+2983,"Scandinavian Venous Center, Malmö",,41,Privat,,,Specialiserad vård,3,41072,"Scandinavian Venous Center, Malmö"
+2985,"Audionommottagning, Ystad (Hörselsnäckan)",,41,Privat,,,Specialiserad vård,3,41015Ä,"Audionommottagning, Ystad (Hörselsnäckan)"
+2989,"Audionommottagning, Kristianstad (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015W,"Audionommottagning, Kristianstad (Hörsam)"
+2990,"Läkarhuset Ellenbogen, Malmö",,41,Privat,,,Specialiserad vård,3,41057,"Läkarhuset Ellenbogen, Malmö"
+2992,"Audionommottagning Erikslustvägen, Malmö (Audika)",,41,Privat,,,Specialiserad vård,3,41015Y,"Audionommottagning Erikslustvägen, Malmö (Audika)"
+2993,"Audionommottagning, Helsingborg (Audika)",,41,Privat,,,Specialiserad vård,3,41015X,"Audionommottagning, Helsingborg (Audika)"
+2994,"Aleris Ortopedi, Ängelholm",,41,Privat,,,Specialiserad vård,3,28015,"Aleris Ortopedi, Ängelholm"
+2995,"Capio Citykliniken, Lund Clemenstorget",,41,Privat,,,Specialiserad vård,3,41080,"Capio Citykliniken, Lund Clemenstorget"
+2996,"Audionommottagning, Höllviken (Audika)",,41,Privat,,,Specialiserad vård,3,41015Z,"Audionommottagning, Höllviken (Audika)"
+2808,"Aleris Specialistvård Järva, Stockholm",,10,Privat,,,Specialiserad vård,3,10072,"Aleris Specialistvård Järva, Stockholm"
+2998,Aleris Ängelholm,,41,Privat,,,Specialiserad vård,3,28014,Aleris Ängelholm
+2999,"Audionommottagning, Trelleborg (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015I,"Audionommottagning, Trelleborg (Din Hörsel)"
+3000,Centralsjukhuset Kristianstad,,41,Offentlig,,,Specialiserad vård,3,28010,Centralsjukhuset Kristianstad
+3001,"Audionommottagning, Lund (Region Skåne)",,41,Offentlig,,,Specialiserad vård,3,41015F,"Audionommottagning, Lund (Region Skåne)"
+3002,"Audionommottagning, Trelleborg (Audionova)",,41,Privat,,,Specialiserad vård,3,41015N,"Audionommottagning, Trelleborg (Audionova)"
+3004,"Audionommottagning, Simrishamn (Audionova)",,41,Privat,,,Specialiserad vård,3,41015Q,"Audionommottagning, Simrishamn (Audionova)"
+3005,Sjukhuset i Hässleholm,,41,Offentlig,,,Specialiserad vård,3,28012,Sjukhuset i Hässleholm
+3007,"Audionommottagning, Lund (Audika)",,41,Privat,,,Specialiserad vård,3,42016B,"Audionommottagning, Lund (Audika)"
+3009,Lasarettet i Landskrona - Malmö,,41,Offentlig,,,Specialiserad vård,3,41010B,Lasarettet i Landskrona - Malmö
+3010,"Audionommottagning Nedre Eneborgsvägen, Helsingborg (Audionova)",,41,Privat,,,Specialiserad vård,3,41015T,"Audionommottagning Nedre Eneborgsvägen, Helsingborg (Audionova)"
+3012,"Audionommottagning, Höganäs (Audionova)",,41,Privat,,,Specialiserad vård,3,41016B,"Audionommottagning, Höganäs (Audionova)"
+3013,Lasarettet Trelleborg - Malmö,,41,Offentlig,,,Specialiserad vård,3,41011B,Lasarettet Trelleborg - Malmö
+3014,Vårda Ögonklinik Malmö - Vårdval,,41,Privat,,,Specialiserad vård,3,41076,Vårda Ögonklinik Malmö - Vårdval
+3015,Skånes universitetssjukhus Malmö,,41,Offentlig,,,Specialiserad vård,3,30001,Skånes universitetssjukhus Malmö
+3018,"Audionommottagning, Kristianstad (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015D,"Audionommottagning, Kristianstad (Din Hörsel)"
+3019,"Audionommottagning, Helsingborg (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015B,"Audionommottagning, Helsingborg (Din Hörsel)"
+3021,"Audionommottagning Vattugatan, Hässleholm (Audionova)",,41,Privat,,,Specialiserad vård,3,41015R,"Audionommottagning Vattugatan, Hässleholm (Audionova)"
+3022,Aleris Ängelholm - Vårdval,,41,Privat,,,Specialiserad vård,3,28014A,Aleris Ängelholm - Vårdval
+3023,"Audionommottagning, Ängelholm (Audiem)",,41,Privat,,,Specialiserad vård,3,41015K,"Audionommottagning, Ängelholm (Audiem)"
+3024,"Axess Medica, Simrishamn",,41,Privat,,,Specialiserad vård,3,41075B,"Axess Medica, Simrishamn"
+3025,Centralsjukhuset Kristianstad - Vårdval,,41,Offentlig,,,Specialiserad vård,3,28010A,Centralsjukhuset Kristianstad - Vårdval
+3027,Lasarettet i Ystad,,41,Offentlig,,,Specialiserad vård,3,41013,Lasarettet i Ystad
+3028,"Audionommottagning, Lund (Hörsam)",,41,Privat,,,Specialiserad vård,3,41016A,"Audionommottagning, Lund (Hörsam)"
+3029,"Audionommottagning, Åhus (Åhus Hörsel &amp;Konsult)",,41,Privat,,,Specialiserad vård,3,41015J,"Audionommottagning, Åhus (Åhus Hörsel &amp;Konsult)"
+3030,"Skånes Universitetssjukhus, Lund och Malmö",,41,Offentlig,,,Specialiserad vård,3,41001A,"Skånes Universitetssjukhus, Lund och Malmö"
+3032,Skånes universitetssjukhus - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41002,Skånes universitetssjukhus - Vårdval
+3033,"Audionommottagning, Lund (Audionova)",,41,Privat,,,Specialiserad vård,3,41015O,"Audionommottagning, Lund (Audionova)"
+3034,"Capio Medocular AB,  Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41071A,"Capio Medocular AB,  Malmö - Vårdval"
+3036,"Audionommottagning, Helsingborg (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015A,"Audionommottagning, Helsingborg (Hörsam)"
+3037,"Audionommottagning, Ystad (Audionova)",,41,Privat,,,Specialiserad vård,3,41015P,"Audionommottagning, Ystad (Audionova)"
+3038,"Audionommottagning, Malmö (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015H,"Audionommottagning, Malmö (Din Hörsel)"
+3039,"Audionommottagning Carl Gustafväg, Malmö (Audionova)",,41,Privat,,,Specialiserad vård,3,41015M,"Audionommottagning Carl Gustafväg, Malmö (Audionova)"
+3041,"Audionommottagning, Eslöv (Audionova)",,41,Privat,,,Specialiserad vård,3,41015L,"Audionommottagning, Eslöv (Audionova)"
+3042,"Axess Medica, Helsingborg - Vårdval",,41,Privat,,,Specialiserad vård,3,41075A,"Axess Medica, Helsingborg - Vårdval"
+3043,"Österlenkirurgin AB, Simrishamn – Vårdval",,41,Privat,,,Specialiserad vård,3,41077,"Österlenkirurgin AB, Simrishamn – Vårdval"
+3044,"Capio Citykliniken, S:t Laurentiigatan, Lund",,41,Privat,,,Specialiserad vård,3,41051,"Capio Citykliniken, S:t Laurentiigatan, Lund"
+3046,"Audionommottagning, Kristianstad (Audionova)",,41,Privat,,,Specialiserad vård,3,41015S,"Audionommottagning, Kristianstad (Audionova)"
+3047,Ögonspecialistkliniken Lund - Vårdval,,41,Privat,,,Specialiserad vård,3,41079,Ögonspecialistkliniken Lund - Vårdval
+3049,"Audionommottagning, Ängelholm (Audionova)",,41,Privat,,,Specialiserad vård,3,41015U,"Audionommottagning, Ängelholm (Audionova)"
+3239,NU-sjukvården - Dalsland,,51,Offentlig,,,Specialiserad vård,3,52014,NU-sjukvården - Dalsland
+3053,"Ögoncentrum, Varberg",,42,Privat,,,Specialiserad vård,3,42050,"Ögoncentrum, Varberg"
+3054,Länssjukhuset i Halmstad (Ortopedmottagning),,42,Offentlig,,,Specialiserad vård,3,42010A,Länssjukhuset i Halmstad (Ortopedmottagning)
+3062,Specialistsjukvården Falkenberg,,42,Offentlig,,,Specialiserad vård,3,42314,Specialistsjukvården Falkenberg
+3064,Hallands sjukhus Varberg,,42,Offentlig,,,Specialiserad vård,3,42011,Hallands sjukhus Varberg
+3065,Hallands sjukhus Halmstad,,42,Offentlig,,,Specialiserad vård,3,42010,Hallands sjukhus Halmstad
+3069,Hallands sjukhus Kungsbacka,,42,Offentlig,,,Specialiserad vård,3,42301,Hallands sjukhus Kungsbacka

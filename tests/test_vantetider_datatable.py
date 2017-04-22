@@ -69,6 +69,9 @@ def test_measures():
     for measure in table.measures:
         assert measure in measures
 
-
+def test_that_values_are_correct():
+    table = Datatable(open_file(os.path.join(DATA_DIR,"SpecialiseradOperation.html")))
+    assert len(table.data) == 25
+    assert [x["value"] for x in table.data if x["region_or_unit"][1] == u"Medicin Direkt, Östersund" ] == [100.0,36.0,35.0,35.0,3.0]
 
     

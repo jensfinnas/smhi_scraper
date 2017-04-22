@@ -1,14 +1,19 @@
 # encoding: utf-8
 from statscraper.dataset import Dataset 
-from vantetider.common import Common
+from vantetider.common import Common, RequestException404, RequestException500
 from vantetider.dimension import Dimension
 from vantetider.category import Category
-from vantetider.utils import parse_value, parse_text, guess_measure_unit, get_unique, flatten, to_list
+from vantetider.utils import (parse_value, parse_text, parse_landsting,
+    guess_measure_unit, get_unique, flatten, to_list,
+    get_option_value, get_option_text, repeat)
 from vantetider.json_api_endpoints import AJAX_API_ENDPOINTS
 
 from bs4 import BeautifulSoup
 from collections import defaultdict
 from itertools import product
+
+import csvkit as csv
+import os
 
 class Dataset(Dataset, Common):
     def __init__(self, id):
@@ -114,9 +119,18 @@ class Dataset(Dataset, Common):
 
             dimensions["measure"] = dim_measure
 
-            self._dimensions = dimensions
+            self._items = dimensions
 
-        return self._dimensions
+        return self._items
+
+    @property
+    def time_dimensions(self):
+        return [x for x in self.list() if x.id in ["select_year","select_period"]]
+    
+    def generate_dictionary(self):
+        for dim in self.list():
+            dim.generate_dictionary()
+                        
 
     def _dimension_from_select(self, elem):
         """ Take a select html elemet and parse it a dimension
@@ -194,7 +208,7 @@ class Dataset(Dataset, Common):
         only_region = kwargs.keys() == ["select_region"]
         NO_QUERY_DIMS = ["measure"]
         query_keys = [x.id for x in self.dimensions if x.id not in NO_QUERY_DIMS]
-
+        
         queries = []
 
         # Create payload for post request
@@ -221,45 +235,67 @@ class Dataset(Dataset, Common):
             query_values.append(value)
 
         queries = to_list(product(*query_values))
+
         self.log.info(u"Making a total of {} queries".format(len(queries)))
 
         data = []
+
         for query in queries:
             payload =  dict(zip(query_keys, query))
             region_slug = self._get_region_slug(payload["select_region"])
             url = self.url_format.format(region=region_slug)
+            yield self._parse_result_page(url, payload, only_region=only_region)
+
+    def _parse_result_page(self, url, payload, only_region=False):
+        """ Get data from a result page
+            :param url: url to query
+            :param payload: payload to pass
+            :return: a dictlist with data
+        """ 
+        data = []
+        try:
             if only_region:
                 html = self.get_html(url)
             else:
                 html = self.post_html(url, payload=payload)
-        
-            table = Datatable(html)
-            for row in table.data:
+
+        except RequestException500:
+            self.log.warning(u"Status code 500 on {} with {}".format(url, payload))
+            return None
+
+
+        current_selection = self._get_current_selection(html)
+
+        table = Datatable(html)
+        dim_region = self.get("select_region")
+        for row in table.data:
+            region_or_unit_id, region_or_unit_label = row["region_or_unit"]
+            if region_or_unit_id is None:
+                region_or_unit_id = region_or_unit_label
+            try:
+                region = dim_region.get(region_or_unit_id)
+                row["select_region"] = region.id
+            except KeyError:
                 try:
-                    region = self.dimension("select_region").get(row["region_or_unit"])
-                    row["select_region"] = region.id
-                except KeyError:
-                    dim_unit = self.dimension("select_unit")
-                    unit_label = row["region_or_unit"]
-                    try:
-                        unit = dim_unit.get(unit_label)
-                    except KeyError:
-                        cat = Category(unit_label)
-                        dim_unit.add_category(cat)
-                    
-                    row["select_unit"] = unit.id
+                    unit = self.get("select_unit").get(region_or_unit_id)
+                except:
+                    import pdb;pdb.set_trace()
+                row["select_unit"] = unit.id
+                try:
+                    row["select_region"] = dim_region.get(unit.landsting_id).id
+                except AttributeError:
+                    row["select_region"] = None
 
+            row.pop("region_or_unit", None)
 
-                row.pop("region_or_unit", None)
+            for dim in self.dimensions:
+                if dim.id not in row:
+                    row[dim.id] = current_selection[dim.id].label
 
-
-                for dim in self.dimensions:
-                    if dim.id not in row:
-                        row[dim.id] = payload[dim.id]
-
-                data.append(row)
+            data.append(row)
 
         return data
+
 
     def _get_region_slug(self, id_or_label):
         """ Get the regional slug to be used in url
@@ -268,11 +304,21 @@ class Dataset(Dataset, Common):
             :param id_or_label: Id or label of region
         """      
         region = self.dimension("select_region").get(id_or_label)
-        return region.label\
+        slug = region.label\
             .replace(u" ","-")\
             .replace(u"ö","o")\
+            .replace(u"Ö","O")\
             .replace(u"ä","a")\
             .replace(u"å","a") + "s"
+
+        EXCEPTIONS = {
+            "Jamtland-Harjedalens": "Jamtlands",
+            "Rikets": "Sveriges",
+        }
+        if slug in EXCEPTIONS:
+            slug = EXCEPTIONS[slug]
+
+        return slug
 
     def _get_region_periods(self, region_id):
         """ Get available periods for a given region by querying the
@@ -295,15 +341,17 @@ class Dataset(Dataset, Common):
         return self._region_periods[region_id]
 
 
-    def _current_selection(self):
-        # NOT USED, TO BE DELETE
-        values = {}
+    def _get_current_selection(self, html):
+        if isinstance(html, str):
+            html = BeautifulSoup(html, "html.parser")
+        selected_cats = {}
         for dim in self.dimensions:
-            if dim.id in ["measure","measure_key"]:
+            if dim.id in ["measure"]:
                 continue
             
-            elem = self.soup.select("[name='{}']".format(dim.id))
-            if len(elem) > 1:
+            elem = html.select("[name={}]".format(dim.id))
+
+            if len(elem) > 1 or len(elem) == 0:
                 import pdb;pdb.set_trace()
                 raise Exception("DEBUG!")
             else:
@@ -312,19 +360,23 @@ class Dataset(Dataset, Common):
             if dim.elem_type == "select":
                 try:
                     option_elem = elem.select_one("[selected]")
-                    value = get_option_value(option_elem)
+                    selected_id = get_option_value(option_elem)
+                    selected_label = get_option_text(option_elem)
                 except AttributeError:
                     option_elem = elem.select_one("option")
-                    value = get_option_value(option_elem)
+                    selected_id = get_option_value(option_elem)
+                    selected_label = get_option_text(option_elem)
+
+                selected_cat = Category(selected_id, label=selected_label)
             elif dim.elem_type == "radio":
                 import pdb;pdb.set_trace()
                 raise NotImplementedError()
             elif dim.elem_type == "checkbox":
-                value = elem.get("checked")
+                selected_cat = Category(elem.has_attr("checked"))
 
-            values[dim.id] = value
+            selected_cats[dim.id] = selected_cat
 
-        return values
+        return selected_cats
 
 
 
@@ -424,8 +476,8 @@ class Datatable(object):
     def _parse_horizontal_scroll_table(self, table_html):
         """ Get list of dicts from horizontally scrollable table
         """
-        row_index_name = table_html.select_one(".DTFC_LeftHeadWrapper").text 
         row_labels = [parse_text(x.text) for x  in table_html.select(".DTFC_LeftBodyWrapper tbody tr")]
+        row_label_ids = [None] * len(row_labels)
         cols = [parse_text(x.text) for x in table_html.select(".dataTables_scrollHead th")]
         value_rows = table_html.select(".dataTables_scrollBody tbody tr")
 
@@ -434,47 +486,42 @@ class Datatable(object):
             row_values = [parse_value(x.text) for x in value_row.select("td")]
             values.append(row_values)
 
-        sheet = Sheet(row_labels, cols, values)
+        sheet = Sheet(zip(row_label_ids, row_labels), cols, values)
 
-        return zip(
-            row_labels * len(cols),
-            cols * len(row_labels),
-            sheet.values,
-            )
+        return sheet.long_format
 
     def _parse_vertical_scroll_table(self, table_html):
         value_rows = table_html.select("tbody tr")
         row_labels = [parse_text(x.select_one("td").text) for x in value_rows]
+        row_label_ids = [None] * len(row_labels)
+        if table_html.select_one("td .clickable"):
+            row_label_ids = [parse_landsting(x.select_one("td .clickable").get("onclick")) for x in value_rows]
+
         cols = [parse_text(x.text) for x in table_html.select(".dataTables_scrollHead th")][1:]
         values = []
         for row in value_rows:
             row_values = [ parse_value(x.text) for x in row.select("td")[1:] ]
             values.append(row_values)
 
-        sheet = Sheet(row_labels, cols, values)
+        sheet = Sheet(zip(row_label_ids, row_labels), cols, values)
 
-        return zip(
-            row_labels * len(cols),
-            cols * len(row_labels),
-            sheet.values,
-            )
+        return sheet.long_format
 
     def _parse_regular_table(self, table_html):
         value_rows = table_html.select("tbody tr")
         row_labels = [parse_text(x.select_one("td").text) for x in value_rows]
+        row_label_ids = [None] * len(row_labels)
+        if table_html.select_one("td .clickable"):
+            row_label_ids = [parse_landsting(x.select_one("td .clickable").get("onclick")) for x in value_rows]
         cols = [parse_text(x.text) for x in table_html.select("th")][1:]
         values = []
         for row in value_rows:
             row_values = [ parse_value(x.text) for x in row.select("td")[1:] ]
             values.append(row_values)
 
-        sheet = Sheet(row_labels, cols, values)
+        sheet = Sheet(zip(row_label_ids, row_labels), cols, values)
 
-        return zip(
-            row_labels * len(cols),
-            cols * len(row_labels),
-            sheet.values,
-            )
+        return sheet.long_format
 
 
 
@@ -522,6 +569,14 @@ class Sheet(object):
                     "value": value,
                     })
         return data
+
+    @property
+    def long_format(self):
+        return zip(
+            repeat(self.row_index, len(self.col_index)),
+            self.col_index * len(self.row_index),
+            self.values
+            )
     
 
 def guess_dimension(value):

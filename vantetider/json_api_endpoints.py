@@ -32,13 +32,11 @@ AJAX_API_ENDPOINTS = {
         "select_months": {
             "url": u"GetOverbelaggningVisitMonths/{select_year}}/",
             "url_requires": ["select_year"],
-            "iterates": "select_year",
             "key": "Names",
         },
         "select_unit": {
             "url": u"GetUnitsByLandstingAndMatning/{select_region}/{select_period}%20{select_year}/0",
             "url_requires": [ "select_region", "select_period", "select_year" ],
-            "iterates": "select_region",
             "key": "Units",
             "attributes": UNIT_ATTRS,
         },
@@ -47,7 +45,6 @@ AJAX_API_ENDPOINTS = {
         "select_unit": {
             "url": u"GetUnitsByLandstingAndMatningPrimarTelefon/{select_region}/{select_period}%20{select_year}",
             "url_requires": [ "select_region", "select_period", "select_year" ],
-            "iterates": "select_region",
             "key": "Units",
             "attributes": UNIT_ATTRS,
         },
@@ -57,13 +54,11 @@ AJAX_API_ENDPOINTS = {
         "select_year": {
             "url": "GetTelefonMatningar/{select_region}",
             "url_requires": ["select_region"],
-            "iterates": "select_region",
             "key": "Years",
         },
         "select_period": {
             "url": "GetTelefonMatningar/{select_region}",
             "url_requires": ["select_region"],
-            "iterates": "select_region",
             "key": "Names",
         },
     },
@@ -71,7 +66,6 @@ AJAX_API_ENDPOINTS = {
         "select_unit": {
             "url": u"GetUnitsByLandstingAndMatningPrimarBesok/{select_region}/{select_period}%20{select_year}",
             "url_requires": [ "select_region", "select_period", "select_year" ],
-            "iterates": "select_region",
             "key": "Units",
             "attributes": UNIT_ATTRS,
         },
@@ -84,13 +78,11 @@ AJAX_API_ENDPOINTS = {
         "select_year": {
             "url": "GetTelefonMatningar/{select_region}",
             "url_requires": ["select_region"],
-            "iterates": "select_region",
             "key": "Years",
         },
         "select_period": {
             "url": "GetTelefonMatningar/{select_region}",
             "url_requires": ["select_region"],
-            "iterates": "select_region",
             "key": "Names",
         },
 
@@ -99,20 +91,17 @@ AJAX_API_ENDPOINTS = {
         "select_period": {
             "url": u"GetSpecializedVisitMonths/{select_year}/",
             "url_requires": [ "select_year" ],
-            "iterates": "select_year",
             "key": "Months",
         },
         "select_unit": {
-            "url": u"GetUnitsByLandstingAndServiceAndMatning/{select_region}/{select_period}%20{select_year}/0",
+            "url": u"GetUnitsByLandstingAndServiceAndMatning/{select_region}/{select_period}%20{select_year}/0/2",
             "url_requires": [ "select_region", "select_period", "select_year" ],
-            "iterates": "select_region",
             "key": "Units",
             "attributes": UNIT_ATTRS,
         },
         "select_services": {
             "url": u"GetServicesByUnitSpecialiseradBesokMatning/{select_region}/{select_period}%20{select_year}/0",
             "url_requires": [ "select_region", "select_period", "select_year" ],
-            "iterates": "select_region",
             "key": "Services",
             "attributes": SERVICE_ATTRS,
         },
@@ -121,20 +110,17 @@ AJAX_API_ENDPOINTS = {
         "select_period": {
             "url": u"GetSpecializedOperationMonths/{select_year}/",
             "url_requires": [ "select_year" ],
-            "iterates": "select_year",
             "key": "Months",
         },
         "select_unit": {
-            "url": u"GetUnitsByLandstingAndServiceAndMatning/{select_region}/{select_period}%20{select_year}/2",
+            "url": u"GetUnitsByLandstingAndServiceAndMatning/{select_region}/{select_period}%20{select_year}/0/2",
             "url_requires": [ "select_region", "select_period", "select_year" ],
-            "iterates": "select_region",
             "key": "Units",
             "attributes": UNIT_ATTRS,
         },
         "select_services": {
             "url": u"GetServicesByUnitSpecialiseradBesokMatning/{select_region}/{select_period}%20{select_year}/0",
             "url_requires": [ "select_region", "select_period", "select_year" ],
-            "iterates": "select_region",
             "key": "Services",
             "attributes": SERVICE_ATTRS,
         },

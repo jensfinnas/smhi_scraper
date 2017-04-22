@@ -19,7 +19,10 @@ class ResultSet(object):
                         row["value"] = cat_id
                     else:
                         dim = self.dataset.dimension(dim_id)
-                        cat = dim.get(cat_id)
+                        try:
+                            cat = dim.get(cat_id)
+                        except:
+                            import pdb;pdb.set_trace()
                         row[dim.label] = cat.label
                 data.append(row)
 

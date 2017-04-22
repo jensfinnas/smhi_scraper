@@ -16,6 +16,7 @@ class Item(object):
         TODO: Come up with better name.
     """
     _items = None
+    _items_by_label = None
     _id = None
     _label = None
 
@@ -43,7 +44,17 @@ class Item(object):
         if self._items is None:
             raise NotImplementedError("You must define an items property for every item")
         return self._items
-    
+
+    @property
+    def items_by_label(self):
+        """ Returns a  dict of items with labels as key
+        """
+        if self._items_by_label is None:
+            cat_labels = [x.label for x in self.items.values()]
+            self._items_by_label = dict(zip(cat_labels, self.items.values()))
+        
+        return self._items_by_label
+
 
     def list(self):
         """ Get a list of all items
@@ -57,12 +68,11 @@ class Item(object):
         try:
             return self.items[id_or_label]
         except KeyError:
-            for item in self.list():
-                if item.label == id_or_label:
-                    return item
-
-        msg = u"'{}' is not a valid id or key".format(id_or_label)
-        raise KeyError(msg)
+            try:
+                return self.items_by_label[id_or_label]
+            except:
+                msg = u"'{}' is not a valid id or key for {}".format(id_or_label, self.id)
+                raise KeyError(msg)
 
     def add_item(self, id, item):
         """ Add subitem
@@ -75,6 +85,8 @@ class Item(object):
             self._logger = PrintLogger() 
         return self._logger
 
+    def __repr__(self):
+        return "<{}: {}>".format(type(self).__name__, self.label.encode("utf-8"))
 
 class SilentLogger():
     """ Empyt "fake" logger

@@ -1,0 +1,27 @@
+id,label,dtype,_label,parent_id,code,updated
+72,Allmän kirurgi,PhysicalService,Allmän kirurgi,15,301,2014-06-18T14:02:47.99
+74,Kvinnosjukvård,PhysicalService,Kvinnosjukvård,15,431,2014-06-18T14:02:47.993
+75,Kärlkirurgi,PhysicalService,Kärlkirurgi,15,304,2014-06-18T14:02:47.997
+76,Ortopedi,PhysicalService,Ortopedi,15,311,2014-06-18T14:02:48
+79,Plastikkirurgi,PhysicalService,Plastikkirurgi,15,351,2014-06-18T14:02:48.007
+80,Urologi,PhysicalService,Urologi,15,361,2014-06-18T14:02:48.01
+81,Ögonsjukvård,PhysicalService,Ögonsjukvård,15,511,2014-06-18T14:02:48.017
+82,Öron-näsa-halssjukvård,PhysicalService,Öron-näsa-halssjukvård,15,521,2014-06-18T14:02:48.02
+83,Handkirurgi,PhysicalService,Handkirurgi,15,321,2014-06-18T14:02:48.023
+84,Neurokirurgi,PhysicalService,Neurokirurgi,15,331,2014-06-18T14:02:48.06
+85,Allergisjukvård,PhysicalService,Allergisjukvård,16,141,2014-06-18T14:02:48.063
+86,Allmän internmedicin,PhysicalService,Allmän internmedicin,16,101,2014-06-18T14:02:48.067
+88,Mag- och tarmsjukvård,PhysicalService,Mag- och tarmsjukvård,16,105,2014-06-18T14:02:48.07
+89,Barn- och ungdomsmedicin,PhysicalService,Barn- och ungdomsmedicin,16,201,2014-06-18T14:02:48.073
+93,Hematologi,PhysicalService,Hematologi,16,108,2014-06-18T14:02:48.113
+94,Hudsjukvård,PhysicalService,Hudsjukvård,16,211,2014-06-18T14:02:48.117
+96,Hjärtsjukvård,PhysicalService,Hjärtsjukvård,16,231,2014-06-18T14:02:48.12
+97,Lungsjukvård,PhysicalService,Lungsjukvård,16,111,2014-06-18T14:02:48.123
+98,Neurologi,PhysicalService,Neurologi,16,221,2014-06-18T14:02:48.127
+99,Njurmedicin,PhysicalService,Njurmedicin,16,151,2014-06-18T14:02:48.13
+100,Reumatisk sjukvård,PhysicalService,Reumatisk sjukvård,16,131,2014-06-18T14:02:48.133
+101,Endokrinologi,PhysicalService,Endokrinologi,16,161,2014-06-18T14:02:48.137
+102,Cancersjukvård,PhysicalService,Cancersjukvård,16,741,2014-06-18T14:02:48.14
+103,Specialiserad smärtmottagning,PhysicalService,Specialiserad smärtmottagning,16,412,2014-06-18T14:02:48.143
+106,Allmän psykiatri,PhysicalService,Allmän psykiatri,125,901,2014-06-18T14:02:48.147
+107,Barn- och ungdomspsykiatri,PhysicalService,Barn- och ungdomspsykiatri,124,931,2014-06-18T14:02:48.15

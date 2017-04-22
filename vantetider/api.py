@@ -5,6 +5,7 @@ from vantetider.common import Common
 from vantetider.dataset import Dataset
 import requests
 from bs4 import BeautifulSoup
+from . import dataset
 
 class Vantetider(Api, Common):
     """
@@ -12,6 +13,7 @@ class Vantetider(Api, Common):
         - Går inte in specifkt på operation/åtgärd (t.ex. http://www.vantetider.se/Kontaktkort/Dalarnas/SpecialiseradOperation/)
         - Går inte in specifikt på vårdtyper
     """
+
     @property
     def items(self):
         if self._items is None:
@@ -42,3 +44,6 @@ class Vantetider(Api, Common):
 
         return self._items
 
+    def generate_dictionary(self, **kwargs):
+        for dataset in self.list():
+            dataset.generate_dictionary()

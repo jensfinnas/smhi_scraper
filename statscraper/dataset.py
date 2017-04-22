@@ -1,20 +1,12 @@
 # encoding: utf-8
 from statscraper.common import Item
 from statscraper.resultset import ResultSet
+from inspect import isgeneratorfunction
 
 class Dataset(Item):
     """Represents a dataset.
         The enrty point for queries and downloads.
     """
-
-    @property
-    def id(self):
-        """ Get id of dataset
-        """
-        try:
-            return self._id
-        except:
-            raise NotImplementedError("This property must be implemented")
 
     @property
     def label(self):
@@ -41,10 +33,14 @@ class Dataset(Item):
             :returns: a resultset
         """
         # TODO (?): Validate query
-        data = self._query(**kwargs) # Returns a list of dicts (or similar)
-        resultset = ResultSet(data, self)
+
+        for data_batch in self._query(**kwargs):
+            resultset = ResultSet(data_batch, self)
+            yield resultset
+        
+        
         # TODO: Apply metadata from Dataset
         # TODO: Validate results
-        return resultset
+        
 
 
