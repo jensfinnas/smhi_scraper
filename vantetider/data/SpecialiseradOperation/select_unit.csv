@@ -1,274 +1,626 @@
 id,label,number_of_doctors,landsting_id,ownership,phonesystem,booking_type,unit_type,unit_type_number,code,_label
-3328,Mora lasarett,,57,Offentlig,,,Specialiserad vård,3,57011,Mora lasarett
-3075,"Handikappförvaltningen, Borås",,51,Offentlig,,,Specialiserad vård,3,52021A,"Handikappförvaltningen, Borås"
-3078,"Handikappförvaltningen, Skövde",,51,Offentlig,,,Specialiserad vård,3,52021E,"Handikappförvaltningen, Skövde"
-4378,NU-sjukvården (NÄL och Uddevalla),,51,Offentlig,,,Specialiserad vård,3,52015A,NU-sjukvården (NÄL och Uddevalla)
-3089,"Frölunda specialistsjukhus, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50071,"Frölunda specialistsjukhus, Göteborg"
-3090,"Handikappförvaltningen, Alingsås",,51,Offentlig,,,Specialiserad vård,3,52021C,"Handikappförvaltningen, Alingsås"
-3304,Västmanlands sjukhus Västerås,,56,Offentlig,,,Specialiserad vård,3,56010,Västmanlands sjukhus Västerås
-3098,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",,51,Offentlig,,,Specialiserad vård,3,53014,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)"
-3102,Alingsås lasarett,,51,Offentlig,,,Specialiserad vård,3,52012,Alingsås lasarett
-3113,Göteborg Hand Center,,51,Privat,,,Specialiserad vård,3,50075,Göteborg Hand Center
-4445,"Spine Center, Göteborg",,51,Privat,,,Specialiserad vård,3,50082,"Spine Center, Göteborg"
-4146,"Carema Specialistvård, Eslöv - Vårdval",,41,Privat,,,Specialiserad vård,3,41078x,"Carema Specialistvård, Eslöv - Vårdval"
+4145,Vuxenpsykiatrin Sölvesborg/Olofström,,27,Offentlig,,,Specialiserad vård,3,27535,Vuxenpsykiatrin Sölvesborg/Olofström
 4147,"Carema Specialistvård, Lund",,41,Privat,,,Specialiserad vård,3,41051x,"Carema Specialistvård, Lund"
+4148,Carema Närsjukvård Simrishamn,,41,Privat,,,Specialiserad vård,3,28013x,Carema Närsjukvård Simrishamn
 4149,"Carema Specialistvård, Eslöv",,41,Privat,,,Specialiserad vård,3,41050x,"Carema Specialistvård, Eslöv"
-3127,"Capio Lundby Närsjukhus, Göteborg",,51,Privat,,,Specialiserad vård,3,50070,"Capio Lundby Närsjukhus, Göteborg"
-2741,"Ortopedi- &amp; KirurgiCentrum, Vallentuna",,10,Privat,,,Specialiserad vård,3,10078,"Ortopedi- &amp; KirurgiCentrum, Vallentuna"
-3156,"Handikappförvaltningen, Mariestad",,51,Offentlig,,,Specialiserad vård,3,52021I,"Handikappförvaltningen, Mariestad"
-3137,Sjukhuset i Falköping,,51,Offentlig,,,Specialiserad vård,3,53010,Sjukhuset i Falköping
-3147,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",,51,Offentlig,,,Specialiserad vård,3,52015,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)"
-3148,Sahlgrenska Universitetssjukhuset,,51,Offentlig,,,Specialiserad vård,3,50000,Sahlgrenska Universitetssjukhuset
-3149,Kärnsjukhuset i Skövde,,51,Offentlig,,,Specialiserad vård,3,53014A,Kärnsjukhuset i Skövde
-4176,Göteborgs Urologmottagning,,51,Privat,,,Specialiserad vård,3,50079,Göteborgs Urologmottagning
+4150,"Allmänpsykiatriska mottagningen (Affektiva sjukdomar), Västerås",,56,Offentlig,,,Specialiserad vård,3,560109_old,"Allmänpsykiatriska mottagningen (Affektiva sjukdomar), Västerås"
+4151,"Allmänpsykiatriska mottagningen (Ångestsjukdomar), Västerås",,56,Offentlig,,,Specialiserad vård,3,5601010_old,"Allmänpsykiatriska mottagningen (Ångestsjukdomar), Västerås"
+4152,"Aleris Specialistvård, Söderhamn",,61,Privat,,,Specialiserad vård,3,61052,"Aleris Specialistvård, Söderhamn"
+4165,Älvdalens psyk mottagning (Mora lasarett - Älvdalen),,57,Offentlig,,,Specialiserad vård,3,57011F,Älvdalens psyk mottagning (Mora lasarett - Älvdalen)
+4166,Falu Psykiatriska Beroendemottagning,,57,Offentlig,,,Specialiserad vård,3,57010B,Falu Psykiatriska Beroendemottagning
+4167,Falu Psykiatriska Ätstörningsavd,,57,Offentlig,,,Specialiserad vård,3,57010A,Falu Psykiatriska Ätstörningsavd
+4168,Botkyrka BUP- mottagning,,10,Offentlig,,,Specialiserad vård,3,10933_old,Botkyrka BUP- mottagning
+4169,Haninge Psykiatriska Öppenvårdsklinik sydöst,,10,Offentlig,,,Specialiserad vård,3,10817_old,Haninge Psykiatriska Öppenvårdsklinik sydöst
+4170,Nynäshamns Psykiatriska Öppenvårdsklinik sydöst,,10,Offentlig,,,Specialiserad vård,3,10816_old,Nynäshamns Psykiatriska Öppenvårdsklinik sydöst
 4177,"Nacka Närsjukhus, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10071_old,"Nacka Närsjukhus, Stockholm"
-3154,"Handikappförvaltningen, Göteborg",,51,Offentlig,,,Specialiserad vård,3,52021J,"Handikappförvaltningen, Göteborg"
-3171,"SU/Sahlgrenska sjukhuset, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50001,"SU/Sahlgrenska sjukhuset, Göteborg"
-3276,Specialistmottagning Säffle,,54,Offentlig,,,Specialiserad vård,3,54013,Specialistmottagning Säffle
-4184,"Audika, Upplands Väsby",,10,Privat,,,Specialiserad vård,3,11067,"Audika, Upplands Väsby"
-4185,"Avesina Södermalm, Stockholm",,10,Privat,,,Specialiserad vård,3,11066,"Avesina Södermalm, Stockholm"
-3162,"Handikappförvaltningen, Trollhättan",,51,Offentlig,,,Specialiserad vård,3,52021F,"Handikappförvaltningen, Trollhättan"
-3163,"Hörseldiagnostik och rehabilitering, Göteborg",,51,Offentlig,,,Specialiserad vård,3,52022D,"Hörseldiagnostik och rehabilitering, Göteborg"
-3165,NU-sjukvården - Uddevalla,,51,Offentlig,,,Specialiserad vård,3,51010,NU-sjukvården - Uddevalla
-2747,"Ryggkirurgiska kliniken, Strängnäs",,10,Privat,,,Specialiserad vård,3,10484,"Ryggkirurgiska kliniken, Strängnäs"
-4196,"Audionommottagning, Trelleborg (Audika)",,41,Privat,,,Specialiserad vård,3,41016E,"Audionommottagning, Trelleborg (Audika)"
-4369,"Aktys ögonklinik, Malmö  - Vårdval",,41,Privat,,,Specialiserad vård,3,41085,"Aktys ögonklinik, Malmö  - Vårdval"
-3260,"Hörseldiagnostik och rehabilitering, Södra Älvsborg",,51,Offentlig,,,Specialiserad vård,3,52022A,"Hörseldiagnostik och rehabilitering, Södra Älvsborg"
-3183,Kungälvs sjukhus,,51,Offentlig,,,Specialiserad vård,3,51012,Kungälvs sjukhus
-3187,"SU/Östra sjukhuset, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50010,"SU/Östra sjukhuset, Göteborg"
-3262,"Handikappförvaltningen, Falköping",,51,Offentlig,,,Specialiserad vård,3,52021G,"Handikappförvaltningen, Falköping"
-3192,Sjukhuset i Lidköping,,51,Offentlig,,,Specialiserad vård,3,53011,Sjukhuset i Lidköping
-2681,"Ersta Närsjukvård, Specialistmottagning, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10306,"Ersta Närsjukvård, Specialistmottagning, Stockholm"
-3263,"Södra Älvsborgs Sjukhus, Borås/Skene",,51,Offentlig,,,Specialiserad vård,3,52011,"Södra Älvsborgs Sjukhus, Borås/Skene"
-2684,Södertälje sjukhus AB,,10,Offentlig,,,Specialiserad vård,3,11011,Södertälje sjukhus AB
-3202,NU-sjukvården - NÄL,,51,Offentlig,,,Specialiserad vård,3,52017,NU-sjukvården - NÄL
-2691,"Ortopediska Huset, Stockholm",,10,Privat,,,Specialiserad vård,3,10090,"Ortopediska Huset, Stockholm"
-2693,"Ortopedi- och Fotkirurgikliniken, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10104,"Ortopedi- och Fotkirurgikliniken, Stockholm"
-3315,Västmanlands sjukhus Sala,,56,Offentlig,,,Specialiserad vård,3,56011,Västmanlands sjukhus Sala
-3208,NU-sjukvården - Strömstad,,51,Offentlig,,,Specialiserad vård,3,51032,NU-sjukvården - Strömstad
-2698,"Aleris Specialistvård Sabbatsberg, Stockholm",,10,Privat,,,Specialiserad vård,3,10010,"Aleris Specialistvård Sabbatsberg, Stockholm"
-2700,"Karolinska universitetssjukhuset, Huddinge och Solna",,10,Offentlig,,,Specialiserad vård,3,10000,"Karolinska universitetssjukhuset, Huddinge och Solna"
-2701,Norrtälje sjukhus,,10,Offentlig,,,Specialiserad vård,3,11012,Norrtälje sjukhus
-3214,"Hörseldiagnostik och rehabilitering, Fyrbodal",,51,Offentlig,,,Specialiserad vård,3,52022C,"Hörseldiagnostik och rehabilitering, Fyrbodal"
-2704,"Novius Ögonklinik, Stockholm",,10,Privat,,,Specialiserad vård,3,10081,"Novius Ögonklinik, Stockholm"
-2705,"Capio Artro Clinic, Stockholm",,10,Privat,,,Specialiserad vård,3,10051,"Capio Artro Clinic, Stockholm"
-2711,"Aleris Specialistvård Täby, Stockholm",,10,Privat,,,Specialiserad vård,3,10070,"Aleris Specialistvård Täby, Stockholm"
-3226,Scanloc Healthcare AB/Scanloc Ögon,,51,Privat,,,Specialiserad vård,3,50076,Scanloc Healthcare AB/Scanloc Ögon
-2717,"S:t Eriks ögonsjukhus, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10012,"S:t Eriks ögonsjukhus, Stockholm"
-2718,"Danderyds sjukhus AB, Stockholm",,10,Offentlig,,,Specialiserad vård,3,11010,"Danderyds sjukhus AB, Stockholm"
-2757,"Capio Medocular, Stockholm",,10,Privat,,,Specialiserad vård,3,10080,"Capio Medocular, Stockholm"
-3232,"Hörseldiagnostik och rehabilitering, Skaraborg",,51,Offentlig,,,Specialiserad vård,3,52022B,"Hörseldiagnostik och rehabilitering, Skaraborg"
-2722,"Audika, Södertälje",,10,Privat,,,Specialiserad vård,3,11059,"Audika, Södertälje"
-3235,Centrum för Obesitas/Göteborg,,51,Offentlig,,,Specialiserad vård,3,50091,Centrum för Obesitas/Göteborg
-2724,"Södersjukhuset, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10013,"Södersjukhuset, Stockholm"
-4263,"Axess Medica, Kristianstad – Vårdval",,41,Privat,,,Specialiserad vård,3,41075C,"Axess Medica, Kristianstad – Vårdval"
+4178,"Capio Citykliniken, Malmö Singelgatan (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41060A,"Capio Citykliniken, Malmö Singelgatan (Specialistmottagning)"
+4180,"Närhälsan Kungshöjd, Gynekologisk mottagning",,51,Offentlig,,,Specialiserad vård,3,52735,"Närhälsan Kungshöjd, Gynekologisk mottagning"
+4181,"Psykiatrisk öppenvård, Arvika/Säffle",,54,Offentlig,,,Specialiserad vård,3,54902,"Psykiatrisk öppenvård, Arvika/Säffle"
+4182,"Psykiatrisk mottagning, Torsby/Hagfors",,54,Offentlig,,,Specialiserad vård,3,54904,"Psykiatrisk mottagning, Torsby/Hagfors"
+4183,"Psykiatrisk öppenvård, Kristinehamn",,54,Offentlig,,,Specialiserad vård,3,54903,"Psykiatrisk öppenvård, Kristinehamn"
+4186,Falun BUP Familjeterapi,,57,Offentlig,,,Specialiserad vård,3,57021,Falun BUP Familjeterapi
+4187,Falun BUP Ätstörning,,57,Offentlig,,,Specialiserad vård,3,57022,Falun BUP Ätstörning
+4192,"Psykiatrisk öppenvård, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54901,"Psykiatrisk öppenvård, Karlstad"
+4257,Barnmottagningen Baltazar AB,,21,Privat,,,Specialiserad vård,3,21058,Barnmottagningen Baltazar AB
+4258,Barn- och ungdomspsykiatrimottagning Södertull,,61,Offentlig,,,Specialiserad vård,3,61923,Barn- och ungdomspsykiatrimottagning Södertull
+4259,Barn- och ungdomspsykiatrimottagning Gula Villan Gävle,,61,Offentlig,,,Specialiserad vård,3,61924,Barn- och ungdomspsykiatrimottagning Gula Villan Gävle
+4260,"Habiliteringskliniken, Sollefteå sjukhus",,62,Offentlig,,,Specialiserad vård,3,62013B,"Habiliteringskliniken, Sollefteå sjukhus"
+4261,"Habiliteringskliniken, Örnsköldsviks sjukhus",,62,Offentlig,,,Specialiserad vård,3,62011A,"Habiliteringskliniken, Örnsköldsviks sjukhus"
 4264,Hallands sjukhus (Halmstad/Varberg/Kungsbacka),,42,Offentlig,,,Specialiserad vård,3,42020,Hallands sjukhus (Halmstad/Varberg/Kungsbacka)
-2729,Sollentuna Specialistklinik,,10,Privat,,,Specialiserad vård,3,11064,Sollentuna Specialistklinik
-2730,UroClinic Stockholm (S:t Görans sjukhus),,10,Offentlig,,,Specialiserad vård,3,10053,UroClinic Stockholm (S:t Görans sjukhus)
 4268,"Kirurgi- och ortopediverksamhet, Gävleborg",,61,Offentlig,,,Specialiserad vård,3,61021,"Kirurgi- och ortopediverksamhet, Gävleborg"
-2735,OrthoCenter (Löwenströmska),,10,Privat,,,Specialiserad vård,3,10487,OrthoCenter (Löwenströmska)
-3250,"Handikappförvaltningen, Frölunda",,51,Offentlig,,,Specialiserad vård,3,52021D,"Handikappförvaltningen, Frölunda"
+4271,Hälsostaden Ängelholm,,41,Offentlig,,,Specialiserad vård,3,28011B,Hälsostaden Ängelholm
+4272,"Ätstörningsenheten, Norra Halland",,42,Offentlig,,,Specialiserad vård,3,42561,"Ätstörningsenheten, Norra Halland"
+4273,"Ätstörningsenheten, Södra Halland",,42,Offentlig,,,Specialiserad vård,3,42562,"Ätstörningsenheten, Södra Halland"
+4274,Neurologkliniken Dr Stig Svensson AB,,51,Privat,,,Specialiserad vård,3,50080,Neurologkliniken Dr Stig Svensson AB
 4275,Aleris Specialistvård Bollnäs,,61,Privat,,,Specialiserad vård,3,61011A,Aleris Specialistvård Bollnäs
-4382,"Agata Ögonklinik, Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41093,"Agata Ögonklinik, Malmö - Vårdval"
-4283,"Audionommottagning, Ängelholm (Audika)",,41,Privat,,,Specialiserad vård,3,41017F,"Audionommottagning, Ängelholm (Audika)"
-4284,"Audionommottagning, Kristianstad (Audika)",,41,Privat,,,Specialiserad vård,3,41017C,"Audionommottagning, Kristianstad (Audika)"
-4285,Audionommottagning  Hälsovägen Helsingborg (Audionomerna),,41,Privat,,,Specialiserad vård,3,41017B,Audionommottagning  Hälsovägen Helsingborg (Audionomerna)
-4286,"Audionommottagning Rundelsgatan, Malmö (Audika)",,41,Privat,,,Specialiserad vård,3,41017E,"Audionommottagning Rundelsgatan, Malmö (Audika)"
-4287,"Audionommottagning, Båstad (Audionomerna)",,41,Privat,,,Specialiserad vård,3,41017A,"Audionommottagning, Båstad (Audionomerna)"
-4288,"Audionommottagning, Landskrona (Audika)",,41,Privat,,,Specialiserad vård,3,41017D,"Audionommottagning, Landskrona (Audika)"
-4290,"Ögonoperationskliniken, Lund – Vårdval",,41,Privat,,,Specialiserad vård,3,41018,"Ögonoperationskliniken, Lund – Vårdval"
-4291,"Aleris Obesitas, Kristianstad",,41,Privat,,,Specialiserad vård,3,41019,"Aleris Obesitas, Kristianstad"
-4292,"Audionommottagning, Båstad (Audionova)",,41,Privat,,,Specialiserad vård,3,41017G,"Audionommottagning, Båstad (Audionova)"
+4276,Ängelholms sjukhus - Vårdval,,41,Offentlig,,,Specialiserad vård,3,28011C,Ängelholms sjukhus - Vårdval
+4277,Lasarettet Trelleborg - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41011D,Lasarettet Trelleborg - Vårdval
+4278,Läkarhuset i Lund - Vårdval,,41,Privat,,,Specialiserad vård,3,41082,Läkarhuset i Lund - Vårdval
+4279,"Capio Citykliniken, S:t Laurentiigatan, Lund - Vårdval",,41,Privat,,,Specialiserad vård,3,41051A,"Capio Citykliniken, S:t Laurentiigatan, Lund - Vårdval"
+4280,Lundagårds läkargrupp – Vårdval,,41,Privat,,,Specialiserad vård,3,41083,Lundagårds läkargrupp – Vårdval
+4281,Lasarettet i Landskrona - Region Skåne (Obesitas),,41,Offentlig,,,Specialiserad vård,3,41010D,Lasarettet i Landskrona - Region Skåne (Obesitas)
+4282,Psykiatri Karlskrona,,27,Offentlig,,,Specialiserad vård,3,27507,Psykiatri Karlskrona
 4293,Specialistläkarna i Lund,,41,Privat,,,Specialiserad vård,3,41084,Specialistläkarna i Lund
-3272,Sjukhuset i Torsby,,54,Offentlig,,,Specialiserad vård,3,54014,Sjukhuset i Torsby
-3273,Hörselvården Hagfors/Torsby,,54,Offentlig,,,Specialiserad vård,3,54107,Hörselvården Hagfors/Torsby
-3274,"Centralsjukhuset, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54010,"Centralsjukhuset, Karlstad"
-2763,"Aleris Specialistvård Handen, Stockholm",,10,Privat,,,Specialiserad vård,3,11335,"Aleris Specialistvård Handen, Stockholm"
-2764,"Audika, Norrtälje",,10,Privat,,,Specialiserad vård,3,11058,"Audika, Norrtälje"
-2770,"Capio S:t Görans sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10011,"Capio S:t Görans sjukhus, Stockholm"
+4306,"Diagnostiskt centrum hud, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10414,"Diagnostiskt centrum hud, Stockholm"
+4307,Hudcentrum Hagastaden,,10,Privat,,,Specialiserad vård,3,10413,Hudcentrum Hagastaden
+4308,"Gynekologimottagning, Fridhemsplan",,10,Privat,,,Specialiserad vård,3,10418,"Gynekologimottagning, Fridhemsplan"
+4309,"Cutisgruppen, Läkarhuset Odenplan",,10,Privat,,,Specialiserad vård,3,10407,"Cutisgruppen, Läkarhuset Odenplan"
 4310,"Öron Näsa Hals, Capio Globen, Stockholm",,10,Privat,,,Specialiserad vård,3,10424,"Öron Näsa Hals, Capio Globen, Stockholm"
-3193,"SU/Mölndals sjukhus, Mölndal",,51,Offentlig,,,Specialiserad vård,3,51011,"SU/Mölndals sjukhus, Mölndal"
-3288,"Capio Läkargruppen, Örebro",,55,Privat,,,Specialiserad vård,3,55050,"Capio Läkargruppen, Örebro"
+4311,"Gynekologimottagning, Sundbyberg",,10,Privat,,,Specialiserad vård,3,10426,"Gynekologimottagning, Sundbyberg"
+4312,"Gynekologgruppen, Täby",,10,Privat,,,Specialiserad vård,3,10416,"Gynekologgruppen, Täby"
 4313,Läkarhuset Utsikten (Praktikertjänst),,10,Privat,,,Specialiserad vård,3,10412,Läkarhuset Utsikten (Praktikertjänst)
 4314,"Hudmottagning, Farsta läkarhus",,10,Privat,,,Specialiserad vård,3,10410,"Hudmottagning, Farsta läkarhus"
-2780,"Europakliniken, Stockholm",,10,Privat,,,Specialiserad vård,3,10050,"Europakliniken, Stockholm"
-3293,Lindesbergs lasarett,,55,Offentlig,,,Specialiserad vård,3,55012,Lindesbergs lasarett
-2782,Löwenströmska sjukhuset,,10,Privat,,,Specialiserad vård,3,10105,Löwenströmska sjukhuset
+4315,"Utsiktens Öron-Näsa-Halsmottagning, Skanstull",,10,Privat,,,Specialiserad vård,3,10425,"Utsiktens Öron-Näsa-Halsmottagning, Skanstull"
+4316,Capio Slussenkliniken,,10,Privat,,,Specialiserad vård,3,10428,Capio Slussenkliniken
+4317,Vällingby ögonklinik,,10,Privat,,,Specialiserad vård,3,10402,Vällingby ögonklinik
+4318,"Öron Näsa Hals, Capio Vårdcentral Väsby",,10,Privat,,,Specialiserad vård,3,10430,"Öron Näsa Hals, Capio Vårdcentral Väsby"
 4319,Liljeholmens ortopedi,,10,Privat,,,Specialiserad vård,3,10401,Liljeholmens ortopedi
-3296,Västmanlands sjukhus Köping,,56,Offentlig,,,Specialiserad vård,3,56012,Västmanlands sjukhus Köping
+4320,Familjeläkarna Saltsjöbaden,,10,Privat,,,Specialiserad vård,3,10429,Familjeläkarna Saltsjöbaden
+4321,"ÖNH-mottagning,  Dr Kerstin Engervall, Vällingby",,10,Privat,,,Specialiserad vård,3,10422,"ÖNH-mottagning,  Dr Kerstin Engervall, Vällingby"
 4322,"UltraGyn, Sophiahemmet",,10,Privat,,,Specialiserad vård,3,10420,"UltraGyn, Sophiahemmet"
+4323,Läkarhuset Luna,,10,Offentlig,,,Specialiserad vård,3,10408,Läkarhuset Luna
+4324,"Gynekologimottagning, Vallentuna",,10,Privat,,,Specialiserad vård,3,10419,"Gynekologimottagning, Vallentuna"
+4325,Fruängens ögonklinik,,10,Privat,,,Specialiserad vård,3,10403,Fruängens ögonklinik
 4326,"Hudkliniken, Sophiahemmet",,10,Privat,,,Specialiserad vård,3,10409,"Hudkliniken, Sophiahemmet"
 4327,"Hudmottagning, Vårbergs vårdcentral",,10,Privat,,,Specialiserad vård,3,10411,"Hudmottagning, Vårbergs vårdcentral"
-2792,"Audika Kungsholmen, Stockholm",,10,Privat,,,Specialiserad vård,3,11065,"Audika Kungsholmen, Stockholm"
+4328,Optalux ögonklinik,,10,Privat,,,Specialiserad vård,3,10406,Optalux ögonklinik
+4329,"ÖNH center, Jakobsberg (Praktikertjänst)",,10,Offentlig,,,Specialiserad vård,3,10421,"ÖNH center, Jakobsberg (Praktikertjänst)"
+4330,"GynekologerSyd, Skärholmen",,10,Privat,,,Specialiserad vård,3,10417,"GynekologerSyd, Skärholmen"
 4331,"Öron-, näs- och halsklinik, Danderyd",,10,Privat,,,Specialiserad vård,3,10423,"Öron-, näs- och halsklinik, Danderyd"
 4332,Ögonläkargruppen Odenplan,,10,Offentlig,,,Specialiserad vård,3,10405,Ögonläkargruppen Odenplan
-3282,Specialistmottagning Kristinehamn,,54,Offentlig,,,Specialiserad vård,3,54011,Specialistmottagning Kristinehamn
+4333,"Gynekologimottagning, Farsta läkarhus",,10,Privat,,,Specialiserad vård,3,10415,"Gynekologimottagning, Farsta läkarhus"
+4334,"Cityakuten, Hötorget",,10,Privat,,,Specialiserad vård,3,10427,"Cityakuten, Hötorget"
 4339,"A6 Ögonklinik, Jönköping",,22,Privat,,,Specialiserad vård,3,22054,"A6 Ögonklinik, Jönköping"
-3212,Centrum för Obesitas/Skaraborg,,51,Offentlig,,,Specialiserad vård,3,53054,Centrum för Obesitas/Skaraborg
+4340,"Ögonläkarhuset i city, Jönköping",,22,Privat,,,Specialiserad vård,3,22057,"Ögonläkarhuset i city, Jönköping"
 4341,"Eye Clinic, Värnamo",,22,Privat,,,Specialiserad vård,3,22056,"Eye Clinic, Värnamo"
 4342,"Capio Medocular, Jönköping",,22,Privat,,,Specialiserad vård,3,22055,"Capio Medocular, Jönköping"
-3319,Avesta lasarett,,57,Offentlig,,,Specialiserad vård,3,57013,Avesta lasarett
 4344,"Aktys ögonklinik, Malmö  - Vårdval",,41,Privat,,,Specialiserad vård,3,41PPP,"Aktys ögonklinik, Malmö  - Vårdval"
-2810,Stockholms Spine Center,,10,Privat,,,Specialiserad vård,3,10082,Stockholms Spine Center
-4350,Aleris Helsingborg - Vårdval,,41,Offentlig,,,Specialiserad vård,3,42mmmm,Aleris Helsingborg - Vårdval
-4351,Aleris Malmö - Vårdval,,41,Privat,,,Specialiserad vård,3,42nnn,Aleris Malmö - Vårdval
-4352,Aleris Kristianstad - Vårdval,,41,Privat,,,Specialiserad vård,3,42oooo,Aleris Kristianstad - Vårdval
-3329,Ludvika lasarett,,57,Offentlig,,,Specialiserad vård,3,57012,Ludvika lasarett
-2818,Gynekologkliniken Stockholm (S:t Görans sjukhus),,10,Privat,,,Specialiserad vård,3,10052,Gynekologkliniken Stockholm (S:t Görans sjukhus)
-3286,Sjukhuset i Arvika,,54,Offentlig,,,Specialiserad vård,3,54012,Sjukhuset i Arvika
-2822,"Aleris Specialistvård, Nacka",,10,Privat,,,Specialiserad vård,3,10071,"Aleris Specialistvård, Nacka"
-2825,"Ersta sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10481,"Ersta sjukhus, Stockholm"
-3338,"Citykirurgen, Gävle",,61,Privat,,,Specialiserad vård,3,61051,"Citykirurgen, Gävle"
-3339,Gävle sjukhus,,61,Offentlig,,,Specialiserad vård,3,61010,Gävle sjukhus
-4364,Aleris Kristianstad - Vårdval,,41,Privat,,,Specialiserad vård,3,41089,Aleris Kristianstad - Vårdval
-4365,Aleris Helsingborg - Vårdval,,41,Privat,,,Specialiserad vård,3,41087,Aleris Helsingborg - Vårdval
-3345,"Core Care, Söderhamn",,61,Privat,,,Specialiserad vård,3,61018,"Core Care, Söderhamn"
-4370,Aleris Malmö - Vårdval,,41,Privat,,,Specialiserad vård,3,41088,Aleris Malmö - Vårdval
-2836,"Globen Ögonklinik, Enskede",,10,Privat,,,Specialiserad vård,3,10075,"Globen Ögonklinik, Enskede"
-4373,"Audionommottagning, Helsingborg (Audiovox)",,41,Privat,,,Specialiserad vård,3,41017H,"Audionommottagning, Helsingborg (Audiovox)"
-3289,Karlskoga lasarett,,55,Offentlig,,,Specialiserad vård,3,55011,Karlskoga lasarett
-2841,Lasarettet i Enköping,,12,Offentlig,,,Specialiserad vård,3,12010,Lasarettet i Enköping
-3354,Sandvikens sjukhus,,61,Offentlig,,,Specialiserad vård,3,61013,Sandvikens sjukhus
-3356,Hudiksvalls sjukhus,,61,Offentlig,,,Specialiserad vård,3,61012,Hudiksvalls sjukhus
-3290,Universitetssjukhuset i Örebro,,55,Offentlig,,,Specialiserad vård,3,55010,Universitetssjukhuset i Örebro
-3358,Bollnäs sjukhus,,61,Offentlig,,,Specialiserad vård,3,61011,Bollnäs sjukhus
+4345,"Laro-mottagning, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54115,"Laro-mottagning, Karlstad"
+4358,"Närsjukhuset Simrishamn, Praktikertjänst",,41,Privat,,,Specialiserad vård,3,28013A,"Närsjukhuset Simrishamn, Praktikertjänst"
+4361,Västerviks sjukhus  (AnorexiBulemiCenter) för Barn och unga,,24,Offentlig,,,Specialiserad vård,3,24010B,Västerviks sjukhus  (AnorexiBulemiCenter) för Barn och unga
+4366,"Curos Skin Clinic, Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41091,"Curos Skin Clinic, Malmö - Vårdval"
+4367,"Diagnostiskt Centrum Hud, Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41092,"Diagnostiskt Centrum Hud, Malmö - Vårdval"
+4368,"Capio Citykliniken, Malmö Centrum (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41090,"Capio Citykliniken, Malmö Centrum (Specialistmottagning)"
+4369,"Aktys ögonklinik, Malmö  - Vårdval",,41,Privat,,,Specialiserad vård,3,41085,"Aktys ögonklinik, Malmö  - Vårdval"
+4375,"Prostata Scandinavia AB, Kristinehamn",,54,Privat,,,Specialiserad vård,3,54116,"Prostata Scandinavia AB, Kristinehamn"
+4376,"Närhälsan Hisingen, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52736,"Närhälsan Hisingen, BuM-mottagning"
+4378,NU-sjukvården (NÄL och Uddevalla),,51,Offentlig,,,Specialiserad vård,3,52015A,NU-sjukvården (NÄL och Uddevalla)
+4379,"Närsjukhus Dalsland, Lysekil och Strömstad (Praktikertjänst)",,51,Privat,,,Specialiserad vård,3,52015B,"Närsjukhus Dalsland, Lysekil och Strömstad (Praktikertjänst)"
+4382,"Agata Ögonklinik, Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41093,"Agata Ögonklinik, Malmö - Vårdval"
 4383,"Ögoncentrum Annedal, Lund",,41,Privat,,,Specialiserad vård,3,41094,"Ögoncentrum Annedal, Lund"
-3360,Sollefteå sjukhus,,62,Offentlig,,,Specialiserad vård,3,62013,Sollefteå sjukhus
-4385,"Österlenkirurgin AB, Simrishamn",,41,Privat,,,Specialiserad vård,3,41095,"Österlenkirurgin AB, Simrishamn"
-3362,Länssjukhuset Sundsvall-Härnösand,,62,Offentlig,,,Specialiserad vård,3,62010,Länssjukhuset Sundsvall-Härnösand
-3363,Örnsköldsviks sjukhus,,62,Offentlig,,,Specialiserad vård,3,62011,Örnsköldsviks sjukhus
-3364,Länssjukhuset Härnösand-Sundsvall,,62,Offentlig,,,Specialiserad vård,3,62012,Länssjukhuset Härnösand-Sundsvall
-3368,"Medicin Direkt, Östersund",,63,Privat,,,Specialiserad vård,3,63050,"Medicin Direkt, Östersund"
-3370,Östersunds sjukhus,,63,Offentlig,,,Specialiserad vård,3,63010,Östersunds sjukhus
-3372,"Norrlands Universitetssjukhus, Umeå",,64,Offentlig,,,Specialiserad vård,3,64001,"Norrlands Universitetssjukhus, Umeå"
-3373,Lycksele lasarett,,64,Offentlig,,,Specialiserad vård,3,64011,Lycksele lasarett
-3374,"Norrlands Universitetssjukhus, Umeå (Idrottsmedicinsk klinik)",,64,Offentlig,,,Specialiserad vård,3,64001A,"Norrlands Universitetssjukhus, Umeå (Idrottsmedicinsk klinik)"
-3375,"Sports Medicin AB, Umeå",,64,Privat,,,Specialiserad vård,3,64700,"Sports Medicin AB, Umeå"
-3377,Skellefteå lasarett,,64,Offentlig,,,Specialiserad vård,3,64010,Skellefteå lasarett
-2867,"Elisabethsjukhuset, Uppsala",,12,Privat,,,Specialiserad vård,3,12051,"Elisabethsjukhuset, Uppsala"
-4405,"Katarakta, Lund",,41,Privat,,,Specialiserad vård,3,41020,"Katarakta, Lund"
-3382,Sunderby sjukhus,,65,Offentlig,,,Specialiserad vård,3,65016,Sunderby sjukhus
-3383,Kalix sjukhus,,65,Offentlig,,,Specialiserad vård,3,65014,Kalix sjukhus
-4408,"Audionommottagning, Helsingborg (Audionomcentrum)",,41,Privat,,,Specialiserad vård,3,41017I,"Audionommottagning, Helsingborg (Audionomcentrum)"
-4409,"Audionommottagning, Svalöv (Audiovox)",,41,Privat,,,Specialiserad vård,3,41017K,"Audionommottagning, Svalöv (Audiovox)"
-4411,"Ögonlasern, Lund - Vårdval",,41,Privat,,,Specialiserad vård,3,41097,"Ögonlasern, Lund - Vårdval"
-2877,"Akademiska sjukhuset, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12001,"Akademiska sjukhuset, Uppsala"
-2806,"Audika City, Stockholm",,10,Privat,,,Specialiserad vård,3,11060,"Audika City, Stockholm"
-2869,"Akademiska sjukhuset, Uppsala (Kortvårdskirurgi)",,12,Offentlig,,,Specialiserad vård,3,12001A,"Akademiska sjukhuset, Uppsala (Kortvårdskirurgi)"
-3318,Falu lasarett,,57,Offentlig,,,Specialiserad vård,3,57010,Falu lasarett
+4384,"Capio Citykliniken S:t Laurentiigatan, Lund (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41051B,"Capio Citykliniken S:t Laurentiigatan, Lund (Specialistmottagning)"
+4386,Ögonspecialisterna i Nässjö,,22,Privat,,,Specialiserad vård,3,22058,Ögonspecialisterna i Nässjö
+4396,"Närsjukhuset Simrishamn, Praktikertjänst - Vårdval",,41,Privat,,,Specialiserad vård,3,28013B,"Närsjukhuset Simrishamn, Praktikertjänst - Vårdval"
 4419,Barnläkargruppen Sparta,,41,Privat,,,Specialiserad vård,3,41098,Barnläkargruppen Sparta
-4406,"Audionommottagning, Höganäs (Audiovox)",,41,Privat,,,Specialiserad vård,3,41017J,"Audionommottagning, Höganäs (Audiovox)"
+4433,"Kronobergs Huddoktor, Växjö",,23,Privat,,,Specialiserad vård,3,23801,"Kronobergs Huddoktor, Växjö"
+4444,"Art Clinic, Göteborg",,51,Privat,,,Specialiserad vård,3,50081,"Art Clinic, Göteborg"
+4445,"Spine Center, Göteborg",,51,Privat,,,Specialiserad vård,3,50082,"Spine Center, Göteborg"
+4446,Ögonläkarna i Eslöv AB - Vårdval,,41,Privat,,,Specialiserad vård,3,41086,Ögonläkarna i Eslöv AB - Vårdval
+4454,Psykiatri Skåne Simrishamn,,41,Offentlig,,,Specialiserad vård,3,41802K,Psykiatri Skåne Simrishamn
+4465,"Privatläkarna Hudmottagning, Helsingborg - Vårdval",,41,Privat,,,Specialiserad vård,3,41064,"Privatläkarna Hudmottagning, Helsingborg - Vårdval"
+4467,"Nya Karolinska universitetsjukhuset, Solna",,10,Offentlig,,,Specialiserad vård,3,11003,"Nya Karolinska universitetsjukhuset, Solna"
+4469,"Angereds Närsjukhus, Gamlestaden",,51,Offentlig,,,Specialiserad vård,3,50054A,"Angereds Närsjukhus, Gamlestaden"
+2681,"Ersta Närsjukvård, Specialistmottagning, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10306,"Ersta Närsjukvård, Specialistmottagning, Stockholm"
+2682,Jakobsberg BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10908,Jakobsberg BUP-mottagning
+2683,Handen BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10936,Handen BUP-mottagning
+2684,Södertälje sjukhus AB,,10,Offentlig,,,Specialiserad vård,3,11011,Södertälje sjukhus AB
+2686,Skärholmen BUP- mottagning,,10,Offentlig,,,Specialiserad vård,3,10919,Skärholmen BUP- mottagning
+2688,Täby BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10925,Täby BUP-mottagning
+2689,Östermalms Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10825,Östermalms Psykiatriska Öppenvårdsmottagning
+2691,"Ortopediska Huset, Stockholm",,10,Privat,,,Specialiserad vård,3,10090,"Ortopediska Huset, Stockholm"
+2692,"PRIMA vuxenpsykiatri, Mörby",,10,Privat,,,Specialiserad vård,3,10845,"PRIMA vuxenpsykiatri, Mörby"
+2693,"Ortopedi- och Fotkirurgikliniken, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10104,"Ortopedi- och Fotkirurgikliniken, Stockholm"
+2695,"Järvapsykiatrin, Spånga Rinkeby Kista",,10,Privat,,,Specialiserad vård,3,10841,"Järvapsykiatrin, Spånga Rinkeby Kista"
+2697,Kungsholmen BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10910,Kungsholmen BUP-mottagning
+2698,"Aleris Specialistvård Sabbatsberg, Stockholm",,10,Privat,,,Specialiserad vård,3,10010,"Aleris Specialistvård Sabbatsberg, Stockholm"
+2699,"PRIMA vuxenpsykiatri,Täby",,10,Privat,,,Specialiserad vård,3,10846,"PRIMA vuxenpsykiatri,Täby"
+2700,"Karolinska universitetssjukhuset, Huddinge och Solna",,10,Offentlig,,,Specialiserad vård,3,10000,"Karolinska universitetssjukhuset, Huddinge och Solna"
+2701,Norrtälje sjukhus,,10,Offentlig,,,Specialiserad vård,3,11012,Norrtälje sjukhus
+2702,Södermalm Gamla stan Psykjour och öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10834,Södermalm Gamla stan Psykjour och öppenvårdsmottagning
+2705,"Capio Artro Clinic, Stockholm",,10,Privat,,,Specialiserad vård,3,10051,"Capio Artro Clinic, Stockholm"
+2706,Sigtuna/Upplands Väsby Psykiatriska öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10837,Sigtuna/Upplands Väsby Psykiatriska öppenvårdsmottagning
+2708,Solna BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10921,Solna BUP-mottagning
+2709,Ektorp BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10935,Ektorp BUP-mottagning
+2710,Farsta-Skarpnäck Psykjour och öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10833,Farsta-Skarpnäck Psykjour och öppenvårdsmottagning
+2711,"Aleris Specialistvård Täby, Stockholm",,10,Privat,,,Specialiserad vård,3,10070,"Aleris Specialistvård Täby, Stockholm"
+2713,"Astma- och allergimottagning (S:t Görans sjukhus), Stockholm",,10,Privat,,,Specialiserad vård,3,10485,"Astma- och allergimottagning (S:t Görans sjukhus), Stockholm"
+2717,"S:t Eriks ögonsjukhus, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10012,"S:t Eriks ögonsjukhus, Stockholm"
+2718,"Danderyds sjukhus AB, Stockholm",,10,Offentlig,,,Specialiserad vård,3,11010,"Danderyds sjukhus AB, Stockholm"
+2719,"IBD-enheten (Gastromottagning, Sophiahemmet)",,10,Privat,,,Specialiserad vård,3,10486,"IBD-enheten (Gastromottagning, Sophiahemmet)"
+2720,City Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10842,City Psykiatriska Öppenvårdsmottagning
+2721,"WeMind psykiatri, Stockholm",,10,Privat,,,Specialiserad vård,3,10840,"WeMind psykiatri, Stockholm"
+2724,"Södersjukhuset, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10013,"Södersjukhuset, Stockholm"
+2726,Capio Psykiatri Tyresö,,10,Privat,,,Specialiserad vård,3,10818,Capio Psykiatri Tyresö
+2729,Sollentuna Specialistklinik,,10,Privat,,,Specialiserad vård,3,11064,Sollentuna Specialistklinik
+2730,UroClinic Stockholm (S:t Görans sjukhus),,10,Offentlig,,,Specialiserad vård,3,10053,UroClinic Stockholm (S:t Görans sjukhus)
+2732,Södertälje BUP- mottagning,,10,Offentlig,,,Specialiserad vård,3,10923,Södertälje BUP- mottagning
+2733,Älvsjö Psykiatriska Öppenvårdsmottaging,,10,Offentlig,,,Specialiserad vård,3,10828,Älvsjö Psykiatriska Öppenvårdsmottaging
+2735,OrthoCenter (Löwenströmska),,10,Privat,,,Specialiserad vård,3,10487,OrthoCenter (Löwenströmska)
+2736,Skärholmens Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10831,Skärholmens Psykiatriska Öppenvårdsmottagning
+2737,Huddinge BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10906,Huddinge BUP-mottagning
+2740,Sollentuna Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10804,Sollentuna Psykiatriska Öppenvårdsmottagning
+2741,"Ortopedi- &amp; KirurgiCentrum, Vallentuna",,10,Privat,,,Specialiserad vård,3,10078,"Ortopedi- &amp; KirurgiCentrum, Vallentuna"
+2744,Årsta Vantör Psykjour och öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10835,Årsta Vantör Psykjour och öppenvårdsmottagning
+2745,Prima barn-och ungdomspsykiatri Botkyrka,,10,Privat,,,Specialiserad vård,3,10933,Prima barn-och ungdomspsykiatri Botkyrka
+2747,"Ryggkirurgiska kliniken, Strängnäs",,10,Privat,,,Specialiserad vård,3,10484,"Ryggkirurgiska kliniken, Strängnäs"
+2749,"Prima Barn-och ungdomspsykiatri, Järva",,10,Privat,,,Specialiserad vård,3,10939,"Prima Barn-och ungdomspsykiatri, Järva"
+2752,"Barn- och ungdomsmedicinsk mottagning, Lidingö",,10,Offentlig,,,Specialiserad vård,3,10944,"Barn- och ungdomsmedicinsk mottagning, Lidingö"
+2756,"Mandometerkliniken, Danderyd och Huddinge",,10,Privat,,,Specialiserad vård,3,10941,"Mandometerkliniken, Danderyd och Huddinge"
+2759,"PRIMA barn- och ungdomspsykiatri, Handen",,10,Privat,,,Specialiserad vård,3,10938,"PRIMA barn- och ungdomspsykiatri, Handen"
+2760,Danderyd BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10930,Danderyd BUP-mottagning
+2761,Bromma/Ekerö Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10843,Bromma/Ekerö Psykiatriska Öppenvårdsmottagning
+2762,Lidingö Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10803,Lidingö Psykiatriska Öppenvårdsmottagning
+2763,"Aleris Specialistvård Handen, Stockholm",,10,Privat,,,Specialiserad vård,3,11335,"Aleris Specialistvård Handen, Stockholm"
+2766,"Psykiatrihälsan, Farsta",,10,Privat,,,Specialiserad vård,3,10839,"Psykiatrihälsan, Farsta"
+2767,"Globen ögonklinik, Skärholmen",,10,Privat,,,Specialiserad vård,3,10106,"Globen ögonklinik, Skärholmen"
+2769,Vallentuna Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10802,Vallentuna Psykiatriska Öppenvårdsmottagning
+2770,"Capio S:t Görans sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10011,"Capio S:t Görans sjukhus, Stockholm"
+2771,Allmänpsykitarisk mottagning Väst,,10,Offentlig,,,Specialiserad vård,3,10849,Allmänpsykitarisk mottagning Väst
+2773,Botkyrka Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10830,Botkyrka Psykiatriska Öppenvårdsmottagning
+2774,Capio Psykiatri Värmdö,,10,Privat,,,Specialiserad vård,3,10820,Capio Psykiatri Värmdö
+2776,"Capio Anorexi Centrum, Stockholm",,10,Privat,,,Specialiserad vård,3,10942,"Capio Anorexi Centrum, Stockholm"
+2777,Capio Psykiatri Nacka,,10,Privat,,,Specialiserad vård,3,10819,Capio Psykiatri Nacka
+2778,Sollentuna BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10920,Sollentuna BUP-mottagning
+2779,"PRIMA vuxenpsykiatri, Åkersberga",,10,Privat,,,Specialiserad vård,3,10847,"PRIMA vuxenpsykiatri, Åkersberga"
+2780,"Europakliniken, Stockholm",,10,Privat,,,Specialiserad vård,3,10050,"Europakliniken, Stockholm"
+2782,Löwenströmska sjukhuset,,10,Privat,,,Specialiserad vård,3,10105,Löwenströmska sjukhuset
+2784,Alviks Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10823,Alviks Psykiatriska Öppenvårdsmottagning
+2786,"PRIMA vuxenpsykiatri, Lidingö",,10,Privat,,,Specialiserad vård,3,10844,"PRIMA vuxenpsykiatri, Lidingö"
+2787,Ekerö Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10822,Ekerö Psykiatriska Öppenvårdsmottagning
+2788,Vällingby Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10807,Vällingby Psykiatriska Öppenvårdsmottagning
+2789,Järva BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10909,Järva BUP-mottagning
+2790,Stockholms ögonklinik (Sophiahemmet),,10,Privat,,,Specialiserad vård,3,11053,Stockholms ögonklinik (Sophiahemmet)
+2793,"FysiologLab, Riddargatan, Stockholm",,10,Privat,,,Specialiserad vård,3,10076,"FysiologLab, Riddargatan, Stockholm"
+2794,Järfälla/Upplands Bro Psykiatriska öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10836,Järfälla/Upplands Bro Psykiatriska öppenvårdsmottagning
+2798,Kronan Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10826,Kronan Psykiatriska Öppenvårdsmottagning
+2799,Capio Psykiatri Nynäshamn,,10,Privat,,,Specialiserad vård,3,10816,Capio Psykiatri Nynäshamn
+2800,"PRIMA vuxenpsykiatri, Vallentuna",,10,Privat,,,Specialiserad vård,3,10848,"PRIMA vuxenpsykiatri, Vallentuna"
+2801,Stockholms Centrum för Ätstörningar,,10,Offentlig,,,Specialiserad vård,3,10940,Stockholms Centrum för Ätstörningar
+2803,Liljeholmens Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10827,Liljeholmens Psykiatriska Öppenvårdsmottagning
+2804,Globen BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10903,Globen BUP-mottagning
+2808,"Aleris Specialistvård Järva, Stockholm",,10,Privat,,,Specialiserad vård,3,10072,"Aleris Specialistvård Järva, Stockholm"
+2809,Mörby Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10812,Mörby Psykiatriska Öppenvårdsmottagning
+2810,Stockholms Spine Center,,10,Privat,,,Specialiserad vård,3,10082,Stockholms Spine Center
+2811,Brommaplan BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10934,Brommaplan BUP-mottagning
+2813,Huddinge Psykiatriska öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10829,Huddinge Psykiatriska öppenvårdsmottagning
+2814,Capio Psykiatri Haninge,,10,Privat,,,Specialiserad vård,3,10817,Capio Psykiatri Haninge
+2815,Kista BUP-mottagning (Aleris),,10,Privat,,,Specialiserad vård,3,10929,Kista BUP-mottagning (Aleris)
+2816,Täby Psykiatriska öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10801,Täby Psykiatriska öppenvårdsmottagning
+2818,Gynekologkliniken Stockholm (S:t Görans sjukhus),,10,Privat,,,Specialiserad vård,3,10052,Gynekologkliniken Stockholm (S:t Görans sjukhus)
+2820,"Habilitering &amp; Hälsa Autismcenter för små barn, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10951,"Habilitering &amp; Hälsa Autismcenter för små barn, Stockholm"
+2822,"Aleris Specialistvård, Nacka",,10,Privat,,,Specialiserad vård,3,10071,"Aleris Specialistvård, Nacka"
+2823,Norrtälje BUP- mottagning,,10,Offentlig,,,Specialiserad vård,3,10916,Norrtälje BUP- mottagning
+2824,Spånga/Tensta Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10809,Spånga/Tensta Psykiatriska Öppenvårdsmottagning
+2825,"Ersta sjukhus, Stockholm",,10,Privat,,,Specialiserad vård,3,10481,"Ersta sjukhus, Stockholm"
+2826,Farsta BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10907,Farsta BUP-mottagning
+2827,Norrtälje Psykiatriska öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10838,Norrtälje Psykiatriska öppenvårdsmottagning
+2830,Kista Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10808,Kista Psykiatriska Öppenvårdsmottagning
+2831,Serafens Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10824,Serafens Psykiatriska Öppenvårdsmottagning
+2833,"Gynspecialisterna, Kista",,10,Privat,,,Specialiserad vård,3,11062,"Gynspecialisterna, Kista"
+2835,Åkersberga Psykiatriska Öppenvårdsmottagning,,10,Offentlig,,,Specialiserad vård,3,10813,Åkersberga Psykiatriska Öppenvårdsmottagning
+2836,"Globen Ögonklinik, Enskede",,10,Privat,,,Specialiserad vård,3,10075,"Globen Ögonklinik, Enskede"
+2839,"Specialistmott för psykiskt sjuka missbrukare, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12823,"Specialistmott för psykiskt sjuka missbrukare, Uppsala"
+2841,Lasarettet i Enköping,,12,Offentlig,,,Specialiserad vård,3,12010,Lasarettet i Enköping
+2842,Skutskär närpsykiatriska mottagning,,12,Privat,,,Specialiserad vård,3,12833,Skutskär närpsykiatriska mottagning
+2843,"Ätstörningsenheten för vuxna, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12827,"Ätstörningsenheten för vuxna, Uppsala"
+2844,Gimo psykiatriska rehabiliteringsteam,,12,Offentlig,,,Specialiserad vård,3,12808,Gimo psykiatriska rehabiliteringsteam
+2845,"BUP- mottagning, Enköping",,12,Offentlig,,,Specialiserad vård,3,12902,"BUP- mottagning, Enköping"
+2846,"Barn- och ungdomspsykiatriska utredningsenheten, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12911,"Barn- och ungdomspsykiatriska utredningsenheten, Uppsala"
+2847,"Neuropsykiatriska mottagningen för barn- och ungdomspsykiatri, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12905,"Neuropsykiatriska mottagningen för barn- och ungdomspsykiatri, Uppsala"
+2848,"Barn- och ungdomspsykiatriska behandlingsenheten, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12901,"Barn- och ungdomspsykiatriska behandlingsenheten, Uppsala"
+2849,Tierps psykiatriska öppenvårdsmottagning,,12,Offentlig,,,Specialiserad vård,3,12816,Tierps psykiatriska öppenvårdsmottagning
+2851,Tärnsjö närpsykiatriska mottagning,,12,Privat,,,Specialiserad vård,3,12834,Tärnsjö närpsykiatriska mottagning
+2852,"Gottsunda psykiatriska rehabiliteringsteam, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12809,"Gottsunda psykiatriska rehabiliteringsteam, Uppsala"
+2853,"Ungdomsmottagning, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12910,"Ungdomsmottagning, Uppsala"
+2854,"Äldrepsykiatriska mottagningen, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12825,"Äldrepsykiatriska mottagningen, Uppsala"
+2855,Heby psykos- och rehabiliteringsteam,,12,Offentlig,,,Specialiserad vård,3,12829,Heby psykos- och rehabiliteringsteam
+2856,"Psykiatrimottagning 2 Kungsgatan, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12806,"Psykiatrimottagning 2 Kungsgatan, Uppsala"
+2857,"Enheten för transkulturell psykiatri, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12819,"Enheten för transkulturell psykiatri, Uppsala"
+2859,"Neuropsykiatriska mottagningen för vuxna, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12811,"Neuropsykiatriska mottagningen för vuxna, Uppsala"
+2860,"Östra Psykos- och Rehabiliteringsteam, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12822,"Östra Psykos- och Rehabiliteringsteam, Uppsala"
+2861,"Norra psykiatriska rehabiliteringsteamet, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12813,"Norra psykiatriska rehabiliteringsteamet, Uppsala"
+2862,"Beroendemedicinska mottagningen, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12801,"Beroendemedicinska mottagningen, Uppsala"
+2863,"Äldrepsykiatrins mobila team, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12824,"Äldrepsykiatrins mobila team, Uppsala"
+2864,Gimo närpsykiatriska mottagning,,12,Privat,,,Specialiserad vård,3,12832,Gimo närpsykiatriska mottagning
+2865,Tierp närpsykiatriska mottagning,,12,Privat,,,Specialiserad vård,3,12831,Tierp närpsykiatriska mottagning
+2866,Enköpings närpsykiatriska mottagning,,12,Privat,,,Specialiserad vård,3,12830,Enköpings närpsykiatriska mottagning
+2867,"Elisabethsjukhuset, Uppsala",,12,Privat,,,Specialiserad vård,3,12051,"Elisabethsjukhuset, Uppsala"
+2868,Enköpings psykiatriska rehabiliteringsteam,,12,Offentlig,,,Specialiserad vård,3,12805,Enköpings psykiatriska rehabiliteringsteam
+2869,"Akademiska sjukhuset, Uppsala (Kortvårdskirurgi)",,12,Offentlig,,,Specialiserad vård,3,12001A,"Akademiska sjukhuset, Uppsala (Kortvårdskirurgi)"
+2870,"Psykiatrimottagning 1 Kungsgatan, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12817,"Psykiatrimottagning 1 Kungsgatan, Uppsala"
+2871,Älvkarleby psykos- och rehabiliteringsteam,,12,Offentlig,,,Specialiserad vård,3,12828,Älvkarleby psykos- och rehabiliteringsteam
+2873,"Psykiatrimottagning för unga vuxna, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12807,"Psykiatrimottagning för unga vuxna, Uppsala"
+2874,"BUP-mottagning, Östhammar",,12,Offentlig,,,Specialiserad vård,3,12916,"BUP-mottagning, Östhammar"
+2875,Bålsta psykiatrimottagning,,12,Offentlig,,,Specialiserad vård,3,12802,Bålsta psykiatrimottagning
+2876,Tierps psykiatriska rehabiliteringsenhet,,12,Offentlig,,,Specialiserad vård,3,12818,Tierps psykiatriska rehabiliteringsenhet
+2877,"Akademiska sjukhuset, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12001,"Akademiska sjukhuset, Uppsala"
+2878,"BUP-mottagning, Tierp/Älvkarleby",,12,Offentlig,,,Specialiserad vård,3,12908,"BUP-mottagning, Tierp/Älvkarleby"
+2879,"Psykosvårdens mottagning för nyinsjuknade, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12826,"Psykosvårdens mottagning för nyinsjuknade, Uppsala"
+2881,"Barn- och ungdomspsykiatriska ätstörningsenheten, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12915,"Barn- och ungdomspsykiatriska ätstörningsenheten, Uppsala"
+2882,"Ekeby psykiatriska rehabiliteringsteam, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12803,"Ekeby psykiatriska rehabiliteringsteam, Uppsala"
+2883,Enköpings psykiatriska öppenvårdsmottagning,,12,Offentlig,,,Specialiserad vård,3,12804,Enköpings psykiatriska öppenvårdsmottagning
+2884,"LARO-mottagningen, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12810,"LARO-mottagningen, Uppsala"
+2885,Barn- och ungdomspsykiatriska mottagningen i Uppsala,,12,Offentlig,,,Specialiserad vård,3,12907,Barn- och ungdomspsykiatriska mottagningen i Uppsala
 2886,Nyköpings lasarett,,13,Offentlig,,,Specialiserad vård,3,13011,Nyköpings lasarett
 2887,"Mälarsjukhuset, Eskilstuna",,13,Offentlig,,,Specialiserad vård,3,13010,"Mälarsjukhuset, Eskilstuna"
+2888,"Habiliteringsverksamheten, Sörmland",,13,Offentlig,,,Specialiserad vård,3,13150,"Habiliteringsverksamheten, Sörmland"
 2889,"Kullbergska sjukhuset, Katrineholm",,13,Offentlig,,,Specialiserad vård,3,13012,"Kullbergska sjukhuset, Katrineholm"
 2890,"Helsa Specialistvård, Linköping",,21,Privat,,,Specialiserad vård,3,21054,"Helsa Specialistvård, Linköping"
-4407,Aleris Ystad Specialistvård Ögon - Vårdval,,41,Privat,,,Specialiserad vård,3,41096,Aleris Ystad Specialistvård Ögon - Vårdval
+2891,"Redakliniken, Linköping",,21,Privat,,,Specialiserad vård,3,21053,"Redakliniken, Linköping"
 2892,Lasarettet i Motala,,21,Offentlig,,,Specialiserad vård,3,21014,Lasarettet i Motala
+2893,"Capio Psykiatri, Norrköping",,21,Privat,,,Specialiserad vård,3,21057,"Capio Psykiatri, Norrköping"
 2894,Vrinnevisjukhuset i Norrköping,,21,Offentlig,,,Specialiserad vård,3,21013,Vrinnevisjukhuset i Norrköping
 2895,Universitetssjukhuset i Linköping,,21,Offentlig,,,Specialiserad vård,3,21001,Universitetssjukhuset i Linköping
-2872,"Akademiska sjukhuset, Uppsala (Neurokirurgidivisionen)",,12,Offentlig,,,Specialiserad vård,3,12001B,"Akademiska sjukhuset, Uppsala (Neurokirurgidivisionen)"
+2896,"BUP-mottagning, Åtvidaberg",,21,Privat,,,Specialiserad vård,3,21055,"BUP-mottagning, Åtvidaberg"
+2897,Sergelkliniken i Linköping,,21,Privat,,,Specialiserad vård,3,21050,Sergelkliniken i Linköping
+2898,"Capio Psykiatri, Linköping",,21,Privat,,,Specialiserad vård,3,21056,"Capio Psykiatri, Linköping"
+2899,"Barn- och ungdomspsykiatrisk mottagning, Mjölby",,21,Offentlig,,,Specialiserad vård,3,21052,"Barn- och ungdomspsykiatrisk mottagning, Mjölby"
+2900,Hälso- och sjukvården i Finspång,,21,Offentlig,,,Specialiserad vård,3,21011,Hälso- och sjukvården i Finspång
 2901,"Länssjukhuset Ryhov, Jönköping",,22,Offentlig,,,Specialiserad vård,3,22010,"Länssjukhuset Ryhov, Jönköping"
+2902,"Barn- och ungdomsmedicinsk mott, Hälsans vårdcentral",,22,Offentlig,,,Specialiserad vård,3,22705,"Barn- och ungdomsmedicinsk mott, Hälsans vårdcentral"
+2903,"Barn- och ungdomsmedicinsk mott, Nässjö primärvård",,22,Offentlig,,,Specialiserad vård,3,22704,"Barn- och ungdomsmedicinsk mott, Nässjö primärvård"
+2904,"Barn- och ungdomsmedicinsk mott, Eksjö vårdcentral",,22,Offentlig,,,Specialiserad vård,3,22703,"Barn- och ungdomsmedicinsk mott, Eksjö vårdcentral"
+2905,"Barn- och ungdomsmedicinsk mott, Tranås vårdcentrum",,22,Privat,,,Specialiserad vård,3,22702,"Barn- och ungdomsmedicinsk mott, Tranås vårdcentrum"
 2906,Värnamo sjukhus,,22,Offentlig,,,Specialiserad vård,3,22012,Värnamo sjukhus
-4444,"Art Clinic, Göteborg",,51,Privat,,,Specialiserad vård,3,50081,"Art Clinic, Göteborg"
-2739,"Audika Kista, Stockholm",,10,Privat,,,Specialiserad vård,3,11061,"Audika Kista, Stockholm"
-4446,Ögonläkarna i Eslöv AB - Vårdval,,41,Privat,,,Specialiserad vård,3,41086,Ögonläkarna i Eslöv AB - Vårdval
+2907,"Barn- och ungdomsmedicinsk mott, Vetlanda vårdcentrum",,22,Offentlig,,,Specialiserad vård,3,22701,"Barn- och ungdomsmedicinsk mott, Vetlanda vårdcentrum"
+2909,"Barn- och ungdomsmedicinsk mott, Gislaveds vårdcentral",,22,Offentlig,,,Specialiserad vård,3,22707,"Barn- och ungdomsmedicinsk mott, Gislaveds vårdcentral"
+2910,"Barn- och ungdomsmedicinsk mott, Huskvarna vårdcentrum",,22,Offentlig,,,Specialiserad vård,3,22706,"Barn- och ungdomsmedicinsk mott, Huskvarna vårdcentrum"
 2911,"Höglandssjukhuset, Eksjö-Nässjö",,22,Offentlig,,,Specialiserad vård,3,22011,"Höglandssjukhuset, Eksjö-Nässjö"
 2912,Ljungby lasarett,,23,Offentlig,,,Specialiserad vård,3,23011,Ljungby lasarett
+2913,"Dr Bihis Hudmottagning, Ljungby",,23,Privat,,,Specialiserad vård,3,23802,"Dr Bihis Hudmottagning, Ljungby"
 2914,Centrallasarettet Växjö,,23,Offentlig,,,Specialiserad vård,3,23010,Centrallasarettet Växjö
-2790,Stockholms ögonklinik (Sophiahemmet),,10,Privat,,,Specialiserad vård,3,11053,Stockholms ögonklinik (Sophiahemmet)
+2915,"Vuxenpsykiatriska kliniken, Växjö/Ljungby",,23,Offentlig,,,Specialiserad vård,3,23804,"Vuxenpsykiatriska kliniken, Växjö/Ljungby"
+2917,"Barn- och ungdomspsykiatrisk mottagning, Växjö/Ljungby",,23,Offentlig,,,Specialiserad vård,3,23901,"Barn- och ungdomspsykiatrisk mottagning, Växjö/Ljungby"
 2918,Oskarshamns sjukhus,,24,Offentlig,,,Specialiserad vård,3,25011,Oskarshamns sjukhus
-3234,"Handikappförvaltningen, Lidköping",,51,Offentlig,,,Specialiserad vård,3,52021H,"Handikappförvaltningen, Lidköping"
+2919,Länssjukhuset i Kalmar (AnorexiBulemiCenter) för Barn och unga,,24,Offentlig,,,Specialiserad vård,3,25010B,Länssjukhuset i Kalmar (AnorexiBulemiCenter) för Barn och unga
 2920,Västerviks sjukhus,,24,Offentlig,,,Specialiserad vård,3,24010,Västerviks sjukhus
+2921,"Allmänpsykiatrisk mottagning, Vimmerby Vårdcentral",,24,Offentlig,,,Specialiserad vård,3,24102,"Allmänpsykiatrisk mottagning, Vimmerby Vårdcentral"
+2922,"Barn- och ungdomspsykiatriska mottagning, Vimmerby",,24,Offentlig,,,Specialiserad vård,3,24101,"Barn- och ungdomspsykiatriska mottagning, Vimmerby"
 2923,Länssjukhuset i Kalmar,,24,Offentlig,,,Specialiserad vård,3,25010,Länssjukhuset i Kalmar
-4461,"Audionommottagning Rådmansgatan, Malmö (Audionova)",,41,Privat,,,Specialiserad vård,3,42016E,"Audionommottagning Rådmansgatan, Malmö (Audionova)"
-4462,"Audionommottagning Norra Stationsgatan, Hässleholm (Audionova)",,41,Privat,,,Specialiserad vård,3,42016D,"Audionommottagning Norra Stationsgatan, Hässleholm (Audionova)"
-4463,"Audionommottagning Gasverksgatan, Helsingborg (Audionova)",,41,Privat,,,Specialiserad vård,3,42016C,"Audionommottagning Gasverksgatan, Helsingborg (Audionova)"
+2924,Länssjukhuset i Kalmar (AnorexiBulemiCenter) för Vuxna,,24,Offentlig,,,Specialiserad vård,3,25010C,Länssjukhuset i Kalmar (AnorexiBulemiCenter) för Vuxna
+2925,Länssjukhuset i Kalmar (AnorexiBulimiCenter),,24,Offentlig,,,Specialiserad vård,3,25010A,Länssjukhuset i Kalmar (AnorexiBulimiCenter)
+2926,Västerviks sjukhus - Vimmerby,,24,Offentlig,,,Specialiserad vård,3,24010A,Västerviks sjukhus - Vimmerby
 2929,Visby lasarett,,26,Offentlig,,,Specialiserad vård,3,26010,Visby lasarett
-4466,"Åderbråckscentrum, Malmö",,41,Privat,,,Specialiserad vård,3,41063,"Åderbråckscentrum, Malmö"
-4467,"Nya Karolinska universitetsjukhuset, Solna",,10,Offentlig,,,Specialiserad vård,3,11003,"Nya Karolinska universitetsjukhuset, Solna"
-4470,"Aveny Ögonklinik, Göteborg",,51,Privat,,,Specialiserad vård,3,SE2321000131-E000000008886,"Aveny Ögonklinik, Göteborg"
-4471,"Capio Medocular, Göteborg",,51,Privat,,,Specialiserad vård,3,52xxx,"Capio Medocular, Göteborg"
-3961,Ögoncentrum i Hudiksvall AB,,61,Privat,,,Specialiserad vård,3,61020,Ögoncentrum i Hudiksvall AB
-3320,Borlänge sjukhus,,57,Offentlig,,,Specialiserad vård,3,57316,Borlänge sjukhus
+2930,Visby lasarett (Diaverum),,26,Privat,,,Specialiserad vård,3,26011,Visby lasarett (Diaverum)
+2932,"Barn- och ungdomsspykiatrisk mottagning, Karlskrona",,27,Offentlig,,,Specialiserad vård,3,27531,"Barn- och ungdomsspykiatrisk mottagning, Karlskrona"
+2933,"Vuxenpsykiatriska kliniken, Olofström",,27,Offentlig,,,Specialiserad vård,3,27550,"Vuxenpsykiatriska kliniken, Olofström"
+2934,"Vuxenpsykiatriska kliniken, Ronneby",,27,Offentlig,,,Specialiserad vård,3,27501,"Vuxenpsykiatriska kliniken, Ronneby"
+2935,"Vuxenpsykiatriska kliniken, Karlshamn",,27,Offentlig,,,Specialiserad vård,3,27504,"Vuxenpsykiatriska kliniken, Karlshamn"
+2937,"Barn- och ungdomspsykiatrisk mottagning, Karlskrona/Ronneby",,27,Offentlig,,,Specialiserad vård,3,27534,"Barn- och ungdomspsykiatrisk mottagning, Karlskrona/Ronneby"
+2938,"Vuxenpsykiatriska kliniken, Karlskrona Väst",,27,Offentlig,,,Specialiserad vård,3,27503,"Vuxenpsykiatriska kliniken, Karlskrona Väst"
+2939,"Barn- och ungdomspsykiatri-Familjeverksamhet, Karlshamn",,27,Offentlig,,,Specialiserad vård,3,27556,"Barn- och ungdomspsykiatri-Familjeverksamhet, Karlshamn"
+2940,"Äldrepsykiatriska kliniken, Karlskrona",,27,Offentlig,,,Specialiserad vård,3,27506,"Äldrepsykiatriska kliniken, Karlskrona"
+2941,"Vuxenpsykiatriska kliniken, Karlskrona Öst",,27,Offentlig,,,Specialiserad vård,3,27502,"Vuxenpsykiatriska kliniken, Karlskrona Öst"
+2942,"Barn- och ungdomspsykiatrisk mottagning, Ronneby",,27,Offentlig,,,Specialiserad vård,3,27532,"Barn- och ungdomspsykiatrisk mottagning, Ronneby"
+2943,"Vuxenpsykiatriska kliniken, Sölvesborg",,27,Offentlig,,,Specialiserad vård,3,27505,"Vuxenpsykiatriska kliniken, Sölvesborg"
 2944,"Blekingesjukhuset, Karlshamn och Karlskrona",,27,Offentlig,,,Specialiserad vård,3,27012,"Blekingesjukhuset, Karlshamn och Karlskrona"
-3136,"Handikappförvaltningen, Skene",,51,Offentlig,,,Specialiserad vård,3,52021B,"Handikappförvaltningen, Skene"
 2946,Lasarettet i Ystad - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41013A,Lasarettet i Ystad - Vårdval
 2947,Lasarettet Trelleborg,,41,Offentlig,,,Specialiserad vård,3,41011,Lasarettet Trelleborg
 2948,Ängelholms sjukhus,,41,Offentlig,,,Specialiserad vård,3,28011,Ängelholms sjukhus
-2950,"Audionommottagning, Malmö (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015G,"Audionommottagning, Malmö (Hörsam)"
-2952,"Audionommottagning, Landskrona (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015Ö,"Audionommottagning, Landskrona (Hörsam)"
+2949,Psykiatri Skåne Ängelholm,,41,Offentlig,,,Specialiserad vård,3,41802D,Psykiatri Skåne Ängelholm
+2951,Capio Sjukhuset Simrishamn,,41,Privat,,,Specialiserad vård,3,28013,Capio Sjukhuset Simrishamn
+2953,Psykiatri Skåne Kristianstad,,41,Offentlig,,,Specialiserad vård,3,41802A,Psykiatri Skåne Kristianstad
 2955,Lasarettet i Landskrona - Lund,,41,Offentlig,,,Specialiserad vård,3,41010A,Lasarettet i Landskrona - Lund
 2956,Skånes universitetssjukhus Lund,,41,Offentlig,,,Specialiserad vård,3,41001,Skånes universitetssjukhus Lund
 2957,Helsingborgs lasarett - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41012A,Helsingborgs lasarett - Vårdval
+2958,Psykiatri i Eslöv,,41,Offentlig,,,Specialiserad vård,3,41801,Psykiatri i Eslöv
 2959,Lasarettet i Landskrona - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41010C,Lasarettet i Landskrona - Vårdval
-2960,"Audionommottagning, Malmö (Audiovox)",,41,Privat,,,Specialiserad vård,3,41051Å,"Audionommottagning, Malmö (Audiovox)"
-2963,Globen Ögonklinik AB - Vårdval,,41,Privat,,,Specialiserad vård,3,41074,Globen Ögonklinik AB - Vårdval
 2964,Helsingborgs lasarett,,41,Offentlig,,,Specialiserad vård,3,41012,Helsingborgs lasarett
-2967,Capio Specialisthuset Eslöv - Vårdval,,41,Privat,,,Specialiserad vård,3,41078,Capio Specialisthuset Eslöv - Vårdval
-2969,"Audionommottagning, Landskrona",,41,Offentlig,,,Specialiserad vård,3,41015E,"Audionommottagning, Landskrona"
-2970,"Audionommottagning, Ängelholm (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015V,"Audionommottagning, Ängelholm (Hörsam)"
+2965,Psykiatri Skåne Landskrona,,41,Offentlig,,,Specialiserad vård,3,41802F,Psykiatri Skåne Landskrona
+2968,"Capio Medocular AB, Malmö",,41,Privat,,,Specialiserad vård,3,41071,"Capio Medocular AB, Malmö"
+2972,"Capio Citykliniken, Landskrona (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41073,"Capio Citykliniken, Landskrona (Specialistmottagning)"
 2973,Sjukhuset Ängelholm - Helsingborg,,41,Offentlig,,,Specialiserad vård,3,28011A,Sjukhuset Ängelholm - Helsingborg
 2974,"Capio Citykliniken, Kristianstad (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41059,"Capio Citykliniken, Kristianstad (Specialistmottagning)"
-2975,Audionommottagning Höganäs  (Audionomerna),,41,Privat,,,Specialiserad vård,3,41016C,Audionommottagning Höganäs  (Audionomerna)
-2976,"Audionommottagning, Båstad (Hörsam)",,41,Privat,,,Specialiserad vård,3,41016D,"Audionommottagning, Båstad (Hörsam)"
-2978,"Audionommottagning, Hässleholm (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015C,"Audionommottagning, Hässleholm (Din Hörsel)"
-2979,Lasarettet Trelleborg - Lund,,41,Offentlig,,,Specialiserad vård,3,41011A,Lasarettet Trelleborg - Lund
-2980,"Axess Medica, Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41075,"Axess Medica, Malmö - Vårdval"
+2977,"Citykliniken, Helsingborg",,41,Privat,,,Specialiserad vård,3,41058,"Citykliniken, Helsingborg"
 2981,Capio Specialisthuset Eslöv,,41,Privat,,,Specialiserad vård,3,41050,Capio Specialisthuset Eslöv
 2982,Lasarettet i Landskrona,,41,Offentlig,,,Specialiserad vård,3,41010,Lasarettet i Landskrona
 2983,"Scandinavian Venous Center, Malmö",,41,Privat,,,Specialiserad vård,3,41072,"Scandinavian Venous Center, Malmö"
-2985,"Audionommottagning, Ystad (Hörselsnäckan)",,41,Privat,,,Specialiserad vård,3,41015Ä,"Audionommottagning, Ystad (Hörselsnäckan)"
-2989,"Audionommottagning, Kristianstad (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015W,"Audionommottagning, Kristianstad (Hörsam)"
+2984,"Capio Citykliniken, Malmö (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41060,"Capio Citykliniken, Malmö (Specialistmottagning)"
+2987,"Laurentiikliniken, Lund",,41,Offentlig,,,Specialiserad vård,3,41070,"Laurentiikliniken, Lund"
 2990,"Läkarhuset Ellenbogen, Malmö",,41,Privat,,,Specialiserad vård,3,41057,"Läkarhuset Ellenbogen, Malmö"
-2992,"Audionommottagning Erikslustvägen, Malmö (Audika)",,41,Privat,,,Specialiserad vård,3,41015Y,"Audionommottagning Erikslustvägen, Malmö (Audika)"
-2993,"Audionommottagning, Helsingborg (Audika)",,41,Privat,,,Specialiserad vård,3,41015X,"Audionommottagning, Helsingborg (Audika)"
+2991,"Capio Citykliniken, Helsingborg (Specialistmottagning)",,41,Privat,,,Specialiserad vård,3,41062,"Capio Citykliniken, Helsingborg (Specialistmottagning)"
 2994,"Aleris Ortopedi, Ängelholm",,41,Privat,,,Specialiserad vård,3,28015,"Aleris Ortopedi, Ängelholm"
 2995,"Capio Citykliniken, Lund Clemenstorget",,41,Privat,,,Specialiserad vård,3,41080,"Capio Citykliniken, Lund Clemenstorget"
-2996,"Audionommottagning, Höllviken (Audika)",,41,Privat,,,Specialiserad vård,3,41015Z,"Audionommottagning, Höllviken (Audika)"
-2808,"Aleris Specialistvård Järva, Stockholm",,10,Privat,,,Specialiserad vård,3,10072,"Aleris Specialistvård Järva, Stockholm"
 2998,Aleris Ängelholm,,41,Privat,,,Specialiserad vård,3,28014,Aleris Ängelholm
-2999,"Audionommottagning, Trelleborg (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015I,"Audionommottagning, Trelleborg (Din Hörsel)"
 3000,Centralsjukhuset Kristianstad,,41,Offentlig,,,Specialiserad vård,3,28010,Centralsjukhuset Kristianstad
-3001,"Audionommottagning, Lund (Region Skåne)",,41,Offentlig,,,Specialiserad vård,3,41015F,"Audionommottagning, Lund (Region Skåne)"
-3002,"Audionommottagning, Trelleborg (Audionova)",,41,Privat,,,Specialiserad vård,3,41015N,"Audionommottagning, Trelleborg (Audionova)"
-3004,"Audionommottagning, Simrishamn (Audionova)",,41,Privat,,,Specialiserad vård,3,41015Q,"Audionommottagning, Simrishamn (Audionova)"
 3005,Sjukhuset i Hässleholm,,41,Offentlig,,,Specialiserad vård,3,28012,Sjukhuset i Hässleholm
-3007,"Audionommottagning, Lund (Audika)",,41,Privat,,,Specialiserad vård,3,42016B,"Audionommottagning, Lund (Audika)"
-3009,Lasarettet i Landskrona - Malmö,,41,Offentlig,,,Specialiserad vård,3,41010B,Lasarettet i Landskrona - Malmö
-3010,"Audionommottagning Nedre Eneborgsvägen, Helsingborg (Audionova)",,41,Privat,,,Specialiserad vård,3,41015T,"Audionommottagning Nedre Eneborgsvägen, Helsingborg (Audionova)"
-3012,"Audionommottagning, Höganäs (Audionova)",,41,Privat,,,Specialiserad vård,3,41016B,"Audionommottagning, Höganäs (Audionova)"
+3006,Psykiatri Skåne Lund,,41,Offentlig,,,Specialiserad vård,3,41802E,Psykiatri Skåne Lund
 3013,Lasarettet Trelleborg - Malmö,,41,Offentlig,,,Specialiserad vård,3,41011B,Lasarettet Trelleborg - Malmö
-3014,Vårda Ögonklinik Malmö - Vårdval,,41,Privat,,,Specialiserad vård,3,41076,Vårda Ögonklinik Malmö - Vårdval
 3015,Skånes universitetssjukhus Malmö,,41,Offentlig,,,Specialiserad vård,3,30001,Skånes universitetssjukhus Malmö
-3018,"Audionommottagning, Kristianstad (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015D,"Audionommottagning, Kristianstad (Din Hörsel)"
-3019,"Audionommottagning, Helsingborg (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015B,"Audionommottagning, Helsingborg (Din Hörsel)"
-3021,"Audionommottagning Vattugatan, Hässleholm (Audionova)",,41,Privat,,,Specialiserad vård,3,41015R,"Audionommottagning Vattugatan, Hässleholm (Audionova)"
-3022,Aleris Ängelholm - Vårdval,,41,Privat,,,Specialiserad vård,3,28014A,Aleris Ängelholm - Vårdval
-3023,"Audionommottagning, Ängelholm (Audiem)",,41,Privat,,,Specialiserad vård,3,41015K,"Audionommottagning, Ängelholm (Audiem)"
+3020,Psykiatri Skåne Ystad,,41,Offentlig,,,Specialiserad vård,3,41802H,Psykiatri Skåne Ystad
 3024,"Axess Medica, Simrishamn",,41,Privat,,,Specialiserad vård,3,41075B,"Axess Medica, Simrishamn"
 3025,Centralsjukhuset Kristianstad - Vårdval,,41,Offentlig,,,Specialiserad vård,3,28010A,Centralsjukhuset Kristianstad - Vårdval
 3027,Lasarettet i Ystad,,41,Offentlig,,,Specialiserad vård,3,41013,Lasarettet i Ystad
-3028,"Audionommottagning, Lund (Hörsam)",,41,Privat,,,Specialiserad vård,3,41016A,"Audionommottagning, Lund (Hörsam)"
-3029,"Audionommottagning, Åhus (Åhus Hörsel &amp;Konsult)",,41,Privat,,,Specialiserad vård,3,41015J,"Audionommottagning, Åhus (Åhus Hörsel &amp;Konsult)"
 3030,"Skånes Universitetssjukhus, Lund och Malmö",,41,Offentlig,,,Specialiserad vård,3,41001A,"Skånes Universitetssjukhus, Lund och Malmö"
+3031,Psykiatri Skåne Trelleborg,,41,Offentlig,,,Specialiserad vård,3,41802J,Psykiatri Skåne Trelleborg
 3032,Skånes universitetssjukhus - Vårdval,,41,Offentlig,,,Specialiserad vård,3,41002,Skånes universitetssjukhus - Vårdval
-3033,"Audionommottagning, Lund (Audionova)",,41,Privat,,,Specialiserad vård,3,41015O,"Audionommottagning, Lund (Audionova)"
 3034,"Capio Medocular AB,  Malmö - Vårdval",,41,Privat,,,Specialiserad vård,3,41071A,"Capio Medocular AB,  Malmö - Vårdval"
-3036,"Audionommottagning, Helsingborg (Hörsam)",,41,Privat,,,Specialiserad vård,3,41015A,"Audionommottagning, Helsingborg (Hörsam)"
-3037,"Audionommottagning, Ystad (Audionova)",,41,Privat,,,Specialiserad vård,3,41015P,"Audionommottagning, Ystad (Audionova)"
-3038,"Audionommottagning, Malmö (Din Hörsel)",,41,Privat,,,Specialiserad vård,3,41015H,"Audionommottagning, Malmö (Din Hörsel)"
-3039,"Audionommottagning Carl Gustafväg, Malmö (Audionova)",,41,Privat,,,Specialiserad vård,3,41015M,"Audionommottagning Carl Gustafväg, Malmö (Audionova)"
-3041,"Audionommottagning, Eslöv (Audionova)",,41,Privat,,,Specialiserad vård,3,41015L,"Audionommottagning, Eslöv (Audionova)"
-3042,"Axess Medica, Helsingborg - Vårdval",,41,Privat,,,Specialiserad vård,3,41075A,"Axess Medica, Helsingborg - Vårdval"
+3035,Psykiatri Skåne Helsingborg,,41,Offentlig,,,Specialiserad vård,3,41802C,Psykiatri Skåne Helsingborg
+3040,Psykiatri Skåne Hässleholm,,41,Offentlig,,,Specialiserad vård,3,41802B,Psykiatri Skåne Hässleholm
 3043,"Österlenkirurgin AB, Simrishamn – Vårdval",,41,Privat,,,Specialiserad vård,3,41077,"Österlenkirurgin AB, Simrishamn – Vårdval"
 3044,"Capio Citykliniken, S:t Laurentiigatan, Lund",,41,Privat,,,Specialiserad vård,3,41051,"Capio Citykliniken, S:t Laurentiigatan, Lund"
-3046,"Audionommottagning, Kristianstad (Audionova)",,41,Privat,,,Specialiserad vård,3,41015S,"Audionommottagning, Kristianstad (Audionova)"
-3047,Ögonspecialistkliniken Lund - Vårdval,,41,Privat,,,Specialiserad vård,3,41079,Ögonspecialistkliniken Lund - Vårdval
-3049,"Audionommottagning, Ängelholm (Audionova)",,41,Privat,,,Specialiserad vård,3,41015U,"Audionommottagning, Ängelholm (Audionova)"
-3239,NU-sjukvården - Dalsland,,51,Offentlig,,,Specialiserad vård,3,52014,NU-sjukvården - Dalsland
-3053,"Ögoncentrum, Varberg",,42,Privat,,,Specialiserad vård,3,42050,"Ögoncentrum, Varberg"
-3054,Länssjukhuset i Halmstad (Ortopedmottagning),,42,Offentlig,,,Specialiserad vård,3,42010A,Länssjukhuset i Halmstad (Ortopedmottagning)
+3045,Psykiatri Skåne Malmö,,41,Offentlig,,,Specialiserad vård,3,41802I,Psykiatri Skåne Malmö
+3048,Psykiatri Skåne Eslöv,,41,Offentlig,,,Specialiserad vård,3,41802G,Psykiatri Skåne Eslöv
+3050,"Ungdomspsykiatrisk mottagning, Falkenberg",,42,Offentlig,,,Specialiserad vård,3,42559,"Ungdomspsykiatrisk mottagning, Falkenberg"
+3051,"Capio Citykliniken, Halmstad",,42,Privat,,,Specialiserad vård,3,42051,"Capio Citykliniken, Halmstad"
+3052,"Vuxenpsykiatrisk öppenvårdsmottning, Halmstad",,42,Offentlig,,,Specialiserad vård,3,42573,"Vuxenpsykiatrisk öppenvårdsmottning, Halmstad"
+3055,"Vuxenpsykiatrisk öppenvårdsmottning, Varberg",,42,Offentlig,,,Specialiserad vård,3,42571,"Vuxenpsykiatrisk öppenvårdsmottning, Varberg"
+3056,"Ungdomspsykiatrisk mottagning, Varberg",,42,Offentlig,,,Specialiserad vård,3,42552,"Ungdomspsykiatrisk mottagning, Varberg"
+3057,"BUP-mottagning, Varberg",,42,Offentlig,,,Specialiserad vård,3,42551,"BUP-mottagning, Varberg"
+3058,"BUP-mottagning, Kungsbacka",,42,Offentlig,,,Specialiserad vård,3,42550,"BUP-mottagning, Kungsbacka"
+3059,"BUP-mottagning, Halmstad",,42,Offentlig,,,Specialiserad vård,3,42554,"BUP-mottagning, Halmstad"
+3060,"Vuxenpsykiatrisk öppenvårdsmottning, Hylte",,42,Offentlig,,,Specialiserad vård,3,42575,"Vuxenpsykiatrisk öppenvårdsmottning, Hylte"
+3061,"Ungdomspsykiatrisk mottagning, Halmstad",,42,Offentlig,,,Specialiserad vård,3,42555,"Ungdomspsykiatrisk mottagning, Halmstad"
 3062,Specialistsjukvården Falkenberg,,42,Offentlig,,,Specialiserad vård,3,42314,Specialistsjukvården Falkenberg
 3064,Hallands sjukhus Varberg,,42,Offentlig,,,Specialiserad vård,3,42011,Hallands sjukhus Varberg
 3065,Hallands sjukhus Halmstad,,42,Offentlig,,,Specialiserad vård,3,42010,Hallands sjukhus Halmstad
+3066,"Vuxenpsykiatrisk öppenvårdsmottning, Laholm",,42,Offentlig,,,Specialiserad vård,3,42574,"Vuxenpsykiatrisk öppenvårdsmottning, Laholm"
+3067,"Ungdomspsykiatrisk mottagning, Kungsbacka",,42,Offentlig,,,Specialiserad vård,3,42558,"Ungdomspsykiatrisk mottagning, Kungsbacka"
+3068,Spenshult,,42,Privat,,,Specialiserad vård,3,42420,Spenshult
 3069,Hallands sjukhus Kungsbacka,,42,Offentlig,,,Specialiserad vård,3,42301,Hallands sjukhus Kungsbacka
+3070,"BUP-mottagning, Falkenberg",,42,Offentlig,,,Specialiserad vård,3,42553,"BUP-mottagning, Falkenberg"
+3071,"Hjärthuset, Varberg",,42,Privat,,,Specialiserad vård,3,42490,"Hjärthuset, Varberg"
+3072,"Vuxenpsykiatrisk öppenvårdsmottning, Kungsbacka",,42,Offentlig,,,Specialiserad vård,3,42570,"Vuxenpsykiatrisk öppenvårdsmottning, Kungsbacka"
+3073,"Vuxenpsykiatrisk öppenvårdsmottning, Falkenberg",,42,Offentlig,,,Specialiserad vård,3,42572,"Vuxenpsykiatrisk öppenvårdsmottning, Falkenberg"
+3074,"Psykiatrisk öppenvård, Borås (Vuxenpsykiatrisk remissmottagning)",,51,Offentlig,,,Specialiserad vård,3,52829,"Psykiatrisk öppenvård, Borås (Vuxenpsykiatrisk remissmottagning)"
+3076,"BUP-mottagning, Ale",,51,Offentlig,,,Specialiserad vård,3,52901,"BUP-mottagning, Ale"
+3077,"Psykiatrisk öppenvård, Borås (ABC-mottagning)",,51,Offentlig,,,Specialiserad vård,3,52822,"Psykiatrisk öppenvård, Borås (ABC-mottagning)"
+3079,"Avesina Neurologi, Göteborg",,51,Privat,,,Specialiserad vård,3,50077,"Avesina Neurologi, Göteborg"
+3080,"BUP-mottagning, Södra Älvsborgs Sjukhus",,51,Offentlig,,,Specialiserad vård,3,52910,"BUP-mottagning, Södra Älvsborgs Sjukhus"
+3081,"Psykiatrisk öppenvård, Trollhättan (Psykosmottagning)",,51,Offentlig,,,Specialiserad vård,3,52803,"Psykiatrisk öppenvård, Trollhättan (Psykosmottagning)"
+3083,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Alingsås",,51,Offentlig,,,Specialiserad vård,3,52701,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Alingsås"
+3084,NU-sjukvården - Lysekil,,51,Offentlig,,,Specialiserad vård,3,51031,NU-sjukvården - Lysekil
+3085,"Psykiatrisk öppenvård, Göteborg/Järntorget (Psykos-teamet)",,51,Offentlig,,,Specialiserad vård,3,50809,"Psykiatrisk öppenvård, Göteborg/Järntorget (Psykos-teamet)"
+3087,"Psykiatrisk öppenvård, Stenungsund/Tjörn",,51,Offentlig,,,Specialiserad vård,3,50820,"Psykiatrisk öppenvård, Stenungsund/Tjörn"
+3088,"Psykiatrisk öppenvård, Uddevalla (Ätstörningsenhet)",,51,Offentlig,,,Specialiserad vård,3,51010D,"Psykiatrisk öppenvård, Uddevalla (Ätstörningsenhet)"
+3089,"Frölunda specialistsjukhus, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50071,"Frölunda specialistsjukhus, Göteborg"
+3091,"BUP-mottagning, Göteborg/Frölunda",,51,Offentlig,,,Specialiserad vård,3,50904,"BUP-mottagning, Göteborg/Frölunda"
+3092,"Psykiatrisk öppenvård, Mölndal/Ågatan",,51,Offentlig,,,Specialiserad vård,3,51807,"Psykiatrisk öppenvård, Mölndal/Ågatan"
+3093,"Psykiatrisk öppenvård, Göteborg/Centrum Öst",,51,Offentlig,,,Specialiserad vård,3,50804,"Psykiatrisk öppenvård, Göteborg/Centrum Öst"
+3094,"BUP-mottagning, Vänersborg",,51,Offentlig,,,Specialiserad vård,3,52902,"BUP-mottagning, Vänersborg"
+3095,"BUP-mottagning, Trollhättan",,51,Offentlig,,,Specialiserad vård,3,52017A,"BUP-mottagning, Trollhättan"
+3096,"BUP-mottagning, Göteborg (Specialmottagning)",,51,Offentlig,,,Specialiserad vård,3,50915,"BUP-mottagning, Göteborg (Specialmottagning)"
+3097,"Psykiatrisk öppenvård, Mark",,51,Offentlig,,,Specialiserad vård,3,52826,"Psykiatrisk öppenvård, Mark"
+3098,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",,51,Offentlig,,,Specialiserad vård,3,53014,"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)"
+3099,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Biskopsgården",,51,Offentlig,,,Specialiserad vård,3,50703,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Biskopsgården"
+3101,Sjukhuset i Mariestad,,51,Offentlig,,,Specialiserad vård,3,53050,Sjukhuset i Mariestad
+3102,Alingsås lasarett,,51,Offentlig,,,Specialiserad vård,3,52012,Alingsås lasarett
+3103,"Psykiatrisk öppenvård, Lerum",,51,Offentlig,,,Specialiserad vård,3,52827,"Psykiatrisk öppenvård, Lerum"
+3105,"BUP-mottagning, Göteborg/Södra Bohuslän",,51,Offentlig,,,Specialiserad vård,3,50914,"BUP-mottagning, Göteborg/Södra Bohuslän"
+3107,"Psykiatrisk öppenvård, Åmål",,51,Offentlig,,,Specialiserad vård,3,52801,"Psykiatrisk öppenvård, Åmål"
+3108,"Psykiatrisk öppenvård, Mariestad",,51,Offentlig,,,Specialiserad vård,3,53805,"Psykiatrisk öppenvård, Mariestad"
+3112,"Psykiatrisk öppenvård, Göteborg/Capio Lundby sjukhus",,51,Privat,,,Specialiserad vård,3,50070A,"Psykiatrisk öppenvård, Göteborg/Capio Lundby sjukhus"
+3113,Göteborg Hand Center,,51,Privat,,,Specialiserad vård,3,50075,Göteborg Hand Center
+3114,"WeMind Psykiatri, Göteborg",,51,Privat,,,Specialiserad vård,3,50078,"WeMind Psykiatri, Göteborg"
+3115,"Psykiatrisk öppenvård, Hjo",,51,Offentlig,,,Specialiserad vård,3,53807,"Psykiatrisk öppenvård, Hjo"
+3116,"Psykiatrisk öppenvård, Göteborg (Psykosvård i Väster)",,51,Offentlig,,,Specialiserad vård,3,50810,"Psykiatrisk öppenvård, Göteborg (Psykosvård i Väster)"
+3117,"BUP-mottagning, Borås/Elinsdal",,51,Offentlig,,,Specialiserad vård,3,52905,"BUP-mottagning, Borås/Elinsdal"
+3120,"Psykiatrisk öppenvård, Kungälv",,51,Offentlig,,,Specialiserad vård,3,52824,"Psykiatrisk öppenvård, Kungälv"
+3121,"Psykiatrisk öppenvård, Borås (Neuropsykiatrisk utredningsenhet)",,51,Offentlig,,,Specialiserad vård,3,52818,"Psykiatrisk öppenvård, Borås (Neuropsykiatrisk utredningsenhet)"
+3122,"Psykiatrisk öppenvård, Göteborg (Enhet för döva och hörselskadade)",,51,Offentlig,,,Specialiserad vård,3,50805,"Psykiatrisk öppenvård, Göteborg (Enhet för döva och hörselskadade)"
+3123,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Gamlestaden",,51,Offentlig,,,Specialiserad vård,3,50705,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Gamlestaden"
+3124,"Psykiatrisk öppenvård, Trollhättan",,51,Offentlig,,,Specialiserad vård,3,52802,"Psykiatrisk öppenvård, Trollhättan"
+3125,"Psykiatrisk öppenvård, Göteborg (NåUT-teamet)",,51,Offentlig,,,Specialiserad vård,3,50807,"Psykiatrisk öppenvård, Göteborg (NåUT-teamet)"
+3127,"Capio Lundby Närsjukhus, Göteborg",,51,Privat,,,Specialiserad vård,3,50070,"Capio Lundby Närsjukhus, Göteborg"
+3128,"Aleris Specialistvård, Göteborg",,51,Privat,,,Specialiserad vård,3,50053,"Aleris Specialistvård, Göteborg"
+3130,"Psykiatrisk öppenvård, Svenljunga-Tranemo/Kind",,51,Offentlig,,,Specialiserad vård,3,52828,"Psykiatrisk öppenvård, Svenljunga-Tranemo/Kind"
+3133,"BUP-mottagning, Stenungsund/Tjörn",,51,Offentlig,,,Specialiserad vård,3,50910,"BUP-mottagning, Stenungsund/Tjörn"
+3134,"Psykiatrisk öppenvård, Mölndal (Enhet för autism och ADHD)",,51,Offentlig,,,Specialiserad vård,3,51011E,"Psykiatrisk öppenvård, Mölndal (Enhet för autism och ADHD)"
+3135,"Psykiatrisk öppenvård, Borås/Solhem (Beroendeenheten)",,51,Offentlig,,,Specialiserad vård,3,52816,"Psykiatrisk öppenvård, Borås/Solhem (Beroendeenheten)"
+3137,Sjukhuset i Falköping,,51,Offentlig,,,Specialiserad vård,3,53010,Sjukhuset i Falköping
+3138,"Gynekologisk mottagning, PV Södra Bohuslän/Mölnlycke",,51,Offentlig,,,Specialiserad vård,3,52711,"Gynekologisk mottagning, PV Södra Bohuslän/Mölnlycke"
+3139,"BUP-mottagning, Bäckefors",,51,Offentlig,,,Specialiserad vård,3,52014A,"BUP-mottagning, Bäckefors"
+3142,"Psykiatrisk öppenvård, Uddevalla (Psykiatriska Ungdomsteamet)",,51,Offentlig,,,Specialiserad vård,3,52903A,"Psykiatrisk öppenvård, Uddevalla (Psykiatriska Ungdomsteamet)"
+3144,"Psykiatrisk öppenvård, Vänersborg",,51,Offentlig,,,Specialiserad vård,3,52804,"Psykiatrisk öppenvård, Vänersborg"
+3145,"Gynekologisk mottagning, PV Södra Älvsborg/Skene",,51,Offentlig,,,Specialiserad vård,3,52706,"Gynekologisk mottagning, PV Södra Älvsborg/Skene"
+3146,"Psykiatrisk öppenvård, Mölndal/Krokslätt",,51,Offentlig,,,Specialiserad vård,3,51808,"Psykiatrisk öppenvård, Mölndal/Krokslätt"
+3147,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",,51,Offentlig,,,Specialiserad vård,3,52015,"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)"
+3148,Sahlgrenska Universitetssjukhuset,,51,Offentlig,,,Specialiserad vård,3,50000,Sahlgrenska Universitetssjukhuset
+3149,Kärnsjukhuset i Skövde,,51,Offentlig,,,Specialiserad vård,3,53014A,Kärnsjukhuset i Skövde
+3150,"Psykiatrisk öppenvård, Göteborg/Västra Frölunda (Team I)",,51,Offentlig,,,Specialiserad vård,3,50801,"Psykiatrisk öppenvård, Göteborg/Västra Frölunda (Team I)"
+3152,"Gynekologisk mottagning, PV Södra Bohuslän/Krokslätt",,51,Offentlig,,,Specialiserad vård,3,52709,"Gynekologisk mottagning, PV Södra Bohuslän/Krokslätt"
+3153,"Psykiatrisk öppenvård, Ulricehamn",,51,Offentlig,,,Specialiserad vård,3,52815,"Psykiatrisk öppenvård, Ulricehamn"
+3155,"Psykiatrisk öppenvård, Södra Älvsborgs Sjukhus",,51,Offentlig,,,Specialiserad vård,3,52830,"Psykiatrisk öppenvård, Södra Älvsborgs Sjukhus"
+3157,"Psykiatrisk öppenvård, Göteborg/Västra Frölunda (Team II)",,51,Offentlig,,,Specialiserad vård,3,50802,"Psykiatrisk öppenvård, Göteborg/Västra Frölunda (Team II)"
+3159,"Psykiatrisk öppenvård, Mölndal (Äldrepsykiatriskmottagning)",,51,Offentlig,,,Specialiserad vård,3,51011B,"Psykiatrisk öppenvård, Mölndal (Äldrepsykiatriskmottagning)"
+3160,"Psykiatrisk öppenvård, Vänersborg (Psykiatriska Ungdomsteamet)",,51,Offentlig,,,Specialiserad vård,3,52903,"Psykiatrisk öppenvård, Vänersborg (Psykiatriska Ungdomsteamet)"
+3161,"Psykiatrisk öppenvård, Öckerö",,51,Offentlig,,,Specialiserad vård,3,51804,"Psykiatrisk öppenvård, Öckerö"
+3164,"Psykiatrisk öppenvård, Uddevalla (Minnesmottagning)",,51,Offentlig,,,Specialiserad vård,3,51010G,"Psykiatrisk öppenvård, Uddevalla (Minnesmottagning)"
+3165,NU-sjukvården - Uddevalla,,51,Offentlig,,,Specialiserad vård,3,51010,NU-sjukvården - Uddevalla
+3166,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Lerum",,51,Offentlig,,,Specialiserad vård,3,52702,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Lerum"
+3167,SU/Kungälv,,51,Offentlig,,,Specialiserad vård,3,50001A,SU/Kungälv
+3168,"Drottning Silvias barn- och ungdomssjukhus, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50090,"Drottning Silvias barn- och ungdomssjukhus, Göteborg"
+3169,"Psykiatrisk öppenvård, Partille",,51,Offentlig,,,Specialiserad vård,3,51805,"Psykiatrisk öppenvård, Partille"
+3170,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Stenungsund",,51,Offentlig,,,Specialiserad vård,3,52714,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Stenungsund"
+3171,"SU/Sahlgrenska sjukhuset, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50001,"SU/Sahlgrenska sjukhuset, Göteborg"
+3173,"Psykiatrisk öppenvård, Alingsås",,51,Offentlig,,,Specialiserad vård,3,52819,"Psykiatrisk öppenvård, Alingsås"
+3174,"Psykiatrisk öppenvård, Mölndal (Minnesmottagning)",,51,Offentlig,,,Specialiserad vård,3,51011D,"Psykiatrisk öppenvård, Mölndal (Minnesmottagning)"
+3175,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Tjörn",,51,Offentlig,,,Specialiserad vård,3,52713,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Tjörn"
+3176,"BUP-mottagning, Alingsås",,51,Offentlig,,,Specialiserad vård,3,52906,"BUP-mottagning, Alingsås"
+3178,"Psykiatrisk öppenvård, PV Södra Älvsborg/Borås (Ätstörningsenhet Vågen)",,51,Offentlig,,,Specialiserad vård,3,52831,"Psykiatrisk öppenvård, PV Södra Älvsborg/Borås (Ätstörningsenhet Vågen)"
+3179,"Barn- och ungdomsmedicinsk mottagning, PV  Kungälv/Tjörn/Stenungssund",,51,Offentlig,,,Specialiserad vård,3,52715A,"Barn- och ungdomsmedicinsk mottagning, PV  Kungälv/Tjörn/Stenungssund"
+3180,"BUP-mottagning, Kungälv",,51,Offentlig,,,Specialiserad vård,3,51903,"BUP-mottagning, Kungälv"
+3182,"Psykiatrisk öppenvård, Kinna (ABC-mottagning)",,51,Offentlig,,,Specialiserad vård,3,52810,"Psykiatrisk öppenvård, Kinna (ABC-mottagning)"
+3183,Kungälvs sjukhus,,51,Offentlig,,,Specialiserad vård,3,51012,Kungälvs sjukhus
+3184,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Öckerö",,51,Offentlig,,,Specialiserad vård,3,52716,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Öckerö"
+3185,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Kungälv",,51,Offentlig,,,Specialiserad vård,3,52715,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Kungälv"
+3186,"BUP-mottagning, Lysekil",,51,Offentlig,,,Specialiserad vård,3,51031A,"BUP-mottagning, Lysekil"
+3187,"SU/Östra sjukhuset, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50010,"SU/Östra sjukhuset, Göteborg"
+3188,"Södra Älvsborgs Sjukhus, Skene/Borås",,51,Offentlig,,,Specialiserad vård,3,52013,"Södra Älvsborgs Sjukhus, Skene/Borås"
+3189,"BUP-mottagning, Strömstad",,51,Offentlig,,,Specialiserad vård,3,51032A,"BUP-mottagning, Strömstad"
+3190,"Psykiatrisk öppenvård, Mölndal (Omsorgspsykiatrimottagning)",,51,Offentlig,,,Specialiserad vård,3,51011C,"Psykiatrisk öppenvård, Mölndal (Omsorgspsykiatrimottagning)"
+3192,Sjukhuset i Lidköping,,51,Offentlig,,,Specialiserad vård,3,53011,Sjukhuset i Lidköping
+3193,"SU/Mölndals sjukhus, Mölndal",,51,Offentlig,,,Specialiserad vård,3,51011,"SU/Mölndals sjukhus, Mölndal"
+3194,"Psykiatrisk öppenvård, Lilla Edet",,51,Offentlig,,,Specialiserad vård,3,52825,"Psykiatrisk öppenvård, Lilla Edet"
+3195,"Angereds Närsjukhus, Göteborg",,51,Offentlig,,,Specialiserad vård,3,50054,"Angereds Närsjukhus, Göteborg"
+3196,"Psykiatrisk öppenvård, Lidköping",,51,Offentlig,,,Specialiserad vård,3,53804,"Psykiatrisk öppenvård, Lidköping"
+3197,"BUP-mottagning, Skövde",,51,Offentlig,,,Specialiserad vård,3,53902,"BUP-mottagning, Skövde"
+3198,"Gynekologisk mottagning, PV Södra Bohuslän/Partille",,51,Offentlig,,,Specialiserad vård,3,52712,"Gynekologisk mottagning, PV Södra Bohuslän/Partille"
+3200,"Angereds Närsjukhus, Gamlestaden",,51,Offentlig,,,Specialiserad vård,3,50052,"Angereds Närsjukhus, Gamlestaden"
+3201,"Psykiatrisk öppenvård, Göteborg (Psykosvård Öster)",,51,Offentlig,,,Specialiserad vård,3,50812,"Psykiatrisk öppenvård, Göteborg (Psykosvård Öster)"
+3202,NU-sjukvården - NÄL,,51,Offentlig,,,Specialiserad vård,3,52017,NU-sjukvården - NÄL
+3205,"Psykiatrisk öppenvård, Göteborg/Gamlestaden",,51,Offentlig,,,Specialiserad vård,3,50824,"Psykiatrisk öppenvård, Göteborg/Gamlestaden"
+3207,"Psykiatrisk öppenvård, Henån",,51,Offentlig,,,Specialiserad vård,3,51802,"Psykiatrisk öppenvård, Henån"
+3208,NU-sjukvården - Strömstad,,51,Offentlig,,,Specialiserad vård,3,51032,NU-sjukvården - Strömstad
+3209,"Psykiatrisk öppenvård, Bäckefors",,51,Offentlig,,,Specialiserad vård,3,52014B,"Psykiatrisk öppenvård, Bäckefors"
+3210,"BUP-mottagning, Göteborg/Hisingen",,51,Offentlig,,,Specialiserad vård,3,50913,"BUP-mottagning, Göteborg/Hisingen"
+3211,"Psykiatrisk öppenvård, Mölnlycke",,51,Offentlig,,,Specialiserad vård,3,51806,"Psykiatrisk öppenvård, Mölnlycke"
+3212,Centrum för Obesitas/Skaraborg,,51,Offentlig,,,Specialiserad vård,3,53054,Centrum för Obesitas/Skaraborg
+3213,"Psykiatrisk öppenvård, Borås/Katrinedal (Psykoterapimottagning)",,51,Offentlig,,,Specialiserad vård,3,52817,"Psykiatrisk öppenvård, Borås/Katrinedal (Psykoterapimottagning)"
+3215,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Mölnlycke",,51,Offentlig,,,Specialiserad vård,3,52719,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Mölnlycke"
+3217,"BUP-mottagning, Göteborg/Kungshöjd",,51,Offentlig,,,Specialiserad vård,3,50912,"BUP-mottagning, Göteborg/Kungshöjd"
+3218,"Psykiatrisk öppenvård, Uddevalla (Neuropsykiatrimottagning)",,51,Offentlig,,,Specialiserad vård,3,51010B,"Psykiatrisk öppenvård, Uddevalla (Neuropsykiatrimottagning)"
+3219,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Partille",,51,Offentlig,,,Specialiserad vård,3,52718,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Partille"
+3220,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Skene",,51,Offentlig,,,Specialiserad vård,3,52703,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Skene"
+3221,"Barn- och ungdomsmedicinsk mottagning Viskan, PV Södra Älvsborg/Borås",,51,Offentlig,,,Specialiserad vård,3,52704,"Barn- och ungdomsmedicinsk mottagning Viskan, PV Södra Älvsborg/Borås"
+3223,"BUP-mottagning, Uddevalla",,51,Offentlig,,,Specialiserad vård,3,51010E,"BUP-mottagning, Uddevalla"
+3226,Scanloc Healthcare AB/Scanloc Ögon,,51,Privat,,,Specialiserad vård,3,50076,Scanloc Healthcare AB/Scanloc Ögon
+3227,"Psykiatrisk öppenvård, Ale",,51,Offentlig,,,Specialiserad vård,3,52805,"Psykiatrisk öppenvård, Ale"
+3228,"Barn- och ungdomsmedicinsk mottagning, Primärvården Göteborg / Backa",,51,Offentlig,,,Specialiserad vård,3,50701,"Barn- och ungdomsmedicinsk mottagning, Primärvården Göteborg / Backa"
+3229,"BUP-mottagning, Skene",,51,Offentlig,,,Specialiserad vård,3,52907,"BUP-mottagning, Skene"
+3230,"Psykiatrisk öppenvård, Munkedal-Sotenäs/Capio psykiatri",,51,Privat,,,Specialiserad vård,3,51809,"Psykiatrisk öppenvård, Munkedal-Sotenäs/Capio psykiatri"
+3231,"Psykiatrisk öppenvård, Göteborg/Hisingen",,51,Offentlig,,,Specialiserad vård,3,50823,"Psykiatrisk öppenvård, Göteborg/Hisingen"
+3233,"Psykiatrisk öppenvård, Vårgårda",,51,Offentlig,,,Specialiserad vård,3,52820,"Psykiatrisk öppenvård, Vårgårda"
+3235,Centrum för Obesitas/Göteborg,,51,Offentlig,,,Specialiserad vård,3,50091,Centrum för Obesitas/Göteborg
+3237,"Psykiatrisk öppenvård, Skövde/Långgatan",,51,Offentlig,,,Specialiserad vård,3,53802,"Psykiatrisk öppenvård, Skövde/Långgatan"
+3238,"BUP-mottagning, Göteborg/Gamlestaden",,51,Offentlig,,,Specialiserad vård,3,50903,"BUP-mottagning, Göteborg/Gamlestaden"
+3240,"Psykiatrisk öppenvård, Strömstad",,51,Offentlig,,,Specialiserad vård,3,51032B,"Psykiatrisk öppenvård, Strömstad"
+3242,"Psykiatrisk öppenvård, Lysekil/Capio psykiatri",,51,Privat,,,Specialiserad vård,3,51031B,"Psykiatrisk öppenvård, Lysekil/Capio psykiatri"
+3243,"Psykiatrisk öppenvård, Göteborg/Hisingen (Psykos-mottagning)",,51,Offentlig,,,Specialiserad vård,3,50819,"Psykiatrisk öppenvård, Göteborg/Hisingen (Psykos-mottagning)"
+3244,"Gynekologisk mottagning, PV Södra Bohuslän/Kungälv",,51,Offentlig,,,Specialiserad vård,3,52710,"Gynekologisk mottagning, PV Södra Bohuslän/Kungälv"
+3246,"Psykiatrisk öppenvård, Göteborg/Centrum Väst",,51,Offentlig,,,Specialiserad vård,3,50803,"Psykiatrisk öppenvård, Göteborg/Centrum Väst"
+3247,"Psykiatrisk öppenvård, Uddevalla (Psykosmottagning)",,51,Offentlig,,,Specialiserad vård,3,51010C,"Psykiatrisk öppenvård, Uddevalla (Psykosmottagning)"
+3248,"BUP-mottagning, Uddevalla (Ätstörningsenheten)",,51,Offentlig,,,Specialiserad vård,3,52922,"BUP-mottagning, Uddevalla (Ätstörningsenheten)"
+3249,"BUP-mottagning, Lerum",,51,Offentlig,,,Specialiserad vård,3,52908,"BUP-mottagning, Lerum"
+3252,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Frölunda",,51,Offentlig,,,Specialiserad vård,3,50704,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Frölunda"
+3254,"BUP-mottagning, Göteborg (Anorexi/Bulimi)",,51,Offentlig,,,Specialiserad vård,3,50090A,"BUP-mottagning, Göteborg (Anorexi/Bulimi)"
+3256,"Psykiatrisk öppenvård, Göteborg (Psykosvård Nordost)",,51,Offentlig,,,Specialiserad vård,3,50811,"Psykiatrisk öppenvård, Göteborg (Psykosvård Nordost)"
+3257,"Psykiatrisk öppenvård, Uddevalla (Psykiatrimottagning)",,51,Offentlig,,,Specialiserad vård,3,51010F,"Psykiatrisk öppenvård, Uddevalla (Psykiatrimottagning)"
+3258,"Gynekologisk mottagning, PV Södra Älvsborg/Ulricehamn",,51,Offentlig,,,Specialiserad vård,3,52708,"Gynekologisk mottagning, PV Södra Älvsborg/Ulricehamn"
+3259,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Mölndal",,51,Offentlig,,,Specialiserad vård,3,52720,"Barn- och ungdomsmedicinsk mottagning, PV Södra Bohuslän/Mölndal"
+3261,"BUP-mottagning, Borås/Solhem",,51,Offentlig,,,Specialiserad vård,3,52904,"BUP-mottagning, Borås/Solhem"
+3263,"Södra Älvsborgs Sjukhus, Borås/Skene",,51,Offentlig,,,Specialiserad vård,3,52011,"Södra Älvsborgs Sjukhus, Borås/Skene"
+3264,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Ulricehamn",,51,Offentlig,,,Specialiserad vård,3,52705,"Barn- och ungdomsmedicinsk mottagning, PV Södra Älvsborg/Ulricehamn"
+3265,"Psykiatrisk öppenvård, Falköping/S:t Olof",,51,Offentlig,,,Specialiserad vård,3,53801,"Psykiatrisk öppenvård, Falköping/S:t Olof"
+3268,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Kungshöjd",,51,Offentlig,,,Specialiserad vård,3,50702,"Barn- och ungdomsmedicinskmottagning, Primärvården Göteborg/Kungshöjd"
+3269,"Psykiatrisk öppenvård, Borås/Katrinedal",,51,Offentlig,,,Specialiserad vård,3,52814,"Psykiatrisk öppenvård, Borås/Katrinedal"
+3271,"Centralsjukhuset, Karlstad, Hagahuset",,54,Offentlig,,,Specialiserad vård,3,54050,"Centralsjukhuset, Karlstad, Hagahuset"
+3272,Sjukhuset i Torsby,,54,Offentlig,,,Specialiserad vård,3,54014,Sjukhuset i Torsby
+3274,"Centralsjukhuset, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54010,"Centralsjukhuset, Karlstad"
+3275,"Center för traumatisk stress, vuxna, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54112,"Center för traumatisk stress, vuxna, Karlstad"
+3276,Specialistmottagning Säffle,,54,Offentlig,,,Specialiserad vård,3,54013,Specialistmottagning Säffle
+3277,"Centrum för ätstörning, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54113,"Centrum för ätstörning, Karlstad"
+3278,"Specialistmottagning, Gripen vårdcentral",,54,Offentlig,,,Specialiserad vård,3,54108,"Specialistmottagning, Gripen vårdcentral"
+3279,"Specialistmottagning, Kronoparkens vårdcentral",,54,Offentlig,,,Specialiserad vård,3,54110,"Specialistmottagning, Kronoparkens vårdcentral"
+3281,"Center för traumatisk stress, barn och unga, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54111,"Center för traumatisk stress, barn och unga, Karlstad"
+3282,Specialistmottagning Kristinehamn,,54,Offentlig,,,Specialiserad vård,3,54011,Specialistmottagning Kristinehamn
+3283,"Länsverksamheten BUP, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54109,"Länsverksamheten BUP, Karlstad"
+3284,"Centrum för traumatisk stress, Karlstad",,54,Offentlig,,,Specialiserad vård,3,54114,"Centrum för traumatisk stress, Karlstad"
+3285,"Specialistmottagning, Hagfors vårdcentral",,54,Offentlig,,,Specialiserad vård,3,54106,"Specialistmottagning, Hagfors vårdcentral"
+3286,Sjukhuset i Arvika,,54,Offentlig,,,Specialiserad vård,3,54012,Sjukhuset i Arvika
+3288,"Capio Läkargruppen, Örebro",,55,Privat,,,Specialiserad vård,3,55050,"Capio Läkargruppen, Örebro"
+3289,Karlskoga lasarett,,55,Offentlig,,,Specialiserad vård,3,55011,Karlskoga lasarett
+3290,Universitetssjukhuset i Örebro,,55,Offentlig,,,Specialiserad vård,3,55010,Universitetssjukhuset i Örebro
+3291,HudDoktorn i Örebro,,55,Privat,,,Specialiserad vård,3,55051,HudDoktorn i Örebro
+3292,Psykiatriförvaltningen Örebro läns landsting,,55,Offentlig,,,Specialiserad vård,3,55013,Psykiatriförvaltningen Örebro läns landsting
+3293,Lindesbergs lasarett,,55,Offentlig,,,Specialiserad vård,3,55012,Lindesbergs lasarett
+3294,"Barn och ungdomshälsan, Västerås",,56,Offentlig,,,Specialiserad vård,3,560104,"Barn och ungdomshälsan, Västerås"
+3296,Västmanlands sjukhus Köping,,56,Offentlig,,,Specialiserad vård,3,56012,Västmanlands sjukhus Köping
+3297,"Allmänpsykiatriska mottagningen, Västerås",,56,Offentlig,,,Specialiserad vård,3,560109,"Allmänpsykiatriska mottagningen, Västerås"
+3298,"BUP-mottagning, Västerås",,56,Offentlig,,,Specialiserad vård,3,560101,"BUP-mottagning, Västerås"
+3299,"Ätstörningsenheten för barn och unga, Västerås",,56,Offentlig,,,Specialiserad vård,3,560106,"Ätstörningsenheten för barn och unga, Västerås"
+3300,"Allmänpsykiatriska mottagningen (Ångestsjukdomar), Västerås",,56,Offentlig,,,Specialiserad vård,3,5601010,"Allmänpsykiatriska mottagningen (Ångestsjukdomar), Västerås"
+3301,"BUP-mottagning, Sala",,56,Offentlig,,,Specialiserad vård,3,560111,"BUP-mottagning, Sala"
+3302,"Psykosmottagning Väster, Västerås",,56,Offentlig,,,Specialiserad vård,3,5601011,"Psykosmottagning Väster, Västerås"
+3304,Västmanlands sjukhus Västerås,,56,Offentlig,,,Specialiserad vård,3,56010,Västmanlands sjukhus Västerås
+3305,"Vuxenpsykiatriskmottagning, Fagersta",,56,Offentlig,,,Specialiserad vård,3,560134,"Vuxenpsykiatriskmottagning, Fagersta"
+3306,"BUP-mottagning, Köping",,56,Offentlig,,,Specialiserad vård,3,560121,"BUP-mottagning, Köping"
+3308,"Vuxenpsykiatriskmottagning, Köping",,56,Offentlig,,,Specialiserad vård,3,560124,"Vuxenpsykiatriskmottagning, Köping"
+3309,Mitt Hjärta Bergslagssjukhuset,,56,Offentlig,,,Specialiserad vård,3,56013,Mitt Hjärta Bergslagssjukhuset
+3310,"BUP-mottagning, Västerås/Väster",,56,Offentlig,,,Specialiserad vård,3,56106,"BUP-mottagning, Västerås/Väster"
+3311,"BUP-mottagning, Fagersta",,56,Offentlig,,,Specialiserad vård,3,560131,"BUP-mottagning, Fagersta"
+3312,"Vuxenpsykiatriskmottagning, Sala",,56,Offentlig,,,Specialiserad vård,3,560114,"Vuxenpsykiatriskmottagning, Sala"
+3313,"Psykosmottagning Öster, Västerås",,56,Offentlig,,,Specialiserad vård,3,5601012,"Psykosmottagning Öster, Västerås"
+3314,"BUP-mottagning, Västerås/Öster",,56,Offentlig,,,Specialiserad vård,3,56105,"BUP-mottagning, Västerås/Öster"
+3315,Västmanlands sjukhus Sala,,56,Offentlig,,,Specialiserad vård,3,56011,Västmanlands sjukhus Sala
+3316,Borlänge sjukhus - Säter,,57,Offentlig,,,Specialiserad vård,3,57316C,Borlänge sjukhus - Säter
+3317,"Barn- och ungdomshabiliteringen, Falun",,57,Offentlig,,,Specialiserad vård,3,57014,"Barn- och ungdomshabiliteringen, Falun"
+3318,Falu lasarett,,57,Offentlig,,,Specialiserad vård,3,57010,Falu lasarett
+3319,Avesta lasarett,,57,Offentlig,,,Specialiserad vård,3,57013,Avesta lasarett
+3320,Borlänge sjukhus,,57,Offentlig,,,Specialiserad vård,3,57316,Borlänge sjukhus
+3321,Avesta lasarett - Hedemora,,57,Offentlig,,,Specialiserad vård,3,57013A,Avesta lasarett - Hedemora
+3322,Mora lasarett - Rättvik,,57,Offentlig,,,Specialiserad vård,3,57011D,Mora lasarett - Rättvik
+3323,"Barn- och ungdomshabiliteringen, Hedemora",,57,Offentlig,,,Specialiserad vård,3,57018,"Barn- och ungdomshabiliteringen, Hedemora"
+3324,"Barn- och ungdomshabiliteringen, Mora",,57,Offentlig,,,Specialiserad vård,3,57015,"Barn- och ungdomshabiliteringen, Mora"
+3325,"Barn- och ungdomshabiliteringen, Borlänge",,57,Offentlig,,,Specialiserad vård,3,57017,"Barn- och ungdomshabiliteringen, Borlänge"
+3326,Mora lasarett - Mora,,57,Offentlig,,,Specialiserad vård,3,57011B,Mora lasarett - Mora
+3327,"NeuroPsykiatrisk Utredningsenhet, Falun",,57,Offentlig,,,Specialiserad vård,3,57020,"NeuroPsykiatrisk Utredningsenhet, Falun"
+3328,Mora lasarett,,57,Offentlig,,,Specialiserad vård,3,57011,Mora lasarett
+3329,Ludvika lasarett,,57,Offentlig,,,Specialiserad vård,3,57012,Ludvika lasarett
+3330,Ludvika lasarett - Smedjebacken,,57,Offentlig,,,Specialiserad vård,3,57012A,Ludvika lasarett - Smedjebacken
+3331,Borlänge sjukhus - Gagnef,,57,Offentlig,,,Specialiserad vård,3,57316B,Borlänge sjukhus - Gagnef
+3332,Mora lasarett - Vansbro,,57,Offentlig,,,Specialiserad vård,3,57011E,Mora lasarett - Vansbro
+3333,Mora lasarett - Leksand,,57,Offentlig,,,Specialiserad vård,3,57011A,Mora lasarett - Leksand
+3334,Borlänge sjukhus (Samtalsbyrå),,57,Offentlig,,,Specialiserad vård,3,57316A,Borlänge sjukhus (Samtalsbyrå)
+3335,"Barn- och ungdomshabiliteringen, Ludvika",,57,Offentlig,,,Specialiserad vård,3,57016,"Barn- och ungdomshabiliteringen, Ludvika"
+3336,"Skönvik, Säter",,57,Offentlig,,,Specialiserad vård,3,57019,"Skönvik, Säter"
+3337,Mora lasarett - Malung,,57,Offentlig,,,Specialiserad vård,3,57011C,Mora lasarett - Malung
+3338,"Citykirurgen, Gävle",,61,Privat,,,Specialiserad vård,3,61051,"Citykirurgen, Gävle"
+3339,Gävle sjukhus,,61,Offentlig,,,Specialiserad vård,3,61010,Gävle sjukhus
+3340,"Ätstörningsenheten Kristallen, Gävle",,61,Offentlig,,,Specialiserad vård,3,61916,"Ätstörningsenheten Kristallen, Gävle"
+3341,"Länsenheten för ätstörningar, Gävle",,61,Offentlig,,,Specialiserad vård,3,61920,"Länsenheten för ätstörningar, Gävle"
+3342,"Barn- och ungdomshabiliteringen, Hälsingland",,61,Offentlig,,,Specialiserad vård,3,61921,"Barn- och ungdomshabiliteringen, Hälsingland"
+3343,"Ögonmottagning Oli Runesvärd, Närsjukhuset i Söderhamn",,61,Privat,,,Specialiserad vård,3,61016,"Ögonmottagning Oli Runesvärd, Närsjukhuset i Söderhamn"
+3344,"Westerström Läkarpraktik, Söderhamn",,61,Privat,,,Specialiserad vård,3,61019,"Westerström Läkarpraktik, Söderhamn"
+3345,"Core Care, Söderhamn",,61,Privat,,,Specialiserad vård,3,61018,"Core Care, Söderhamn"
+3346,Psykiatri &amp; Habilitering - Gävle,,61,Offentlig,,,Specialiserad vård,3,61910,Psykiatri &amp; Habilitering - Gävle
+3347,Psykiatri &amp; Habilitering - Bollnäs,,61,Offentlig,,,Specialiserad vård,3,61911,Psykiatri &amp; Habilitering - Bollnäs
+3348,Psykiatri &amp; Habilitering - Hudiksvall,,61,Offentlig,,,Specialiserad vård,3,61912,Psykiatri &amp; Habilitering - Hudiksvall
+3349,Söderhamns sjukhus,,61,Offentlig,,,Specialiserad vård,3,61014,Söderhamns sjukhus
+3350,Psykiatri &amp; Habilitering - Sandviken,,61,Offentlig,,,Specialiserad vård,3,61913,Psykiatri &amp; Habilitering - Sandviken
+3351,Psykiatri &amp; Habilitering - Söderhamn,,61,Offentlig,,,Specialiserad vård,3,61914,Psykiatri &amp; Habilitering - Söderhamn
+3352,"Barn- och ungdomshabiliteringen, Gästrikland",,61,Offentlig,,,Specialiserad vård,3,61922,"Barn- och ungdomshabiliteringen, Gästrikland"
+3353,"Öron-näs och halsmottagning Stefan Sterner, Läkarhuset Gävle",,61,Privat,,,Specialiserad vård,3,61017,"Öron-näs och halsmottagning Stefan Sterner, Läkarhuset Gävle"
+3354,Sandvikens sjukhus,,61,Offentlig,,,Specialiserad vård,3,61013,Sandvikens sjukhus
+3355,Psykiatri &amp; Habilitering - Ljusdal,,61,Offentlig,,,Specialiserad vård,3,61915,Psykiatri &amp; Habilitering - Ljusdal
+3356,Hudiksvalls sjukhus,,61,Offentlig,,,Specialiserad vård,3,61012,Hudiksvalls sjukhus
+3357,Ljusdals sjukhus,,61,Offentlig,,,Specialiserad vård,3,61050,Ljusdals sjukhus
+3358,Bollnäs sjukhus,,61,Offentlig,,,Specialiserad vård,3,61011,Bollnäs sjukhus
+3359,Länssjukhuset Sundsvall-Härnösand (Unga vuxna-mottagning),,62,Offentlig,,,Specialiserad vård,3,62010C,Länssjukhuset Sundsvall-Härnösand (Unga vuxna-mottagning)
+3360,Sollefteå sjukhus,,62,Offentlig,,,Specialiserad vård,3,62013,Sollefteå sjukhus
+3361,Sollefteå sjukhus - Kramfors,,62,Offentlig,,,Specialiserad vård,3,62013A,Sollefteå sjukhus - Kramfors
+3362,Länssjukhuset Sundsvall-Härnösand,,62,Offentlig,,,Specialiserad vård,3,62010,Länssjukhuset Sundsvall-Härnösand
+3363,Örnsköldsviks sjukhus,,62,Offentlig,,,Specialiserad vård,3,62011,Örnsköldsviks sjukhus
+3364,Länssjukhuset Härnösand-Sundsvall,,62,Offentlig,,,Specialiserad vård,3,62012,Länssjukhuset Härnösand-Sundsvall
+3365,Länssjukhuset Sundsvall-Härnösand (Affektiv enhet),,62,Offentlig,,,Specialiserad vård,3,62010A,Länssjukhuset Sundsvall-Härnösand (Affektiv enhet)
+3366,"Habiliteringskliniken, Länssjukhuset Sundsvall- Härnösand",,62,Offentlig,,,Specialiserad vård,3,62010D,"Habiliteringskliniken, Länssjukhuset Sundsvall- Härnösand"
+3367,Länssjukhuset Sundsvall-Härnösand (Bedömningsenhet),,62,Offentlig,,,Specialiserad vård,3,62010B,Länssjukhuset Sundsvall-Härnösand (Bedömningsenhet)
+3369,"Barn- och ungdomshabiliteringen, Östersunds sjukhus",,63,Offentlig,,,Specialiserad vård,3,63901,"Barn- och ungdomshabiliteringen, Östersunds sjukhus"
+3370,Östersunds sjukhus,,63,Offentlig,,,Specialiserad vård,3,63010,Östersunds sjukhus
+3371,"Allmänpsykiatrisk mottagning, Vilhelmina",,64,Offentlig,,,Specialiserad vård,3,64802,"Allmänpsykiatrisk mottagning, Vilhelmina"
+3372,"Norrlands Universitetssjukhus, Umeå",,64,Offentlig,,,Specialiserad vård,3,64001,"Norrlands Universitetssjukhus, Umeå"
+3373,Lycksele lasarett,,64,Offentlig,,,Specialiserad vård,3,64011,Lycksele lasarett
+3376,"Allmänpsykiatrisk mottagning, Storuman",,64,Offentlig,,,Specialiserad vård,3,64801,"Allmänpsykiatrisk mottagning, Storuman"
+3377,Skellefteå lasarett,,64,Offentlig,,,Specialiserad vård,3,64010,Skellefteå lasarett
+3378,Sunderby sjukhus (Akutvårdsenhet),,65,Offentlig,,,Specialiserad vård,3,65016A,Sunderby sjukhus (Akutvårdsenhet)
+3379,Piteå sjukhus,,65,Offentlig,,,Specialiserad vård,3,65013,Piteå sjukhus
+3380,Gällivare sjukhus,,65,Offentlig,,,Specialiserad vård,3,65012,Gällivare sjukhus
+3381,Kiruna sjukhus,,65,Offentlig,,,Specialiserad vård,3,65015,Kiruna sjukhus
+3382,Sunderby sjukhus,,65,Offentlig,,,Specialiserad vård,3,65016,Sunderby sjukhus
+3383,Kalix sjukhus,,65,Offentlig,,,Specialiserad vård,3,65014,Kalix sjukhus
+3945,"Affektiva mottagningen för vuxna, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12835,"Affektiva mottagningen för vuxna, Uppsala"
+3946,"Psykosmottagningen för vuxna, Uppsala",,12,Offentlig,,,Specialiserad vård,3,12836,"Psykosmottagningen för vuxna, Uppsala"
+3948,"Närhälsan Mölndal, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52722,"Närhälsan Mölndal, BuM-mottagning"
+3949,"Närhälsan Backa, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52717,"Närhälsan Backa, BuM-mottagning"
+3950,"Närhälsan Mark/Skene, Gynekologiskmottagning",,51,Offentlig,,,Specialiserad vård,3,52734,"Närhälsan Mark/Skene, Gynekologiskmottagning"
+3951,"Närhälsan Biskopsgården, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52726,"Närhälsan Biskopsgården, BuM-mottagning"
+3952,"Närhälsan Kungshöjd, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52728,"Närhälsan Kungshöjd, BuM-mottagning"
+3953,"Närhälsan Frölunda, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52727,"Närhälsan Frölunda, BuM-mottagning"
+3954,"Närhälsan Kungälv/Stenungsund/Tjörn, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52721,"Närhälsan Kungälv/Stenungsund/Tjörn, BuM-mottagning"
+3955,"Närhälsan Mölnlycke, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52723,"Närhälsan Mölnlycke, BuM-mottagning"
+3956,"Närhälsan Borås, Ätstörningsmottagning",,51,Offentlig,,,Specialiserad vård,3,52832,"Närhälsan Borås, Ätstörningsmottagning"
+3957,"Närhälsan Partille, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52725,"Närhälsan Partille, BuM-mottagning"
+3958,"Närhälsan Ulricehamn, Gynekologiskmottagning",,51,Offentlig,,,Specialiserad vård,3,52733,"Närhälsan Ulricehamn, Gynekologiskmottagning"
+3959,"Närhälsan Öckerö, BuM-mottagning",,51,Offentlig,,,Specialiserad vård,3,52724,"Närhälsan Öckerö, BuM-mottagning"
+3960,"Närhälsan Mölndal, Gynekologiskmottagning",,51,Offentlig,,,Specialiserad vård,3,52729,"Närhälsan Mölndal, Gynekologiskmottagning"
+1920,Liljeholmens vårdcentral,,10,Offentlig,,,Primärvård,2,,Liljeholmens vårdcentral
