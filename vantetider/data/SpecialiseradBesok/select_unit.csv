@@ -100,6 +100,9 @@ id,label,number_of_doctors,landsting_id,ownership,phonesystem,booking_type,unit_
 4465,"Privatläkarna Hudmottagning, Helsingborg - Vårdval",,41,Privat,,,Specialiserad vård,3,41064,"Privatläkarna Hudmottagning, Helsingborg - Vårdval"
 4467,"Nya Karolinska universitetsjukhuset, Solna",,10,Offentlig,,,Specialiserad vård,3,11003,"Nya Karolinska universitetsjukhuset, Solna"
 4469,"Angereds Närsjukhus, Gamlestaden",,51,Offentlig,,,Specialiserad vård,3,50054A,"Angereds Närsjukhus, Gamlestaden"
+4478,"Psykiatrisk öppenvård, Sotenäs",,51,Offentlig,,,Specialiserad vård,3,52834,"Psykiatrisk öppenvård, Sotenäs"
+4479,"Psykiatrisk öppenvård, Lysekil",,51,Offentlig,,,Specialiserad vård,3,52835,"Psykiatrisk öppenvård, Lysekil"
+4480,"Psykiatrisk öppenvård, Munkedal",,51,Offentlig,,,Specialiserad vård,3,52833,"Psykiatrisk öppenvård, Munkedal"
 2681,"Ersta Närsjukvård, Specialistmottagning, Stockholm",,10,Offentlig,,,Specialiserad vård,3,10306,"Ersta Närsjukvård, Specialistmottagning, Stockholm"
 2682,Jakobsberg BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10908,Jakobsberg BUP-mottagning
 2683,Handen BUP-mottagning,,10,Offentlig,,,Specialiserad vård,3,10936,Handen BUP-mottagning
