@@ -276,10 +276,7 @@ class Dataset(Dataset, Common):
                 region = dim_region.get(region_or_unit_id)
                 row["select_region"] = region.id
             except KeyError:
-                try:
-                    unit = self.get("select_unit").get(region_or_unit_id)
-                except:
-                    import pdb;pdb.set_trace()
+                unit = self.get("select_unit").get(region_or_unit_id)
                 row["select_unit"] = unit.id
                 try:
                     row["select_region"] = dim_region.get(unit.landsting_id).id
