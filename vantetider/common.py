@@ -5,7 +5,8 @@ from requests.exceptions import InvalidURL, RequestException
 import requests_cache
 from bs4 import BeautifulSoup
 
-requests_cache.install_cache()
+#requests_cache.install_cache()
+
 
 class Common(Common):
     @property
@@ -22,6 +23,10 @@ class Common(Common):
         """
         self.log.info(u"/GET " + url)
         r = requests.get(url)
+        if hasattr(r, 'from_cache'):
+            if r.from_cache:
+                self.log.info("(from cache)")
+
         if r.status_code != 200:
             throw_request_err(r)
 
@@ -40,8 +45,9 @@ class Common(Common):
         """
         self.log.info(u"/GET " + url)
         r = requests.get(url)
-        if r.from_cache:
-            self.log.info("(from cache)")
+        if hasattr(r, 'from_cache'):
+            if r.from_cache:
+                self.log.info("(from cache)")
         if r.status_code != 200:
             throw_request_err(r)
 
