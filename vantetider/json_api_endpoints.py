@@ -94,7 +94,7 @@ AJAX_API_ENDPOINTS = {
             "key": "Months",
         },
         "select_unit": {
-            "url": u"GetUnitsByLandstingAndServiceAndMatning/{select_region}/{select_period}%20{select_year}/0/2",
+            "url": u"GetUnitsByLandstingAndServiceAndMatning/{select_region}/{select_period}%20{select_year}/0",
             "url_requires": [ "select_region", "select_period", "select_year" ],
             "key": "Units",
             "attributes": UNIT_ATTRS,
