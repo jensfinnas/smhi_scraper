@@ -7,13 +7,6 @@ class Dataset(Item):
     """Represents a dataset.
         The enrty point for queries and downloads.
     """
-
-    @property
-    def label(self):
-        try:
-            return self._label
-        except AttributeError:
-            return self.id
     
     @property
     def dimensions(self):

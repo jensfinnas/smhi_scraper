@@ -36,8 +36,10 @@ class Dimension(Dimension, Common):
             if self.elem != None:
                 categories = self._categories_from_html()
             
+            """
             if self.id in AJAX_API_ENDPOINTS[self.dataset.id]:
                 categories.update(self._categories_from_file())
+            """
 
             assert len(categories.keys()) > 0
 
@@ -154,8 +156,52 @@ class Dimension(Dimension, Common):
 
         return categories
 
-    def _categories_from_ajax_api(self):
-        """ Fetches categories from ajax API based on settings
+    def _categories_from_ajax_api(self, **kwargs):
+        dataset = self.dataset
+        opts = AJAX_API_ENDPOINTS[dataset.id][self.id]
+        format_params = {}
+        categories = {}
+
+        if "url" in opts:
+            for dim_id in opts["url_requires"]:
+                try:
+                    format_params[dim_id] = kwargs[dim_id].id
+                except AttributeError:
+                    format_params[dim_id] = kwargs[dim_id]
+
+            url = AJAX_API_URL + opts["url"].format(**format_params)
+            try:
+                resp = self.get_json(url)
+            except RequestException500:
+                # Catch combinations of categories that don't exist
+                self.log.warning("{} returned 500.".format(url))
+                pass
+
+            # Eg. [{u'AntalLakare': None, u'Vardgivarkod': u'26010', u'UnitTypeNumber': 3, u'Vardgivarnamn': u'Visby lasarett', u'Disabled': False, u'UnitType': u'Specialiserad v\xe5rd', u'Telefonisystem': None, u'Regi': u'Offentlig', u'LandstingsKod': 26, u'HSAId': u'', u'Tidbok': None, u'id': 2929}]
+            for item in resp[opts["key"]]:
+                if isinstance(item, dict):
+                    cat = Category(unicode(item["id"]))
+                    for (their_attr, our_attr) in opts["attributes"]:
+                        value = item[their_attr]
+                        if is_string(value):
+                            value = value.strip()
+                        else:
+                            value = unicode(value)
+                        setattr(cat, our_attr, value)
+                else:
+                    if is_string(item):
+                        item = item.strip()
+                    cat = Category(item)
+
+                categories[cat.id] = cat
+        else:
+            raise NotImplementedError()
+
+        return categories
+ 
+    def __categories_from_ajax_api(self):
+        """ TO BE REMOVED
+            Fetches categories from ajax API based on settings
             in json_api_endpoints.py.
             Appends categories on the run with .add_category()
         """
@@ -195,7 +241,6 @@ class Dimension(Dimension, Common):
             json_data = default_list_dict()
             for url in urls:
                 try:
-
                     resp = self.get_json(url)
                 except RequestException500:
                     # Catch combinations of categories that don't exist
@@ -247,5 +292,19 @@ class Dimension(Dimension, Common):
                 categories[cat.id] = cat
 
         return categories
-        
+
+
+
+class AjaxDimension(Dimension):
+    _items = {}
+    
+    def get(self, id_or_label, **kwargs):
+        try:
+            return super(Dimension,self).get(id_or_label)
+        except KeyError:
+            categories = self._categories_from_ajax_api(**kwargs)
+            self._items.update(categories)
+            return super(Dimension,self).get(id_or_label)
+
+
 

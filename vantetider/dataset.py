@@ -1,7 +1,7 @@
 # encoding: utf-8
 from statscraper.dataset import Dataset 
 from vantetider.common import Common, RequestException404, RequestException500
-from vantetider.dimension import Dimension
+from vantetider.dimension import Dimension, AjaxDimension
 from vantetider.category import Category
 from vantetider.utils import (parse_value, parse_text, parse_landsting,
     guess_measure_unit, get_unique, flatten, to_list,
@@ -90,7 +90,11 @@ class Dataset(Dataset, Common):
             select_elems = form.find_all("select")
             for elem in select_elems:
                 dim_id = elem.get("name")
-                dim = Dimension(dim_id, self, element=elem)
+                if dim_id in ["select_unit", "select_services"]:
+                    # We can list the content of these dimensions only after query
+                    dim = AjaxDimension(dim_id, self, element=elem)
+                else:
+                    dim = Dimension(dim_id, self, element=elem)
                 dimensions[dim_id] = dim
                         
             # 2. Get checkboxes (gender, ownership)
@@ -132,7 +136,7 @@ class Dataset(Dataset, Common):
             dim.generate_dictionary()
                         
 
-    def _dimension_from_select(self, elem):
+    def _NOT_USED_dimension_from_select(self, elem):
         """ Take a select html elemet and parse it a dimension
             :param elem: a soup element
             :returns (Dimension): a dimension (with categories)
@@ -207,6 +211,14 @@ class Dataset(Dataset, Common):
         params = kwargs
         only_region = kwargs.keys() == ["select_region"]
         NO_QUERY_DIMS = ["measure"]
+        # 
+        NOT_IMPLEMENTED_DIMS = ["select_unit", "select_services"]
+        
+        for dim_id in NOT_IMPLEMENTED_DIMS:
+            if dim_id in kwargs.keys():
+                msg = "Querying by {} is not implemented.".format(dim_id)
+                raise NotImplementedError(msg)
+
         query_keys = [x.id for x in self.dimensions if x.id not in NO_QUERY_DIMS]
         
         queries = []
@@ -273,10 +285,12 @@ class Dataset(Dataset, Common):
             if region_or_unit_id is None:
                 region_or_unit_id = region_or_unit_label
             try:
+                # Row contains region
                 region = dim_region.get(region_or_unit_id)
                 row["select_region"] = region.id
             except KeyError:
-                unit = self.get("select_unit").get(region_or_unit_id)
+                # Row contains unit
+                unit = self.get("select_unit").get(region_or_unit_id, **current_selection)
                 row["select_unit"] = unit.id
                 try:
                     row["select_region"] = dim_region.get(unit.landsting_id).id

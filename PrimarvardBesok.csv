@@ -1,0 +1,1384 @@
+,checkbox_female,checkbox_male,checkbox_regi_private,checkbox_regi_public,measure,select_booking_type,select_number_of_doctors,select_period,select_region,select_unit,select_year,value
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,89.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,205244.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,229825.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,85.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,16270.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,19100.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,87.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,42745.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,49272.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,90.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,49365.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,54564.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,88.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,18164.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,20705.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,93.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,40407.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,43521.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,90.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,38293.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,42663.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2016,89.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2016,3321.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2016,3739.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2016,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2016,5589.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2016,6762.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2016,90.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2016,1299.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2016,1444.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2016,92.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2016,8150.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2016,8895.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2016,88.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2016,6984.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2016,7947.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2016,82.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2016,2638.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2016,3220.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2016,89.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2016,7412.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2016,8364.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2016,82.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2016,4609.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2016,5633.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2016,86.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2016,4200.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2016,4887.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2016,90.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2016,5238.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2016,5815.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2016,91.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2016,23788.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2016,26090.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2016,90.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2016,48066.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2016,53120.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2016,88.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2016,5745.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2016,6515.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2016,86.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2016,6813.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2016,7881.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2016,90.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2016,4795.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2016,5346.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2016,87.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2016,4119.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2016,4750.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2016,80.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2016,4275.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2016,5315.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2016,82.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2016,5532.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2016,6753.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2016,93.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2016,40407.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2016,43521.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2016,86.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2016,6121.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2016,7120.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2016,92.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2016,6143.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2016,6708.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,90.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,207397.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,230023.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,86.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,16257.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,18944.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,88.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,44937.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,51131.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,93.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,47778.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,51590.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,89.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,18882.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,21285.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,92.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,39522.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,42734.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,90.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,40021.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2015,44339.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2015,86.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2015,3206.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2015,3711.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2015,84.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2015,5374.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2015,6402.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2015,88.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2015,1162.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2015,1319.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2015,91.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2015,9523.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2015,10482.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2015,90.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2015,7548.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2015,8381.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2015,83.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2015,2552.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2015,3060.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2015,91.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2015,7211.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2015,7947.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2015,84.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2015,5281.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2015,6282.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2015,88.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2015,4024.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2015,4574.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2015,91.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2015,4880.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2015,5336.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2015,91.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2015,25243.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2015,27673.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2015,93.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2015,46616.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2015,50271.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2015,91.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2015,5640.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2015,6194.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2015,88.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2015,6912.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2015,7885.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2015,91.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2015,5679.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2015,6219.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2015,87.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2015,4754.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2015,5456.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2015,80.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2015,4071.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2015,5092.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2015,85.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2015,5762.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2015,6795.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2015,92.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2015,39522.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2015,42734.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2015,85.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2015,6047.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2015,7154.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2015,91.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2015,6390.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2015,7056.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,91.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,229194.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,250662.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,87.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,17940.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,20620.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,88.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,46931.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,53067.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,94.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,59877.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,63438.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,93.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,20627.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,22153.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,93.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,41396.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,44594.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,91.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,42423.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2014,46790.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2014,94.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2014,4095.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2014,4366.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2014,81.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2014,5446.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2014,6704.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2014,91.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2014,1491.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2014,1631.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2014,92.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2014,9804.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2014,10684.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2014,91.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2014,8563.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2014,9373.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2014,86.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2014,2584.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2014,3016.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2014,92.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2014,7460.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2014,8153.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2014,96.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2014,6167.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2014,6425.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2014,91.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2014,4441.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2014,4876.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2014,91.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2014,5270.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2014,5802.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2014,90.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2014,25324.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2014,28175.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2014,94.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2014,58386.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2014,61807.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2014,90.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2014,5941.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2014,6572.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2014,88.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2014,6921.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2014,7871.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2014,91.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2014,5820.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2014,6381.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2014,90.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2014,5422.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2014,6049.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2014,81.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2014,4664.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2014,5753.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2014,90.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2014,7122.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2014,7928.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2014,93.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2014,41396.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2014,44594.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2014,85.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2014,5877.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2014,6927.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2014,92.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2014,7000.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2014,7575.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,N/A
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2016,
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,92.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,196381.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,214004.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,90.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,18458.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,20475.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,88.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,34686.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,39495.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,93.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,49104.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,52838.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,91.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,19840.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,21880.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,94.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,36802.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,39050.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,93.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,37491.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2009,40266.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2009,94.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2009,3095.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2009,3291.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2009,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2009,5128.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2009,6162.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2009,91.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2009,1268.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2009,1401.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2009,90.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2009,6479.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2009,7210.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2009,98.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2009,6856.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2009,7000.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2009,89.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2009,2938.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2009,3313.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2009,88.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2009,7315.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2009,8305.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2009,93.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2009,5787.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2009,6226.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2009,92.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2009,4855.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2009,5257.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2009,92.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2009,5249.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2009,5688.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2009,92.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2009,22685.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2009,24718.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2009,93.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2009,47836.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2009,51437.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2009,87.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2009,5376.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2009,6171.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2009,94.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2009,5387.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2009,5711.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2009,87.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2009,5181.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2009,5965.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2009,92.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2009,5090.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2009,5509.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2009,85.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2009,6586.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2009,7741.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2009,94.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2009,36802.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2009,39050.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2009,88.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2009,5730.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2009,6500.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2009,92.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2009,6738.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2009,7349.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,93.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,251314.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,268975.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,92.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,21409.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,23196.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,90.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,48707.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,53946.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,95.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,62435.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,65880.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,93.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,22217.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,23893.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,96.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,48897.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,51075.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,93.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,47649.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2011,50985.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2011,96.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2011,4371.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2011,4572.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2011,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2011,4713.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2011,5696.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2011,96.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2011,1599.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2011,1657.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2011,90.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2011,8964.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2011,10001.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2011,98.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2011,8947.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2011,9093.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2011,94.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2011,3092.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2011,3278.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2011,92.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2011,8274.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2011,9022.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2011,92.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2011,6446.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2011,7044.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2011,95.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2011,5361.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2011,5670.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2011,89.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2011,6581.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2011,7397.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2011,92.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2011,28970.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2011,31650.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2011,95.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2011,60836.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2011,64223.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2011,95.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2011,6486.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2011,6844.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2011,92.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2011,7276.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2011,7907.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2011,96.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2011,7368.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2011,7648.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2011,92.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2011,6246.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2011,6770.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2011,95.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2011,5490.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2011,5751.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2011,87.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2011,7209.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2011,8239.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2011,96.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2011,48897.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2011,51075.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2011,88.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2011,6691.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2011,7611.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2011,96.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2011,7497.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2011,7827.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,92.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,234062.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,253973.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,89.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,20627.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,23094.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,90.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,46020.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,51341.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,93.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,52941.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,56699.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,90.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,20920.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,23157.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,95.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,45619.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,48206.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,93.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,47935.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2010,51476.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2010,96.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2010,4837.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2010,5058.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2010,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2010,4674.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2010,5613.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2010,96.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2010,1403.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2010,1459.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2010,89.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2010,7535.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2010,8492.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2010,97.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2010,8936.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2010,9189.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2010,90.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2010,2927.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2010,3251.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2010,85.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2010,7966.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2010,9422.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2010,93.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2010,5759.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2010,6191.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2010,92.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2010,5136.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2010,5590.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2010,85.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2010,6521.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2010,7660.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2010,92.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2010,29026.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2010,31639.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2010,93.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2010,51538.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2010,55240.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2010,93.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2010,7139.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2010,7671.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2010,89.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2010,5872.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2010,6585.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2010,96.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2010,7549.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2010,7857.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2010,90.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2010,5908.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2010,6569.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2010,94.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2010,5271.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2010,5614.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2010,88.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2010,7179.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2010,8190.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2010,95.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2010,45619.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2010,48206.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2010,88.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2010,6072.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2010,6933.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2010,95.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2010,7195.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2010,7544.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,93.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,225647.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,243797.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,91.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,18235.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,20103.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,88.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,45716.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,52008.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,95.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,56950.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,60151.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,95.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,20433.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,21580.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,94.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,41810.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,44416.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,93.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,42503.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2013,45539.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2013,94.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2013,3901.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2013,4136.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2013,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2013,4403.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2013,5324.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2013,93.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2013,1601.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2013,1716.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2013,84.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2013,9623.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2013,11524.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2013,97.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2013,7849.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2013,8083.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2013,90.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2013,2511.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2013,2798.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2013,95.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2013,7363.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2013,7772.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2013,96.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2013,6203.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2013,6463.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2013,94.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2013,4787.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2013,5067.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2013,90.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2013,5672.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2013,6298.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2013,92.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2013,25966.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2013,28253.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2013,95.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2013,55349.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2013,58435.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2013,92.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2013,5889.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2013,6383.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2013,91.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2013,6704.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2013,7334.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2013,93.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2013,6208.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2013,6640.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2013,89.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2013,5202.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2013,5856.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2013,94.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2013,4850.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2013,5151.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2013,87.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2013,7033.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2013,8130.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2013,94.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2013,41810.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2013,44416.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2013,88.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2013,5856.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2013,6673.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2013,93.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2013,6867.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2013,7345.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,93.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,246206.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,264850.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,92.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,20480.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,22304.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,89.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,48601.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,54817.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,95.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,60793.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,64001.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,95.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,21619.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,22837.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,96.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,46939.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,48985.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,92.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,47774.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,1,Vårdcentral/motsv.,2012,51906.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2012,95.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2012,3965.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,27,Vårdcentral/motsv.,2012,4182.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2012,81.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2012,5206.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,57,Vårdcentral/motsv.,2012,6408.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2012,95.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2012,837.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,26,Vårdcentral/motsv.,2012,878.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2012,85.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2012,9657.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,61,Vårdcentral/motsv.,2012,11325.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2012,96.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2012,9319.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,42,Vårdcentral/motsv.,2012,9662.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2012,90.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2012,3152.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,63,Vårdcentral/motsv.,2012,3514.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2012,95.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2012,7780.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,22,Vårdcentral/motsv.,2012,8172.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2012,93.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2012,6315.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,24,Vårdcentral/motsv.,2012,6758.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2012,95.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2012,4884.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,23,Vårdcentral/motsv.,2012,5147.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2012,90.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2012,5870.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,65,Vårdcentral/motsv.,2012,6520.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2012,90.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2012,29606.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,41,Vårdcentral/motsv.,2012,32915.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2012,95.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2012,59956.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,10,Vårdcentral/motsv.,2012,63123.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2012,93.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2012,6356.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,13,Vårdcentral/motsv.,2012,6831.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2012,92.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2012,6885.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,12,Vårdcentral/motsv.,2012,7516.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2012,96.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2012,7032.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,54,Vårdcentral/motsv.,2012,7347.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2012,89.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2012,6056.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,64,Vårdcentral/motsv.,2012,6775.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2012,98.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2012,5402.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,62,Vårdcentral/motsv.,2012,5495.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2012,88.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2012,7525.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,56,Vårdcentral/motsv.,2012,8584.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2012,96.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2012,46939.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,51,Vårdcentral/motsv.,2012,48985.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2012,87.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2012,5940.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,55,Vårdcentral/motsv.,2012,6806.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2012,95.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2012,7524.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Hösten,21,Vårdcentral/motsv.,2012,7907.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,90.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,216893.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,241797.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,86.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,16930.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,19617.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,87.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,45181.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,51857.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,91.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,54610.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,60064.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,89.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,19022.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,21291.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,93.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,42712.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,45855.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,89.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,38438.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,43113.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2016,90.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2016,3164.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2016,3513.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2016,82.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2016,5424.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2016,6578.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2016,91.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2016,1394.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2016,1535.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2016,90.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2016,9224.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2016,10251.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2016,88.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2016,7574.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2016,8580.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2016,88.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2016,3393.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2016,3844.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2016,91.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2016,7581.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2016,8357.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2016,85.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2016,5377.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2016,6350.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2016,89.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2016,4136.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2016,4658.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2016,92.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2016,5308.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2016,5800.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2016,89.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2016,23564.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2016,26362.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2016,91.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2016,53216.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2016,58529.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2016,90.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2016,5912.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2016,6582.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2016,87.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2016,6913.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2016,7990.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2016,88.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2016,5081.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2016,5763.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2016,85.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2016,4180.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2016,4915.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2016,80.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2016,4049.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2016,5058.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2016,85.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2016,6076.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2016,7136.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2016,93.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2016,42712.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2016,45855.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2016,87.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2016,6551.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2016,7557.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2016,92.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2016,6064.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2016,6584.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,90.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,246430.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,272886.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,88.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,18970.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,21588.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,89.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,49056.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,55231.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,90.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,69668.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,77583.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,90.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,20366.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,22598.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,93.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,43834.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,46977.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,91.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,44536.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2015,48909.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2015,91.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2015,3944.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2015,4318.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2015,81.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2015,5650.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2015,6974.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2015,92.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2015,1497.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2015,1622.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2015,93.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2015,10257.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2015,11045.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2015,92.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2015,8591.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2015,9379.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2015,90.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2015,4094.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2015,4572.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2015,91.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2015,7945.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2015,8697.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2015,86.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2015,5387.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2015,6280.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2015,93.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2015,5138.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2015,5528.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2015,92.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2015,5527.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2015,6005.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2015,90.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2015,26863.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2015,29684.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2015,90.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2015,68171.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2015,75961.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2015,90.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2015,5984.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2015,6657.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2015,90.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2015,7250.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2015,8032.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2015,93.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2015,6315.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2015,6817.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2015,87.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2015,4728.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2015,5420.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2015,83.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2015,4621.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2015,5591.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2015,87.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2015,7242.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2015,8280.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2015,93.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2015,43834.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2015,46977.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2015,86.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2015,6358.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2015,7426.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2015,92.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2015,7034.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2015,7621.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,92.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,240640.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,261147.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,92.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,19038.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,20722.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,89.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,47123.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,52872.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,93.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,58677.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,63290.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,95.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,21400.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,22494.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,94.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,42052.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,44717.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,92.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,52350.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2014,57052.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2014,95.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2014,4172.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2014,4387.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2014,79.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2014,5170.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2014,6533.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2014,90.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2014,1518.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2014,1694.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2014,91.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2014,9192.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2014,10098.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2014,89.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2014,15707.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2014,17554.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2014,92.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2014,3425.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2014,3724.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2014,94.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2014,7748.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2014,8251.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2014,97.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2014,6296.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2014,6487.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2014,93.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2014,4599.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2014,4962.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2014,92.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2014,5544.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2014,6042.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2014,92.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2014,27872.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2014,30149.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2014,93.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2014,57159.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2014,61596.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2014,93.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2014,6302.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2014,6742.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2014,90.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2014,7347.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2014,8128.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2014,93.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2014,5317.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2014,5720.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2014,90.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2014,5357.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2014,5971.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2014,95.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2014,4712.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2014,4985.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2014,90.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2014,7421.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2014,8289.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2014,94.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2014,42052.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2014,44717.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2014,87.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2014,6374.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2014,7362.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2014,95.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2014,7356.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2014,7756.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,N/A
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2016,
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,91.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,224051.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,245512.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,89.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,19005.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,21368.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,88.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,44820.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,50918.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,93.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,57485.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,61949.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,93.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,24509.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,26481.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,94.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,36229.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,38679.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,91.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,42003.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2009,46117.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2009,92.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2009,4036.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2009,4396.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2009,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2009,5391.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2009,6485.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2009,92.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2009,1708.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2009,1856.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2009,90.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2009,7860.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2009,8716.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2009,95.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2009,8262.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2009,8652.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2009,89.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2009,3652.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2009,4108.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2009,91.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2009,8476.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2009,9302.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2009,95.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2009,6349.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2009,6686.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2009,93.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2009,4361.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2009,4690.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2009,91.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2009,5335.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2009,5888.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2009,89.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2009,25344.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2009,28379.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2009,93.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2009,55777.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2009,60093.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2009,88.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2009,5583.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2009,6374.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2009,88.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2009,6184.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2009,7027.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2009,92.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2009,6677.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2009,7237.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2009,87.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2009,5306.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2009,6099.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2009,89.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2009,4712.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2009,5273.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2009,86.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2009,7270.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2009,8442.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2009,94.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2009,36229.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2009,38679.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2009,88.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2009,5855.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2009,6637.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2009,92.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2009,9684.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2009,10493.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,93.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,259335.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,278753.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,92.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,21936.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,23780.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,90.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,57134.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,63244.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,94.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,58185.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,61930.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,94.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,21831.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,23304.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,95.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,48687.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,51167.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,93.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,51562.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2011,55328.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2011,95.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2011,4658.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2011,4894.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2011,85.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2011,5507.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2011,6473.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2011,95.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2011,1442.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2011,1515.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2011,89.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2011,8273.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2011,9332.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2011,98.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2011,9528.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2011,9737.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2011,93.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2011,3510.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2011,3765.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2011,92.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2011,8327.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2011,9079.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2011,94.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2011,6707.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2011,7143.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2011,93.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2011,5830.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2011,6292.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2011,88.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2011,6464.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2011,7309.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2011,92.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2011,31546.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2011,34405.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2011,94.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2011,56743.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2011,60415.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2011,94.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2011,14983.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2011,16013.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2011,92.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2011,6647.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2011,7255.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2011,95.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2011,7707.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2011,8150.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2011,93.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2011,5527.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2011,5939.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2011,95.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2011,6435.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2011,6767.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2011,88.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2011,7474.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2011,8460.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2011,95.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2011,48687.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2011,51167.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2011,87.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2011,6543.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2011,7561.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2011,96.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2011,6797.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2011,7082.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,92.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,236337.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,256558.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,90.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,24073.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,26627.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,89.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,46471.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,52464.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,94.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,55751.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,59399.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,92.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,19039.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,20583.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,95.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,43783.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,46136.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,92.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,47220.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2010,51349.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2010,94.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2010,3999.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2010,4275.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2010,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2010,5889.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2010,7086.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2010,96.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2010,1635.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2010,1699.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2010,89.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2010,8151.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2010,9182.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2010,97.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2010,8483.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2010,8719.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2010,93.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2010,4380.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2010,4711.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2010,90.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2010,8240.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2010,9174.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2010,94.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2010,6802.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2010,7242.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2010,94.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2010,5445.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2010,5805.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2010,86.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2010,7215.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2010,8346.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2010,90.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2010,29293.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2010,32550.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2010,94.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2010,54116.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2010,57700.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2010,91.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2010,6815.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2010,7485.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2010,85.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2010,6954.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2010,8167.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2010,95.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2010,6673.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2010,7027.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2010,91.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2010,6179.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2010,6809.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2010,93.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2010,6299.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2010,6761.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2010,87.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2010,7331.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2010,8473.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2010,95.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2010,43783.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2010,46136.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2010,92.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2010,4658.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2010,5044.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2010,96.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2010,3997.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2010,4167.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,93.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,246971.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,264269.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,93.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,21230.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,22761.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,89.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,51064.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,57236.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,95.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,57993.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,61148.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,95.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,22565.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,23799.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,95.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,46879.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,49228.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,94.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,47240.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2013,50097.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2013,95.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2013,4288.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2013,4525.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2013,80.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2013,4140.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2013,5147.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2013,98.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2013,1078.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2013,1098.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2013,85.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2013,11607.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2013,13727.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2013,98.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2013,8889.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2013,9078.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2013,92.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2013,3808.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2013,4118.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2013,95.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2013,8169.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2013,8600.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2013,96.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2013,6597.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2013,6869.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2013,96.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2013,4833.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2013,5060.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2013,91.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2013,5950.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2013,6521.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2013,93.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2013,29230.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2013,31434.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2013,95.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2013,56915.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2013,60050.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2013,93.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2013,6718.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2013,7200.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2013,93.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2013,7418.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2013,7981.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2013,97.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2013,7207.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2013,7449.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2013,92.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2013,5954.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2013,6461.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2013,97.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2013,5518.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2013,5661.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2013,90.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2013,7752.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2013,8626.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2013,95.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2013,46879.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2013,49228.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2013,88.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2013,6222.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2013,7106.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2013,94.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2013,7799.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2013,8330.0
+0,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,93.0
+1,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,249923.0
+2,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,268978.0
+3,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,92.0
+4,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,22318.0
+5,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,24256.0
+6,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,89.0
+7,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,50629.0
+8,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,57047.0
+9,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,95.0
+10,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,56444.0
+11,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,59629.0
+12,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,95.0
+13,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,22988.0
+14,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,24229.0
+15,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,95.0
+16,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,49248.0
+17,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,51650.0
+18,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,93.0
+19,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,48296.0
+20,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,1,Vårdcentral/motsv.,2012,52167.0
+21,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2012,95.0
+22,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2012,4441.0
+23,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,27,Vårdcentral/motsv.,2012,4697.0
+24,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2012,83.0
+25,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2012,5691.0
+26,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,57,Vårdcentral/motsv.,2012,6890.0
+27,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2012,96.0
+28,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2012,1287.0
+29,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,26,Vårdcentral/motsv.,2012,1343.0
+30,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2012,85.0
+31,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2012,9382.0
+32,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,61,Vårdcentral/motsv.,2012,11013.0
+33,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2012,98.0
+34,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2012,8700.0
+35,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,42,Vårdcentral/motsv.,2012,8887.0
+36,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2012,90.0
+37,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2012,3968.0
+38,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,63,Vårdcentral/motsv.,2012,4413.0
+39,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2012,95.0
+40,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2012,8624.0
+41,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,22,Vårdcentral/motsv.,2012,9094.0
+42,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2012,94.0
+43,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2012,6555.0
+44,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,24,Vårdcentral/motsv.,2012,6939.0
+45,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2012,96.0
+46,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2012,5382.0
+47,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,23,Vårdcentral/motsv.,2012,5617.0
+48,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2012,89.0
+49,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2012,6239.0
+50,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,65,Vårdcentral/motsv.,2012,6979.0
+51,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2012,90.0
+52,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2012,29773.0
+53,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,41,Vårdcentral/motsv.,2012,32966.0
+54,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2012,95.0
+55,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2012,55157.0
+56,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,10,Vårdcentral/motsv.,2012,58286.0
+57,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2012,94.0
+58,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2012,6653.0
+59,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,13,Vårdcentral/motsv.,2012,7059.0
+60,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2012,91.0
+61,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2012,7458.0
+62,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,12,Vårdcentral/motsv.,2012,8235.0
+63,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2012,95.0
+64,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2012,7271.0
+65,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,54,Vårdcentral/motsv.,2012,7644.0
+66,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2012,92.0
+67,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2012,6488.0
+68,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,64,Vårdcentral/motsv.,2012,7058.0
+69,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2012,97.0
+70,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2012,5623.0
+71,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,62,Vårdcentral/motsv.,2012,5806.0
+72,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2012,87.0
+73,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2012,7494.0
+74,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,56,Vårdcentral/motsv.,2012,8649.0
+75,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2012,95.0
+76,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2012,49248.0
+77,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,51,Vårdcentral/motsv.,2012,51650.0
+78,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2012,88.0
+79,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2012,6680.0
+80,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,55,Vårdcentral/motsv.,2012,7557.0
+81,True,True,True,True,Måluppfyllelse vårdgarantin (Andel Besök inom 7 dagar),Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2012,95.0
+82,True,True,True,True,Antal Besök inom 7 dagar,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2012,7809.0
+83,True,True,True,True,Totalt antal besök,Alla tider,Alla antal läkare,Våren,21,Vårdcentral/motsv.,2012,8196.0

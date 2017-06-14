@@ -1,12 +1,17 @@
 # encoding: utf-8
 import pandas as pd
+from statscraper.common import Item
 
-class ResultSet(object):
+class ResultSet(Item):
     """docstring for ResultSet"""
     def __init__(self, dictlist, dataset):
         self._data = dictlist
         self.dataset = dataset
 
+    @property
+    def items(self):
+        return self.dataset.items
+    
     def data(self, content="index"):
         if content == "index":
             return self._data
